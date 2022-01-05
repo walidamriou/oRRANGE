@@ -83,7 +83,11 @@
         </head>
         <script>
         var data;
-        function readJsonFile(file, callback) {
+        var data_length
+        var random_sentence_id
+        var word=''
+
+         function readJsonFile(file, callback) {
             var rawFile = new XMLHttpRequest();
             rawFile.overrideMimeType("application/json");
             rawFile.open("GET", file, true);
@@ -94,69 +98,73 @@
             }
             rawFile.send(null);
         }
+
         readJsonFile("https://orrange.walidamriou.com/assets/data/orrange_data.json", function(text){
-            data = JSON.parse(text);
-            console.log(data);
-        });
-
-            $(function () {
-                $("#wordblock").sortable();
-                $("#wordblock").disableSelection();
+        data = JSON.parse(text);
+        console.log(data);
+        data_length = data.length;
+        random_sentence_id =  Math.floor(Math.random()*data_length)
+        word = data[random_sentence_id].SENTENCE;
 
 
-                const word = 'example examplo exampli';
-                let d_word = word.split(' ');
-                console.log(d_word)
-                shuffle(d_word);
-                console.log(d_word)
-
-                const lis = [];
-                var colors = ['#ff0000', '#00ff00', '#0000ff'];
-                var random_color = colors[Math.floor(Math.random() * colors.length)];
-                for (let i = 0; i < d_word.length; i++) {
-                    lis.push('<li class="ui-state-default" style="background-color:random_color">' + d_word[i] +
+        $( function () {
+            $("#wordblock").sortable();
+            $("#wordblock").disableSelection();
+            let d_word = word.split(' ');
+            console.log(d_word)
+            shuffle(d_word);
+            console.log(d_word)
+            const lis = [];
+            var colors = ['#ff0000', '#00ff00', '#0000ff'];
+            var random_color = colors[Math.floor(Math.random() * colors.length)];
+            for (let i = 0; i < d_word.length; i++) {
+                lis.push('<li class="ui-state-default" style="background-color:random_color">' + d_word[i] +
                         '</li>')
-                }
-                console.log(lis)
-                $('#wordblock').html(lis.join(''));
-
-                $('#wordblock').mouseup(function () {
-                    setTimeout(() => {
-                        let r_word_b = '';
-                        $('#wordblock>li').each(function (e) {
-                            r_word_b += $(this).text();
-                            r_word_b += ' ';
-                        });
-                        let r_word = r_word_b.trim();
-                        console.log(r_word)
-                        if (r_word == word) {
-                            // Correct, you found it
-                            document.getElementById("Correct_text").innerHTML = "Correct";
-                        } else {
-                            // Try again
-                        }
-                    }, 0);
+            }
+            console.log(lis)
+            $('#wordblock').html(lis.join(''));
+            $('#wordblock').mouseup(function () {
+            setTimeout(() => {
+                let r_word_b = '';
+                $('#wordblock>li').each(function (e) {
+                    r_word_b += $(this).text();
+                    r_word_b += ' ';
                 });
-
+                let r_word = r_word_b.trim();
+                console.log(r_word)
+                if (r_word == word) {
+                    // Correct, you found it
+                    document.getElementById("Correct_text").innerHTML = "Correct";
+                    } 
+                    else {
+                    // Try again
+                    }
+                }, 0);
             });
 
-            function shuffle(a, b, c, d) {
-                c = a.length;
-                while (c) b = Math.random() * (--c + 1) | 0, d = a[c], a[c] = a[b], a[b] = d
-            }
+        });
+
+        function shuffle(a, b, c, d) {
+            c = a.length;
+            while (c) b = Math.random() * (--c + 1) | 0, d = a[c], a[c] = a[b], a[b] = d
+        }
+        });
+
+
+       
         </script>
 
         <main role="main">
             <section class="ui-section-hero slategray h-5">
                 <div class="ui-layout-container">
-                    <div class="ui-layout-column-6 ui-layout-column-center">
+                    <div class="ui-layout-column-10 ui-layout-column-center">
                         <h4>
                             <br/>
                             Make Sentences to Learn a language
                         </h4>
                         <br />
                         <div
-                            style="background-color: rgb(216, 216, 216);border-radius:50px;margin: 50px;padding: 50px;">
+                            style="background-color: rgb(216, 216, 216);border-radius:50px;margin: 10px;padding: 90px;height: auto;auto;">
                             <ul id="wordblock"></ul>
 
                             <p id="Correct_text"></p>
@@ -167,7 +175,7 @@
                                 class="ui-component-button ui-component-button-normal ui-component-button-primary"
                                 style="margin: 10px;">
                                 Correct </a>
-                            <a href="#" role="link"
+                            <a href="/" role="link"
                                 aria-label="#"
                                 class="ui-component-button ui-component-button-normal ui-component-button-primary"
                                 style="background-color: blue;margin: 10px;">
