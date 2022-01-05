@@ -23,5 +23,81 @@
         "ID": 5,
         "Type": 2,
         "SENTENCE": "Can you Show me on the map, please?"
+    },
+    {
+        "ID": 6,
+        "Type": 2,
+        "SENTENCE": "I’m looking for this address."
+    },
+    {
+        "ID": 7,
+        "Type": 2,
+        "SENTENCE": "How do I find this thing?"
+    },
+    {
+        "ID": 8,
+        "Type": 2,
+        "SENTENCE": "Excuse me, How can I go to Algeria?"
+    },
+    {
+        "ID": 9,
+        "Type": 2,
+        "SENTENCE": "Dou you have a map?"
+    },
+    {
+        "ID": 10,
+        "Type": 2,
+        "SENTENCE": "Are you from around here?"
+    },
+    {
+        "ID": 11,
+        "Type": 2,
+        "SENTENCE": "Where is your mouse?"
+    },
+    {
+        "ID": 12,
+        "Type": 2,
+        "SENTENCE": "Which the best way to write a book"
+    },
+    {
+        "ID": 13,
+        "Type": 2,
+        "SENTENCE": "How can we get to High Park?"
+    },
+    {
+        "ID": 14,
+        "Type": 2,
+        "SENTENCE": "Is it far?"
+    },
+    {
+        "ID": 15,
+        "Type": 2,
+        "SENTENCE": "Excuse me, could you tell me how to get to the bus station?"
+    },
+    {
+        "ID": 16,
+        "Type": 2,
+        "SENTENCE": "You will pass a süpermarket on your left"
+    },
+    {
+        "ID": 17,
+        "Type": 2,
+        "SENTENCE": "Take this road"
+    },
+    {
+        "ID": 18,
+        "Type": 2,
+        "SENTENCE": "Turn right at the crossroads"
+    },
+    {
+        "ID": 19,
+        "Type": 2,
+        "SENTENCE": "It’s about 100 meters from here"
+    },
+    {
+        "ID": 20,
+        "Type": 2,
+        "SENTENCE": "Take the first road on the right"
     }
+
 ]
