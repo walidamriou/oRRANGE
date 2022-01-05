@@ -150,7 +150,10 @@
         });
 
 
-       
+       function currectanswer(){
+        document.getElementById("Correct_text").innerHTML = "The Correct answer is: <br/> "+word;
+        document.getElementById("Correct_text").style = "color:--ui-color-brand";
+       }
         </script>
 
         <main role="main">
@@ -173,7 +176,7 @@
                         <p class="ui-text-note"><small>Drag and arrange the words to create the sentences</small></p>
                         <br />
                         <div class=" ui-layout-flex" style="white-space: nowrap; ">
-                            <a href="#"  role="link" aria-label="#"
+                            <a onclick = "currectanswer()"  role="link" aria-label="#"
                                 class="ui-component-button ui-component-button-normal ui-component-button-primary"
                                 style="margin: 10px;">
                                 Correct </a>
