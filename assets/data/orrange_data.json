@@ -103,5 +103,40 @@
         "ID": 21,
         "Type": 1,
         "SENTENCE": "Take the second road on the left"
+    },
+    {
+        "ID": 22,
+        "Type": 1,
+        "SENTENCE": "My body says yes, but my heart say no."
+    },
+    {
+        "ID": 23,
+        "Type": 1,
+        "SENTENCE": "Maybe another time."
+    },
+    {
+        "ID": 24,
+        "Type": 1,
+        "SENTENCE": "I am not accepting anything else at this time."
+    },
+    {
+        "ID": 25,
+        "Type": 1,
+        "SENTENCE": "I’m not really into it, but thanks for asking!"
+    },
+    {
+        "ID": 26,
+        "Type": 1,
+        "SENTENCE": "That’s not going to work for me."
+    },
+    {
+        "ID": 27,
+        "Type": 1,
+        "SENTENCE": "Sounds fun, but I’m not available."
+    },
+    {
+        "ID": 28,
+        "Type": 1,
+        "SENTENCE": "I want to, but I’m unable to."
     }
 ]
