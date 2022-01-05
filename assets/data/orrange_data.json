@@ -26,7 +26,7 @@
     },
     {
         "ID": 6,
-        "Type": 2,
+        "Type": 1,
         "SENTENCE": "I’m looking for this address."
     },
     {
@@ -56,7 +56,7 @@
     },
     {
         "ID": 12,
-        "Type": 2,
+        "Type": 1,
         "SENTENCE": "Which the best way to write a book"
     },
     {
@@ -76,28 +76,32 @@
     },
     {
         "ID": 16,
-        "Type": 2,
+        "Type": 1,
         "SENTENCE": "You will pass a süpermarket on your left"
     },
     {
         "ID": 17,
-        "Type": 2,
+        "Type": 1,
         "SENTENCE": "Take this road"
     },
     {
         "ID": 18,
-        "Type": 2,
+        "Type": 1,
         "SENTENCE": "Turn right at the crossroads"
     },
     {
         "ID": 19,
-        "Type": 2,
+        "Type": 1,
         "SENTENCE": "It’s about 100 meters from here"
     },
     {
         "ID": 20,
-        "Type": 2,
+        "Type": 1,
         "SENTENCE": "Take the first road on the right"
+    },
+    {
+        "ID": 21,
+        "Type": 1,
+        "SENTENCE": "Take the second road on the left"
     }
-
 ]
