@@ -115,10 +115,9 @@
             shuffle(d_word);
             console.log(d_word)
             const lis = [];
-            var colors = ['#ff0000', '#00ff00', '#0000ff'];
-            var random_color = colors[Math.floor(Math.random() * colors.length)];
+
             for (let i = 0; i < d_word.length; i++) {
-                lis.push('<li class="ui-state-default" style="background-color:random_color">' + d_word[i] +
+                lis.push('<li class="ui-state-default">' + d_word[i] +
                         '</li>')
             }
             console.log(lis)
