@@ -1,0 +1,27 @@
+[
+    {
+        "ID": 1,
+        "Type": 2, 
+        "SENTENCE": "How do I get to library?"
+    },
+    {
+        "ID": 2,
+        "Type": 2,
+        "SENTENCE": "Where is the nearest post office?"
+    },
+    {
+        "ID": 3,
+        "Type": 2,
+        "SENTENCE": "Can you tell me the way to the Big Hotel?"
+    },
+    {
+        "ID": 4,
+        "Type": 2,
+        "SENTENCE": "Are we on the right road for London?"
+    },
+    {
+        "ID": 5,
+        "Type": 2,
+        "SENTENCE": "Can you Show me on the map, please?"
+    },
+]
