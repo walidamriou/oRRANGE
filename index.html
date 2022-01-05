@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- META -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Orrange | Make Sentences to Learn a language.">
+    <meta name="author" content="walidamriou">
+    <meta name="referrer" content="unsafe-url">
+    <meta name="robots" content="index, follow">
+    <!-- SPEED -->
+    <link rel="preconnect" href="https://res.cloudinary.com">
+    <link rel="dns-prefetch" href="https://res.cloudinary.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+    <!-- LINK -->
+    <link rel="me" href="#">
+    <link rel="canonical" href="#">
+    <link rel="icon" type="image/png" href="#" sizes="48x48">
+    <!-- PERFORMANCE -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap">
+    <link rel="preload" as="style" href="style.css">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css" rel="stylesheet">
+    <!-- TITLE -->
+    <title>Orrange</title>
+</head>
+
+<body>
+    <header role="banner" class="ui-section-header">
+        <div class="ui-layout-container">
+            <div class="ui-section-header__layout ui-layout-flex">
+                <!-- LOGO -->
+                <a href="#" role="link" aria-label="#">
+                    <b>oRRANGE</b>
+                </a>
+
+                <!-- MENU -->
+                <a href="#contact" role="link" aria-label="#"
+                    class="ui-component-button ui-component-button-small ui-component-button-primary">
+                    English
+                </a>
+            </div>
+        </div>
+        <link rel="stylesheet" href="css/styles.css?v=1.0">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js"></script>
+
+        <style>
+            #wordblock {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+
+                /* prevent text selection */
+                -webkit-touch-callout: none;
+                -webkit-user-select: none;
+                -khtml-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+            }
+
+
+            #wordblock li {
+                margin: 3px 3px 3px 0;
+                padding: 5px;
+                width: auto;
+                float: left;
+                font-size: 16px;
+                text-align: center;
+                cursor: pointer;
+                font-family: arial;
+                background-color: rgba(45, 45, 45, 0.858);
+                color: white;
+                border-radius: 10px;
+            }
+        </style>
+        </head>
+        <script>
+            $(function () {
+                $("#wordblock").sortable();
+                $("#wordblock").disableSelection();
+
+
+                const word = 'example examplo exampli';
+                let d_word = word.split(' ');
+                console.log(d_word)
+                shuffle(d_word);
+                console.log(d_word)
+
+                const lis = [];
+                var colors = ['#ff0000', '#00ff00', '#0000ff'];
+                var random_color = colors[Math.floor(Math.random() * colors.length)];
+                for (let i = 0; i < d_word.length; i++) {
+                    lis.push('<li class="ui-state-default" style="background-color:random_color">' + d_word[i] +
+                        '</li>')
+                }
+                console.log(lis)
+                $('#wordblock').html(lis.join(''));
+
+                $('#wordblock').mouseup(function () {
+                    setTimeout(() => {
+                        let r_word_b = '';
+                        $('#wordblock>li').each(function (e) {
+                            r_word_b += $(this).text();
+                            r_word_b += ' ';
+                        });
+                        let r_word = r_word_b.trim();
+                        console.log(r_word)
+                        if (r_word == word) {
+                            // Correct, you found it
+                            document.getElementById("Correct_text").innerHTML = "Correct";
+                        } else {
+                            // Try again
+                        }
+                    }, 0);
+                });
+
+            });
+
+            function shuffle(a, b, c, d) {
+                c = a.length;
+                while (c) b = Math.random() * (--c + 1) | 0, d = a[c], a[c] = a[b], a[b] = d
+            }
+        </script>
+
+        <main role="main">
+            <section class="ui-section-hero slategray h-5">
+                <div class="ui-layout-container">
+                    <div class="ui-layout-column-6 ui-layout-column-center">
+                        <h3>
+                            <b>oRRANGE</b> 
+                            <br/>
+                            Make Sentences to Learn a language
+                        </h3>
+                        <br />
+                        <div
+                            style="background-color: rgb(216, 216, 216);border-radius:50px;margin: 50px;padding: 50px;">
+                            <ul id="wordblock"></ul>
+
+                            <p id="Correct_text"></p>
+                        </div>
+                        <br />
+                        <div class=" ui-layout-flex" style="white-space: nowrap; ">
+                            <a href="#"  role="link" aria-label="#"
+                                class="ui-component-button ui-component-button-normal ui-component-button-primary"
+                                style="margin: 10px;">
+                                Correct </a>
+                            <a href="#" role="link"
+                                aria-label="#"
+                                class="ui-component-button ui-component-button-normal ui-component-button-primary"
+                                style="background-color: blue;margin: 10px;">
+                                another sentence</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+
+        <footer role="contentinfo" class="ui-section-footer">
+            <div class="ui-layout-container">
+                <div class="ui-section-footer__layout ui-layout-flex">
+                    <!-- COPYRIGHT -->
+                    <p class="ui-section-footer--copyright ui-text-note"><small>Orrange &copy; 2021</small></p>
+                    <!-- MENU -->
+                    <nav role="navigation" class="ui-section-footer--nav ui-section-footer--menu ui-layout-flex">
+                        <a href="#" role="link" aria-label="#" class="ui-text-note"><small>About
+                                Project</small></a>
+                        <a href="#" role="link" aria-label="#" class="ui-text-note"><small>Contact</small></a>
+
+                    </nav>
+                    <!-- SOCIAL -->
+                    <nav role="navigation" class="ui-section-footer--nav ui-section-footer--social ui-layout-flex">
+
+                    </nav>
+                </div>
+            </div>
+        </footer>
+
+
+</body>
+
+</html>
