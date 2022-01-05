@@ -143,10 +143,5 @@
         "ID": 29,
         "Type": 1,
         "SENTENCE": "I just don’t have that to give right now."
-    },
-    {
-        "ID": 30,
-        "Type": 1,
-        "SENTENCE": "I’m not able to commit to that right now."
-    }   
+    }
 ]
