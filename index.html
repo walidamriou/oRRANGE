@@ -133,10 +133,10 @@
                 console.log(r_word)
                 if (r_word == word) {
                     // Correct, you found it
-                    document.getElementById("Correct_text").innerHTML = "<i class='bx bx-check'></i> Correct";
+                    document.getElementById("Correct_text").innerHTML = "<i class='bx bx-check'></i> Correct <br/> "+word;
                     } 
                     else {
-                    // Try again
+                        document.getElementById("Correct_text").innerHTML = " ";
                     }
                 }, 0);
             });
