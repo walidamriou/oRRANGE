@@ -1,147 +1,5672 @@
 [
-    {
-        "ID": 1,
-        "Type": 2, 
-        "SENTENCE": "How do I get to library?"
-    },
-    {
-        "ID": 2,
-        "Type": 2,
-        "SENTENCE": "Where is the nearest post office?"
-    },
-    {
-        "ID": 3,
-        "Type": 2,
-        "SENTENCE": "Can you tell me the way to the Big Hotel?"
-    },
-    {
-        "ID": 4,
-        "Type": 2,
-        "SENTENCE": "Are we on the right road for London?"
-    },
-    {
-        "ID": 5,
-        "Type": 2,
-        "SENTENCE": "Can you Show me on the map, please?"
-    },
-    {
-        "ID": 6,
-        "Type": 1,
-        "SENTENCE": "I’m looking for this address."
-    },
-    {
-        "ID": 7,
-        "Type": 2,
-        "SENTENCE": "How do I find this thing?"
-    },
-    {
-        "ID": 8,
-        "Type": 2,
-        "SENTENCE": "Excuse me, How can I go to Algeria?"
-    },
-    {
-        "ID": 9,
-        "Type": 2,
-        "SENTENCE": "Dou you have a map?"
-    },
-    {
-        "ID": 10,
-        "Type": 2,
-        "SENTENCE": "Are you from around here?"
-    },
-    {
-        "ID": 11,
-        "Type": 2,
-        "SENTENCE": "Where is your mouse?"
-    },
-    {
-        "ID": 12,
-        "Type": 1,
-        "SENTENCE": "Which the best way to write a book"
-    },
-    {
-        "ID": 13,
-        "Type": 2,
-        "SENTENCE": "How can we get to High Park?"
-    },
-    {
-        "ID": 14,
-        "Type": 2,
-        "SENTENCE": "Is it far?"
-    },
-    {
-        "ID": 15,
-        "Type": 2,
-        "SENTENCE": "Excuse me, could you tell me how to get to the bus station?"
-    },
-    {
-        "ID": 16,
-        "Type": 1,
-        "SENTENCE": "You will pass a süpermarket on your left"
-    },
-    {
-        "ID": 17,
-        "Type": 1,
-        "SENTENCE": "Take this road"
-    },
-    {
-        "ID": 18,
-        "Type": 1,
-        "SENTENCE": "Turn right at the crossroads"
-    },
-    {
-        "ID": 19,
-        "Type": 1,
-        "SENTENCE": "It’s about 100 meters from here"
-    },
-    {
-        "ID": 20,
-        "Type": 1,
-        "SENTENCE": "Take the first road on the right"
-    },
-    {
-        "ID": 21,
-        "Type": 1,
-        "SENTENCE": "Take the second road on the left"
-    },
-    {
-        "ID": 22,
-        "Type": 1,
-        "SENTENCE": "My body says yes, but my heart say no."
-    },
-    {
-        "ID": 23,
-        "Type": 1,
-        "SENTENCE": "Maybe another time."
-    },
-    {
-        "ID": 24,
-        "Type": 1,
-        "SENTENCE": "I am not accepting anything else at this time."
-    },
-    {
-        "ID": 25,
-        "Type": 1,
-        "SENTENCE": "I’m not really into it, but thanks for asking!"
-    },
-    {
-        "ID": 26,
-        "Type": 1,
-        "SENTENCE": "That’s not going to work for me."
-    },
-    {
-        "ID": 27,
-        "Type": 1,
-        "SENTENCE": "Sounds fun, but I’m not available."
-    },
-    {
-        "ID": 28,
-        "Type": 1,
-        "SENTENCE": "I want to, but I’m unable to."
-    },
-    {
-        "ID": 29,
-        "Type": 1,
-        "SENTENCE": "I just don’t have that to give right now."
-    }
+  {
+    "ID": 1276,
+    "Language": "eng",
+    "SENTENCE": "Let's try something."
+  },
+  {
+    "ID": 1277,
+    "Language": "eng",
+    "SENTENCE": "I have to go to sleep."
+  },
+  {
+    "ID": 1280,
+    "Language": "eng",
+    "SENTENCE": "Today is June 18th and it is Muiriel's birthday!"
+  },
+  {
+    "ID": 1282,
+    "Language": "eng",
+    "SENTENCE": "Muiriel is 20 now."
+  },
+  {
+    "ID": 1283,
+    "Language": "eng",
+    "SENTENCE": "The password is \"Muiriel\"."
+  },
+  {
+    "ID": 1284,
+    "Language": "eng",
+    "SENTENCE": "I will be back soon."
+  },
+  {
+    "ID": 1286,
+    "Language": "eng",
+    "SENTENCE": "I'm at a loss for words."
+  },
+  {
+    "ID": 1287,
+    "Language": "eng",
+    "SENTENCE": "This is never going to end."
+  },
+  {
+    "ID": 1288,
+    "Language": "eng",
+    "SENTENCE": "I just don't know what to say."
+  },
+  {
+    "ID": 1289,
+    "Language": "eng",
+    "SENTENCE": "That was an evil bunny."
+  },
+  {
+    "ID": 1290,
+    "Language": "eng",
+    "SENTENCE": "I was in the mountains."
+  },
+  {
+    "ID": 1291,
+    "Language": "eng",
+    "SENTENCE": "Is it a recent picture?"
+  },
+  {
+    "ID": 1292,
+    "Language": "eng",
+    "SENTENCE": "I don't know if I have the time."
+  },
+  {
+    "ID": 1294,
+    "Language": "eng",
+    "SENTENCE": "Education in this world disappoints me."
+  },
+  {
+    "ID": 1295,
+    "Language": "eng",
+    "SENTENCE": "You're in better shape than I am."
+  },
+  {
+    "ID": 1296,
+    "Language": "eng",
+    "SENTENCE": "You are in my way."
+  },
+  {
+    "ID": 1298,
+    "Language": "eng",
+    "SENTENCE": "This will cost €30."
+  },
+  {
+    "ID": 1299,
+    "Language": "eng",
+    "SENTENCE": "I make €100 a day."
+  },
+  {
+    "ID": 1300,
+    "Language": "eng",
+    "SENTENCE": "I may give up soon and just nap instead."
+  },
+  {
+    "ID": 1301,
+    "Language": "eng",
+    "SENTENCE": "It's because you don't want to be alone."
+  },
+  {
+    "ID": 1302,
+    "Language": "eng",
+    "SENTENCE": "That won't happen."
+  },
+  {
+    "ID": 1303,
+    "Language": "eng",
+    "SENTENCE": "Sometimes he can be a strange guy."
+  },
+  {
+    "ID": 1304,
+    "Language": "eng",
+    "SENTENCE": "I'll do my best not to disturb your studying."
+  },
+  {
+    "ID": 1305,
+    "Language": "eng",
+    "SENTENCE": "I can only wonder if this is the same for everyone else."
+  },
+  {
+    "ID": 1306,
+    "Language": "eng",
+    "SENTENCE": "I suppose it's different when you think about it over the long term."
+  },
+  {
+    "ID": 1308,
+    "Language": "eng",
+    "SENTENCE": "I miss you."
+  },
+  {
+    "ID": 1309,
+    "Language": "eng",
+    "SENTENCE": "I'll call them tomorrow when I come back."
+  },
+  {
+    "ID": 1310,
+    "Language": "eng",
+    "SENTENCE": "I always liked mysterious characters more."
+  },
+  {
+    "ID": 1311,
+    "Language": "eng",
+    "SENTENCE": "You should sleep."
+  },
+  {
+    "ID": 1312,
+    "Language": "eng",
+    "SENTENCE": "I'm going to go."
+  },
+  {
+    "ID": 1313,
+    "Language": "eng",
+    "SENTENCE": "I told them to send me another ticket."
+  },
+  {
+    "ID": 1314,
+    "Language": "eng",
+    "SENTENCE": "You're so impatient with me."
+  },
+  {
+    "ID": 1315,
+    "Language": "eng",
+    "SENTENCE": "I can't live that kind of life."
+  },
+  {
+    "ID": 1316,
+    "Language": "eng",
+    "SENTENCE": "I once wanted to be an astrophysicist."
+  },
+  {
+    "ID": 1317,
+    "Language": "eng",
+    "SENTENCE": "I never liked biology."
+  },
+  {
+    "ID": 1318,
+    "Language": "eng",
+    "SENTENCE": "The last person I told my idea to thought I was nuts."
+  },
+  {
+    "ID": 1319,
+    "Language": "eng",
+    "SENTENCE": "If the world weren't in the shape it is now, I could trust anyone."
+  },
+  {
+    "ID": 1320,
+    "Language": "eng",
+    "SENTENCE": "It is unfortunately true."
+  },
+  {
+    "ID": 1321,
+    "Language": "eng",
+    "SENTENCE": "They are too busy fighting against each other to care for common ideals."
+  },
+  {
+    "ID": 1322,
+    "Language": "eng",
+    "SENTENCE": "Most people think I'm crazy."
+  },
+  {
+    "ID": 1323,
+    "Language": "eng",
+    "SENTENCE": "No I'm not; you are!"
+  },
+  {
+    "ID": 1324,
+    "Language": "eng",
+    "SENTENCE": "That's MY line!"
+  },
+  {
+    "ID": 1325,
+    "Language": "eng",
+    "SENTENCE": "He's kicking me!"
+  },
+  {
+    "ID": 1326,
+    "Language": "eng",
+    "SENTENCE": "Are you sure?"
+  },
+  {
+    "ID": 1327,
+    "Language": "eng",
+    "SENTENCE": "Then there is a problem..."
+  },
+  {
+    "ID": 1328,
+    "Language": "eng",
+    "SENTENCE": "Oh, there's a butterfly!"
+  },
+  {
+    "ID": 1329,
+    "Language": "eng",
+    "SENTENCE": "Hurry up."
+  },
+  {
+    "ID": 1330,
+    "Language": "eng",
+    "SENTENCE": "It doesn't surprise me."
+  },
+  {
+    "ID": 1332,
+    "Language": "eng",
+    "SENTENCE": "For some reason I feel more alive at night."
+  },
+  {
+    "ID": 1333,
+    "Language": "eng",
+    "SENTENCE": "It depends on the context."
+  },
+  {
+    "ID": 1334,
+    "Language": "eng",
+    "SENTENCE": "Are you freaking kidding me?!"
+  },
+  {
+    "ID": 1335,
+    "Language": "eng",
+    "SENTENCE": "That's the stupidest thing I've ever said."
+  },
+  {
+    "ID": 1336,
+    "Language": "eng",
+    "SENTENCE": "I don't want to be lame; I want to be cool!!"
+  },
+  {
+    "ID": 1337,
+    "Language": "eng",
+    "SENTENCE": "When I grow up, I want to be a king."
+  },
+  {
+    "ID": 1338,
+    "Language": "eng",
+    "SENTENCE": "America is a lovely place to be, if you are here to earn money."
+  },
+  {
+    "ID": 1339,
+    "Language": "eng",
+    "SENTENCE": "I'm so fat."
+  },
+  {
+    "ID": 1340,
+    "Language": "eng",
+    "SENTENCE": "So what?"
+  },
+  {
+    "ID": 1341,
+    "Language": "eng",
+    "SENTENCE": "I'm gonna shoot him."
+  },
+  {
+    "ID": 1342,
+    "Language": "eng",
+    "SENTENCE": "I'm not a real fish, I'm just a mere plushy."
+  },
+  {
+    "ID": 1343,
+    "Language": "eng",
+    "SENTENCE": "I'm just saying!"
+  },
+  {
+    "ID": 1344,
+    "Language": "eng",
+    "SENTENCE": "That was probably what influenced their decision."
+  },
+  {
+    "ID": 1345,
+    "Language": "eng",
+    "SENTENCE": "I've always wondered what it'd be like to have siblings."
+  },
+  {
+    "ID": 1346,
+    "Language": "eng",
+    "SENTENCE": "This is what I would have said."
+  },
+  {
+    "ID": 1347,
+    "Language": "eng",
+    "SENTENCE": "It would take forever for me to explain everything."
+  },
+  {
+    "ID": 1348,
+    "Language": "eng",
+    "SENTENCE": "That's because you're a girl."
+  },
+  {
+    "ID": 1349,
+    "Language": "eng",
+    "SENTENCE": "Sometimes I can't help showing emotions."
+  },
+  {
+    "ID": 1350,
+    "Language": "eng",
+    "SENTENCE": "It's a word I'd like to find a substitute for."
+  },
+  {
+    "ID": 1351,
+    "Language": "eng",
+    "SENTENCE": "It would be something I'd have to program."
+  },
+  {
+    "ID": 1352,
+    "Language": "eng",
+    "SENTENCE": "I don't intend to be selfish."
+  },
+  {
+    "ID": 1353,
+    "Language": "eng",
+    "SENTENCE": "Let's consider the worst that could happen."
+  },
+  {
+    "ID": 1354,
+    "Language": "eng",
+    "SENTENCE": "How many close friends do you have?"
+  },
+  {
+    "ID": 1355,
+    "Language": "eng",
+    "SENTENCE": "I may be antisocial, but it doesn't mean I don't talk to people."
+  },
+  {
+    "ID": 1356,
+    "Language": "eng",
+    "SENTENCE": "This is always the way it has been."
+  },
+  {
+    "ID": 1357,
+    "Language": "eng",
+    "SENTENCE": "I think it is best not to be impolite."
+  },
+  {
+    "ID": 1358,
+    "Language": "eng",
+    "SENTENCE": "One can always find time."
+  },
+  {
+    "ID": 1359,
+    "Language": "eng",
+    "SENTENCE": "I'd be unhappy, but I wouldn't kill myself."
+  },
+  {
+    "ID": 1360,
+    "Language": "eng",
+    "SENTENCE": "Back in high school, I got up at 6 a.m. every morning."
+  },
+  {
+    "ID": 1361,
+    "Language": "eng",
+    "SENTENCE": "When I woke up, I was sad."
+  },
+  {
+    "ID": 1362,
+    "Language": "eng",
+    "SENTENCE": "That is somewhat explained at the end."
+  },
+  {
+    "ID": 1363,
+    "Language": "eng",
+    "SENTENCE": "I thought you liked to learn new things."
+  },
+  {
+    "ID": 1364,
+    "Language": "eng",
+    "SENTENCE": "Most people write about their daily life."
+  },
+  {
+    "ID": 1365,
+    "Language": "eng",
+    "SENTENCE": "If I could send you a marshmallow, Trang, I would."
+  },
+  {
+    "ID": 1366,
+    "Language": "eng",
+    "SENTENCE": "In order to do that, you have to take risks."
+  },
+  {
+    "ID": 1367,
+    "Language": "eng",
+    "SENTENCE": "Every person who is alone is alone because they are afraid of others."
+  },
+  {
+    "ID": 1368,
+    "Language": "eng",
+    "SENTENCE": "Why do you ask?"
+  },
+  {
+    "ID": 1369,
+    "Language": "eng",
+    "SENTENCE": "I am not an artist. I never had the knack for it."
+  },
+  {
+    "ID": 1370,
+    "Language": "eng",
+    "SENTENCE": "I can't tell her now. It's not that simple anymore."
+  },
+  {
+    "ID": 1371,
+    "Language": "eng",
+    "SENTENCE": "I am a flawed person, but these are flaws that can easily be fixed."
+  },
+  {
+    "ID": 1372,
+    "Language": "eng",
+    "SENTENCE": "Whenever I find something I like, it's too expensive."
+  },
+  {
+    "ID": 1373,
+    "Language": "eng",
+    "SENTENCE": "How long did you stay?"
+  },
+  {
+    "ID": 1374,
+    "Language": "eng",
+    "SENTENCE": "Maybe it will be exactly the same for him."
+  },
+  {
+    "ID": 1375,
+    "Language": "eng",
+    "SENTENCE": "Innocence is a beautiful thing."
+  },
+  {
+    "ID": 1376,
+    "Language": "eng",
+    "SENTENCE": "Humans were never meant to live forever."
+  },
+  {
+    "ID": 1377,
+    "Language": "eng",
+    "SENTENCE": "I don't want to lose my ideas, even though some of them are a bit extreme."
+  },
+  {
+    "ID": 1378,
+    "Language": "eng",
+    "SENTENCE": "I think I have a theory about that."
+  },
+  {
+    "ID": 1379,
+    "Language": "eng",
+    "SENTENCE": "That is intriguing."
+  },
+  {
+    "ID": 1380,
+    "Language": "eng",
+    "SENTENCE": "You are saying you intentionally hide your good looks?"
+  },
+  {
+    "ID": 1381,
+    "Language": "eng",
+    "SENTENCE": "I do not have an account in these forums."
+  },
+  {
+    "ID": 1382,
+    "Language": "eng",
+    "SENTENCE": "If anyone was to ask what the point of the story is, I really don't know."
+  },
+  {
+    "ID": 1383,
+    "Language": "eng",
+    "SENTENCE": "I didn't know where it came from."
+  },
+  {
+    "ID": 1384,
+    "Language": "eng",
+    "SENTENCE": "I think my living with you has influenced your way of living."
+  },
+  {
+    "ID": 1385,
+    "Language": "eng",
+    "SENTENCE": "This is not important."
+  },
+  {
+    "ID": 1386,
+    "Language": "eng",
+    "SENTENCE": "I didn't like it."
+  },
+  {
+    "ID": 1387,
+    "Language": "eng",
+    "SENTENCE": "She's asking how that's possible."
+  },
+  {
+    "ID": 1388,
+    "Language": "eng",
+    "SENTENCE": "You're just running away from life's problems."
+  },
+  {
+    "ID": 1389,
+    "Language": "eng",
+    "SENTENCE": "If you look at the lyrics, they don't really mean much."
+  },
+  {
+    "ID": 1390,
+    "Language": "eng",
+    "SENTENCE": "There's a problem there that you don't see."
+  },
+  {
+    "ID": 1391,
+    "Language": "eng",
+    "SENTENCE": "You can do it."
+  },
+  {
+    "ID": 1392,
+    "Language": "eng",
+    "SENTENCE": "My physics teacher doesn't care if I skip classes."
+  },
+  {
+    "ID": 1393,
+    "Language": "eng",
+    "SENTENCE": "I wish I could go to Japan."
+  },
+  {
+    "ID": 1394,
+    "Language": "eng",
+    "SENTENCE": "I hate it when there are a lot of people."
+  },
+  {
+    "ID": 1395,
+    "Language": "eng",
+    "SENTENCE": "I have to go to bed."
+  },
+  {
+    "ID": 1396,
+    "Language": "eng",
+    "SENTENCE": "After that, I left, but then I realized that I forgot my backpack at their house."
+  },
+  {
+    "ID": 1397,
+    "Language": "eng",
+    "SENTENCE": "I won't ask you anything else today."
+  },
+  {
+    "ID": 1398,
+    "Language": "eng",
+    "SENTENCE": "It may freeze next week."
+  },
+  {
+    "ID": 1399,
+    "Language": "eng",
+    "SENTENCE": "Even though he apologized, I'm still furious."
+  },
+  {
+    "ID": 1400,
+    "Language": "eng",
+    "SENTENCE": "The police will get you to find the bullets."
+  },
+  {
+    "ID": 1401,
+    "Language": "eng",
+    "SENTENCE": "Thanks for having explained to me at last why people take me for an idiot."
+  },
+  {
+    "ID": 1402,
+    "Language": "eng",
+    "SENTENCE": "That wasn't my intention."
+  },
+  {
+    "ID": 1403,
+    "Language": "eng",
+    "SENTENCE": "Thanks for your explanation."
+  },
+  {
+    "ID": 1404,
+    "Language": "eng",
+    "SENTENCE": "Theoretically, I'm doing math."
+  },
+  {
+    "ID": 1406,
+    "Language": "eng",
+    "SENTENCE": "If you didn't know me that way then you simply didn't know me."
+  },
+  {
+    "ID": 1407,
+    "Language": "eng",
+    "SENTENCE": "It almost scared me not to see you online for a whole day."
+  },
+  {
+    "ID": 1408,
+    "Language": "eng",
+    "SENTENCE": "I don't know what you mean."
+  },
+  {
+    "ID": 1409,
+    "Language": "eng",
+    "SENTENCE": "My computer has got to be useful for something."
+  },
+  {
+    "ID": 1410,
+    "Language": "eng",
+    "SENTENCE": "You wanted to tell me about freedom?"
+  },
+  {
+    "ID": 1411,
+    "Language": "eng",
+    "SENTENCE": "Uh, now it's really weird..."
+  },
+  {
+    "ID": 1412,
+    "Language": "eng",
+    "SENTENCE": "If I wanted to scare you, I would tell you what I dreamt about a few weeks ago."
+  },
+  {
+    "ID": 1413,
+    "Language": "eng",
+    "SENTENCE": "One can't expect everything from schools."
+  },
+  {
+    "ID": 1414,
+    "Language": "eng",
+    "SENTENCE": "There are many words that I don't understand."
+  },
+  {
+    "ID": 1415,
+    "Language": "eng",
+    "SENTENCE": "I don't like it when mathematicians who know much more than I do can't express themselves explicitly."
+  },
+  {
+    "ID": 1416,
+    "Language": "eng",
+    "SENTENCE": "You're really not stupid."
+  },
+  {
+    "ID": 1417,
+    "Language": "eng",
+    "SENTENCE": "I need to ask you a silly question."
+  },
+  {
+    "ID": 1418,
+    "Language": "eng",
+    "SENTENCE": "I don't know how to demonstrate it, since it's too obvious!"
+  },
+  {
+    "ID": 1419,
+    "Language": "eng",
+    "SENTENCE": "I wouldn't have thought I would someday look up \"Viagra\" in Wikipedia."
+  },
+  {
+    "ID": 1420,
+    "Language": "eng",
+    "SENTENCE": "Can it be phrased in another way?"
+  },
+  {
+    "ID": 1421,
+    "Language": "eng",
+    "SENTENCE": "No one will know."
+  },
+  {
+    "ID": 1422,
+    "Language": "eng",
+    "SENTENCE": "I found a solution, but I found it so fast that it can't be the right solution."
+  },
+  {
+    "ID": 1423,
+    "Language": "eng",
+    "SENTENCE": "It seems interesting to me."
+  },
+  {
+    "ID": 1424,
+    "Language": "eng",
+    "SENTENCE": "Except that here, it's not so simple."
+  },
+  {
+    "ID": 1425,
+    "Language": "eng",
+    "SENTENCE": "I like candlelight."
+  },
+  {
+    "ID": 1426,
+    "Language": "eng",
+    "SENTENCE": "What did you answer?"
+  },
+  {
+    "ID": 1427,
+    "Language": "eng",
+    "SENTENCE": "No, he's not my new boyfriend."
+  },
+  {
+    "ID": 1428,
+    "Language": "eng",
+    "SENTENCE": "It's too bad that I don't need to lose weight."
+  },
+  {
+    "ID": 1429,
+    "Language": "eng",
+    "SENTENCE": "You never have class or what?!"
+  },
+  {
+    "ID": 1430,
+    "Language": "eng",
+    "SENTENCE": "I will play Sudoku then instead of continuing to bother you."
+  },
+  {
+    "ID": 1431,
+    "Language": "eng",
+    "SENTENCE": "Where is the problem?"
+  },
+  {
+    "ID": 1432,
+    "Language": "eng",
+    "SENTENCE": "I can only wait."
+  },
+  {
+    "ID": 1433,
+    "Language": "eng",
+    "SENTENCE": "It's not much of a surprise, is it?"
+  },
+  {
+    "ID": 1434,
+    "Language": "eng",
+    "SENTENCE": "I love you."
+  },
+  {
+    "ID": 1435,
+    "Language": "eng",
+    "SENTENCE": "I don't like you anymore."
+  },
+  {
+    "ID": 1436,
+    "Language": "eng",
+    "SENTENCE": "I am curious."
+  },
+  {
+    "ID": 1437,
+    "Language": "eng",
+    "SENTENCE": "Congratulations!"
+  },
+  {
+    "ID": 1438,
+    "Language": "eng",
+    "SENTENCE": "I don't want to wait that long."
+  },
+  {
+    "ID": 1439,
+    "Language": "eng",
+    "SENTENCE": "Why don't you come visit us?"
+  },
+  {
+    "ID": 1440,
+    "Language": "eng",
+    "SENTENCE": "But the possibility seems unlikely."
+  },
+  {
+    "ID": 1442,
+    "Language": "eng",
+    "SENTENCE": "I shouldn't have logged off."
+  },
+  {
+    "ID": 1443,
+    "Language": "eng",
+    "SENTENCE": "I don't know what to do anymore."
+  },
+  {
+    "ID": 1444,
+    "Language": "eng",
+    "SENTENCE": "It is inevitable that I go to France someday, I just don't know when."
+  },
+  {
+    "ID": 1445,
+    "Language": "eng",
+    "SENTENCE": "I hate chemistry."
+  },
+  {
+    "ID": 1446,
+    "Language": "eng",
+    "SENTENCE": "I didn't want this to happen."
+  },
+  {
+    "ID": 1447,
+    "Language": "eng",
+    "SENTENCE": "You can probably guess what happens though."
+  },
+  {
+    "ID": 1448,
+    "Language": "eng",
+    "SENTENCE": "Next thing you know, you'll be in the papers."
+  },
+  {
+    "ID": 1449,
+    "Language": "eng",
+    "SENTENCE": "What other options do I have?"
+  },
+  {
+    "ID": 1450,
+    "Language": "eng",
+    "SENTENCE": "I am not much of a traveller."
+  },
+  {
+    "ID": 1451,
+    "Language": "eng",
+    "SENTENCE": "I have nothing better to do."
+  },
+  {
+    "ID": 1452,
+    "Language": "eng",
+    "SENTENCE": "I can't explain it either."
+  },
+  {
+    "ID": 1453,
+    "Language": "eng",
+    "SENTENCE": "Everyone has strengths and weaknesses."
+  },
+  {
+    "ID": 1454,
+    "Language": "eng",
+    "SENTENCE": "Seriously though, episode 21 made me almost cry while laughing."
+  },
+  {
+    "ID": 1455,
+    "Language": "eng",
+    "SENTENCE": "It only shows you're not a robot."
+  },
+  {
+    "ID": 1456,
+    "Language": "eng",
+    "SENTENCE": "How could I be a robot? Robots don't dream."
+  },
+  {
+    "ID": 1458,
+    "Language": "eng",
+    "SENTENCE": "It's not something anyone can do."
+  },
+  {
+    "ID": 1459,
+    "Language": "eng",
+    "SENTENCE": "I don't know if I still have it."
+  },
+  {
+    "ID": 1460,
+    "Language": "eng",
+    "SENTENCE": "What do you think I've been doing?"
+  },
+  {
+    "ID": 1461,
+    "Language": "eng",
+    "SENTENCE": "Don't underestimate my power."
+  },
+  {
+    "ID": 1462,
+    "Language": "eng",
+    "SENTENCE": "My mom doesn't speak English very well."
+  },
+  {
+    "ID": 1463,
+    "Language": "eng",
+    "SENTENCE": "I don't speak French well enough!"
+  },
+  {
+    "ID": 1464,
+    "Language": "eng",
+    "SENTENCE": "I was wondering if you were going to show up today."
+  },
+  {
+    "ID": 1465,
+    "Language": "eng",
+    "SENTENCE": "Therein lies the problem."
+  },
+  {
+    "ID": 1466,
+    "Language": "eng",
+    "SENTENCE": "How do you find food in outer space?"
+  },
+  {
+    "ID": 1467,
+    "Language": "eng",
+    "SENTENCE": "All you can do is trust one another."
+  },
+  {
+    "ID": 1468,
+    "Language": "eng",
+    "SENTENCE": "Everyone wants to meet you. You're famous!"
+  },
+  {
+    "ID": 1469,
+    "Language": "eng",
+    "SENTENCE": "Why are you sorry for something you haven't done?"
+  },
+  {
+    "ID": 1470,
+    "Language": "eng",
+    "SENTENCE": "I utterly despise formal writing!"
+  },
+  {
+    "ID": 1471,
+    "Language": "eng",
+    "SENTENCE": "Foreign people intrigue me."
+  },
+  {
+    "ID": 1472,
+    "Language": "eng",
+    "SENTENCE": "Whatever I do, she says I can do better."
+  },
+  {
+    "ID": 1473,
+    "Language": "eng",
+    "SENTENCE": "What keeps you up so late?"
+  },
+  {
+    "ID": 1474,
+    "Language": "eng",
+    "SENTENCE": "You'd be surprised what you can learn in a week."
+  },
+  {
+    "ID": 1475,
+    "Language": "eng",
+    "SENTENCE": "I don't have anyone who'd travel with me."
+  },
+  {
+    "ID": 1476,
+    "Language": "eng",
+    "SENTENCE": "You're not fast enough."
+  },
+  {
+    "ID": 1477,
+    "Language": "eng",
+    "SENTENCE": "Life is hard, but I am harder."
+  },
+  {
+    "ID": 1478,
+    "Language": "eng",
+    "SENTENCE": "Bearing can be unbearable."
+  },
+  {
+    "ID": 1479,
+    "Language": "eng",
+    "SENTENCE": "Stop it! You're making her feel uncomfortable!"
+  },
+  {
+    "ID": 1480,
+    "Language": "eng",
+    "SENTENCE": "Nothing is beautiful but the truth."
+  },
+  {
+    "ID": 1481,
+    "Language": "eng",
+    "SENTENCE": "Tomorrow, he will land on the moon."
+  },
+  {
+    "ID": 1482,
+    "Language": "eng",
+    "SENTENCE": "I don't speak Japanese."
+  },
+  {
+    "ID": 1483,
+    "Language": "eng",
+    "SENTENCE": "This is a pun."
+  },
+  {
+    "ID": 1484,
+    "Language": "eng",
+    "SENTENCE": "Nobody understands me."
+  },
+  {
+    "ID": 1485,
+    "Language": "eng",
+    "SENTENCE": "I learned to live without her."
+  },
+  {
+    "ID": 1486,
+    "Language": "eng",
+    "SENTENCE": "It's useless to keep on thinking any more."
+  },
+  {
+    "ID": 1487,
+    "Language": "eng",
+    "SENTENCE": "I have too many things on my mind these days."
+  },
+  {
+    "ID": 1488,
+    "Language": "eng",
+    "SENTENCE": "I just wanted to check my email."
+  },
+  {
+    "ID": 1489,
+    "Language": "eng",
+    "SENTENCE": "Do you really need to ask the question to know the answer?"
+  },
+  {
+    "ID": 1490,
+    "Language": "eng",
+    "SENTENCE": "You can't expect me to always think of everything!"
+  },
+  {
+    "ID": 1491,
+    "Language": "eng",
+    "SENTENCE": "I suppose that behind each thing we have to do, there's something we want to do..."
+  },
+  {
+    "ID": 1492,
+    "Language": "eng",
+    "SENTENCE": "You really don't have the right priorities!"
+  },
+  {
+    "ID": 1493,
+    "Language": "eng",
+    "SENTENCE": "Don't expect others to think for you!"
+  },
+  {
+    "ID": 1494,
+    "Language": "eng",
+    "SENTENCE": "You never have time for important things!"
+  },
+  {
+    "ID": 1495,
+    "Language": "eng",
+    "SENTENCE": "It's no use pretending to make me believe that I believe things you don't believe!"
+  },
+  {
+    "ID": 1496,
+    "Language": "eng",
+    "SENTENCE": "It would take me too much time to explain to you why it's not going to work."
+  },
+  {
+    "ID": 1497,
+    "Language": "eng",
+    "SENTENCE": "I'm so dumb... I'm trying to explain things to you that I don't understand myself."
+  },
+  {
+    "ID": 1498,
+    "Language": "eng",
+    "SENTENCE": "Stop seeing me as a \"normal\" person!"
+  },
+  {
+    "ID": 1499,
+    "Language": "eng",
+    "SENTENCE": "Are you referring to me?"
+  },
+  {
+    "ID": 1500,
+    "Language": "eng",
+    "SENTENCE": "There will always be things I will never learn, I don't have eternity before me!"
+  },
+  {
+    "ID": 1501,
+    "Language": "eng",
+    "SENTENCE": "It can't be!"
+  },
+  {
+    "ID": 1502,
+    "Language": "eng",
+    "SENTENCE": "I wish I could care more about my grades but it seems that, at a certain point of my life, I decided they wouldn't be so important anymore."
+  },
+  {
+    "ID": 1504,
+    "Language": "eng",
+    "SENTENCE": "Would you like something to drink?"
+  },
+  {
+    "ID": 1509,
+    "Language": "eng",
+    "SENTENCE": "We must learn to live together as brothers, or we will perish together as fools."
+  },
+  {
+    "ID": 1510,
+    "Language": "eng",
+    "SENTENCE": "Uh... How's that working?"
+  },
+  {
+    "ID": 1515,
+    "Language": "eng",
+    "SENTENCE": "Their communication may be much more complex than we thought."
+  },
+  {
+    "ID": 1519,
+    "Language": "eng",
+    "SENTENCE": "Someday I'll run like the wind."
+  },
+  {
+    "ID": 1521,
+    "Language": "eng",
+    "SENTENCE": "Please don't cry."
+  },
+  {
+    "ID": 1522,
+    "Language": "eng",
+    "SENTENCE": "Let me know if there is anything I can do."
+  },
+  {
+    "ID": 1523,
+    "Language": "eng",
+    "SENTENCE": "It may be that the happiness awaiting us is not at all the sort of happiness we would want."
+  },
+  {
+    "ID": 1524,
+    "Language": "eng",
+    "SENTENCE": "It is up to you to decide whether we will go there or not."
+  },
+  {
+    "ID": 1525,
+    "Language": "eng",
+    "SENTENCE": "Class doesn't begin until eight-thirty."
+  },
+  {
+    "ID": 1526,
+    "Language": "eng",
+    "SENTENCE": "I want a boat that will take me far away from here."
+  },
+  {
+    "ID": 1529,
+    "Language": "eng",
+    "SENTENCE": "A Japanese would never do such a thing."
+  },
+  {
+    "ID": 1530,
+    "Language": "eng",
+    "SENTENCE": "Allen is a poet."
+  },
+  {
+    "ID": 1531,
+    "Language": "eng",
+    "SENTENCE": "The archer killed the deer."
+  },
+  {
+    "ID": 1532,
+    "Language": "eng",
+    "SENTENCE": "Communism will never be reached in my lifetime."
+  },
+  {
+    "ID": 1533,
+    "Language": "eng",
+    "SENTENCE": "Rye was called the grain of poverty."
+  },
+  {
+    "ID": 1534,
+    "Language": "eng",
+    "SENTENCE": "In the 1950's, the Finns were cited as having one of the least healthy diets in the world."
+  },
+  {
+    "ID": 1535,
+    "Language": "eng",
+    "SENTENCE": "If you see a mistake, then please correct it."
+  },
+  {
+    "ID": 1536,
+    "Language": "eng",
+    "SENTENCE": "Place the deck of cards on the oaken table."
+  },
+  {
+    "ID": 1537,
+    "Language": "eng",
+    "SENTENCE": "The Germans are very crafty."
+  },
+  {
+    "ID": 1538,
+    "Language": "eng",
+    "SENTENCE": "If you don't eat, you die."
+  },
+  {
+    "ID": 1539,
+    "Language": "eng",
+    "SENTENCE": "How do you spell \"pretty\"?"
+  },
+  {
+    "ID": 1540,
+    "Language": "eng",
+    "SENTENCE": "Why don't we go home?"
+  },
+  {
+    "ID": 1541,
+    "Language": "eng",
+    "SENTENCE": "I'm sorry, I can't stay long."
+  },
+  {
+    "ID": 1542,
+    "Language": "eng",
+    "SENTENCE": "Ten years is a long time to wait."
+  },
+  {
+    "ID": 1544,
+    "Language": "eng",
+    "SENTENCE": "One million people lost their lives in the war."
+  },
+  {
+    "ID": 1547,
+    "Language": "eng",
+    "SENTENCE": "It is not rare at all to live over ninety years."
+  },
+  {
+    "ID": 1549,
+    "Language": "eng",
+    "SENTENCE": "First, I'm going to do an outline of my new website."
+  },
+  {
+    "ID": 1550,
+    "Language": "eng",
+    "SENTENCE": "Democracy is the worst form of government, except all the others that have been tried."
+  },
+  {
+    "ID": 1551,
+    "Language": "eng",
+    "SENTENCE": "When you're beginning to look like the photo in your passport, you should go on a holiday."
+  },
+  {
+    "ID": 1552,
+    "Language": "eng",
+    "SENTENCE": "It wasn't me, commissioner!"
+  },
+  {
+    "ID": 1553,
+    "Language": "eng",
+    "SENTENCE": "Oh, my white pants! And they were new."
+  },
+  {
+    "ID": 1554,
+    "Language": "eng",
+    "SENTENCE": "With so many people around he naturally became a bit nervous."
+  },
+  {
+    "ID": 1555,
+    "Language": "eng",
+    "SENTENCE": "When I left the train station, I saw a man."
+  },
+  {
+    "ID": 1557,
+    "Language": "eng",
+    "SENTENCE": "You're an angel!"
+  },
+  {
+    "ID": 1558,
+    "Language": "eng",
+    "SENTENCE": "People from Madrid are weird."
+  },
+  {
+    "ID": 1559,
+    "Language": "eng",
+    "SENTENCE": "Well, the night is quite long, isn't it?"
+  },
+  {
+    "ID": 1560,
+    "Language": "eng",
+    "SENTENCE": "You're lucky because he didn't bite you."
+  },
+  {
+    "ID": 1561,
+    "Language": "eng",
+    "SENTENCE": "Did you miss me?"
+  },
+  {
+    "ID": 1563,
+    "Language": "eng",
+    "SENTENCE": "Are they all the same?"
+  },
+  {
+    "ID": 1564,
+    "Language": "eng",
+    "SENTENCE": "Thank you very much!"
+  },
+  {
+    "ID": 1565,
+    "Language": "eng",
+    "SENTENCE": "Where are the eggs, please?"
+  },
+  {
+    "ID": 1566,
+    "Language": "eng",
+    "SENTENCE": "I'll take him."
+  },
+  {
+    "ID": 1567,
+    "Language": "eng",
+    "SENTENCE": "It's a surprise."
+  },
+  {
+    "ID": 1568,
+    "Language": "eng",
+    "SENTENCE": "That's a good idea!"
+  },
+  {
+    "ID": 1569,
+    "Language": "eng",
+    "SENTENCE": "Round trip? Only one-way."
+  },
+  {
+    "ID": 1570,
+    "Language": "eng",
+    "SENTENCE": "It's a pity when somebody dies."
+  },
+  {
+    "ID": 1571,
+    "Language": "eng",
+    "SENTENCE": "They were left speechless."
+  },
+  {
+    "ID": 1572,
+    "Language": "eng",
+    "SENTENCE": "Damn! It's not bad!"
+  },
+  {
+    "ID": 1573,
+    "Language": "eng",
+    "SENTENCE": "Pull into shape after washing."
+  },
+  {
+    "ID": 1574,
+    "Language": "eng",
+    "SENTENCE": "Wash before first wearing."
+  },
+  {
+    "ID": 1575,
+    "Language": "eng",
+    "SENTENCE": "Don't open before the train stops."
+  },
+  {
+    "ID": 1577,
+    "Language": "eng",
+    "SENTENCE": "Those who live in glass houses should not throw stones."
+  },
+  {
+    "ID": 1578,
+    "Language": "eng",
+    "SENTENCE": "They say love is blind."
+  },
+  {
+    "ID": 1579,
+    "Language": "eng",
+    "SENTENCE": "Oh, I'm sorry."
+  },
+  {
+    "ID": 1580,
+    "Language": "eng",
+    "SENTENCE": "Math is like love: a simple idea, but it can get complicated."
+  },
+  {
+    "ID": 1581,
+    "Language": "eng",
+    "SENTENCE": "The only useful answers are those that raise new questions."
+  },
+  {
+    "ID": 1582,
+    "Language": "eng",
+    "SENTENCE": "To have doubts about oneself is the first sign of intelligence."
+  },
+  {
+    "ID": 1583,
+    "Language": "eng",
+    "SENTENCE": "Poor is not the one who has too little, but the one who wants too much."
+  },
+  {
+    "ID": 1584,
+    "Language": "eng",
+    "SENTENCE": "Seeing that you're not surprised, I think you must have known."
+  },
+  {
+    "ID": 1585,
+    "Language": "eng",
+    "SENTENCE": "How long does it take to get to the station?"
+  },
+  {
+    "ID": 1586,
+    "Language": "eng",
+    "SENTENCE": "This will be a good souvenir of my trip around the United States."
+  },
+  {
+    "ID": 1587,
+    "Language": "eng",
+    "SENTENCE": "Excuse me; allow me to point out three errors in the above article."
+  },
+  {
+    "ID": 1590,
+    "Language": "eng",
+    "SENTENCE": "Do you speak Italian?"
+  },
+  {
+    "ID": 1592,
+    "Language": "eng",
+    "SENTENCE": "It is said that \"Hamlet\" is the most interesting play ever written."
+  },
+  {
+    "ID": 1594,
+    "Language": "eng",
+    "SENTENCE": "May I ask a question?"
+  },
+  {
+    "ID": 1596,
+    "Language": "eng",
+    "SENTENCE": "It's quite difficult to master French in 2 or 3 years."
+  },
+  {
+    "ID": 1597,
+    "Language": "eng",
+    "SENTENCE": "It's impossible for me to explain it to you."
+  },
+  {
+    "ID": 1598,
+    "Language": "eng",
+    "SENTENCE": "I don't want to spend the rest of my life regretting it."
+  },
+  {
+    "ID": 1599,
+    "Language": "eng",
+    "SENTENCE": "It would be fun to see how things change over the years."
+  },
+  {
+    "ID": 1600,
+    "Language": "eng",
+    "SENTENCE": "I would never have guessed that."
+  },
+  {
+    "ID": 1601,
+    "Language": "eng",
+    "SENTENCE": "Imagination affects every aspect of our lives."
+  },
+  {
+    "ID": 1602,
+    "Language": "eng",
+    "SENTENCE": "You'll forget about me someday."
+  },
+  {
+    "ID": 1603,
+    "Language": "eng",
+    "SENTENCE": "That is rather unexpected."
+  },
+  {
+    "ID": 1604,
+    "Language": "eng",
+    "SENTENCE": "I wonder how long it's going to take."
+  },
+  {
+    "ID": 1605,
+    "Language": "eng",
+    "SENTENCE": "I can't live without a TV."
+  },
+  {
+    "ID": 1606,
+    "Language": "eng",
+    "SENTENCE": "I couldn't have done it without you. Thank you."
+  },
+  {
+    "ID": 1607,
+    "Language": "eng",
+    "SENTENCE": "Nothing is achieved without effort."
+  },
+  {
+    "ID": 1608,
+    "Language": "eng",
+    "SENTENCE": "Many people drift through life without a purpose."
+  },
+  {
+    "ID": 1609,
+    "Language": "eng",
+    "SENTENCE": "Life without love is just totally pointless."
+  },
+  {
+    "ID": 1610,
+    "Language": "eng",
+    "SENTENCE": "Let me know if I need to make any changes."
+  },
+  {
+    "ID": 1611,
+    "Language": "eng",
+    "SENTENCE": "I think exams are ruining education."
+  },
+  {
+    "ID": 1612,
+    "Language": "eng",
+    "SENTENCE": "We can't sleep because of the noise."
+  },
+  {
+    "ID": 1613,
+    "Language": "eng",
+    "SENTENCE": "Do you have a condom?"
+  },
+  {
+    "ID": 1615,
+    "Language": "eng",
+    "SENTENCE": "Do whatever he tells you."
+  },
+  {
+    "ID": 1616,
+    "Language": "eng",
+    "SENTENCE": "I can walk to school in 10 minutes."
+  },
+  {
+    "ID": 1617,
+    "Language": "eng",
+    "SENTENCE": "It took me more than two hours to translate a few pages of English."
+  },
+  {
+    "ID": 1618,
+    "Language": "eng",
+    "SENTENCE": "It is already eleven."
+  },
+  {
+    "ID": 1619,
+    "Language": "eng",
+    "SENTENCE": "May I talk to Ms. Brown?"
+  },
+  {
+    "ID": 1622,
+    "Language": "eng",
+    "SENTENCE": "What do you want?"
+  },
+  {
+    "ID": 1623,
+    "Language": "eng",
+    "SENTENCE": "The mandatory character of schooling is rarely analyzed in the multitude of works dedicated to the study of the various ways to develop within children the desire to learn."
+  },
+  {
+    "ID": 1624,
+    "Language": "eng",
+    "SENTENCE": "You suck dude! I have to tell you everything!"
+  },
+  {
+    "ID": 1625,
+    "Language": "eng",
+    "SENTENCE": "I have a bone to pick with you."
+  },
+  {
+    "ID": 1626,
+    "Language": "eng",
+    "SENTENCE": "Do you need me to give you some money?"
+  },
+  {
+    "ID": 1627,
+    "Language": "eng",
+    "SENTENCE": "Paris is the most beautiful city in the world."
+  },
+  {
+    "ID": 1629,
+    "Language": "eng",
+    "SENTENCE": "Hey, I may have no money, but I still have my pride."
+  },
+  {
+    "ID": 1630,
+    "Language": "eng",
+    "SENTENCE": "I have a dream."
+  },
+  {
+    "ID": 1631,
+    "Language": "eng",
+    "SENTENCE": "This is my friend Rachel. We went to high school together."
+  },
+  {
+    "ID": 1632,
+    "Language": "eng",
+    "SENTENCE": "The cost of life increased drastically."
+  },
+  {
+    "ID": 1633,
+    "Language": "eng",
+    "SENTENCE": "All that which is invented, is true."
+  },
+  {
+    "ID": 1634,
+    "Language": "eng",
+    "SENTENCE": "To be surprised, to wonder, is to begin to understand."
+  },
+  {
+    "ID": 1635,
+    "Language": "eng",
+    "SENTENCE": "But the universe is infinite."
+  },
+  {
+    "ID": 1636,
+    "Language": "eng",
+    "SENTENCE": "To be perfect she lacked just one defect."
+  },
+  {
+    "ID": 1637,
+    "Language": "eng",
+    "SENTENCE": "And yet, the contrary is always true as well."
+  },
+  {
+    "ID": 1638,
+    "Language": "eng",
+    "SENTENCE": "We don't see things as they are, but as we are."
+  },
+  {
+    "ID": 1639,
+    "Language": "eng",
+    "SENTENCE": "The world is a den of crazies."
+  },
+  {
+    "ID": 1640,
+    "Language": "eng",
+    "SENTENCE": "You opened up my eyes to what it's like when everything is right."
+  },
+  {
+    "ID": 1641,
+    "Language": "eng",
+    "SENTENCE": "You found me where no one else was looking."
+  },
+  {
+    "ID": 1642,
+    "Language": "eng",
+    "SENTENCE": "You're by my side; everything's fine now."
+  },
+  {
+    "ID": 1643,
+    "Language": "eng",
+    "SENTENCE": "What do you mean you don't know?!"
+  },
+  {
+    "ID": 1644,
+    "Language": "eng",
+    "SENTENCE": "You look stupid."
+  },
+  {
+    "ID": 1645,
+    "Language": "eng",
+    "SENTENCE": "I think I'm gonna go to sleep."
+  },
+  {
+    "ID": 1646,
+    "Language": "eng",
+    "SENTENCE": "My name is Jack."
+  },
+  {
+    "ID": 1647,
+    "Language": "eng",
+    "SENTENCE": "I like it very much."
+  },
+  {
+    "ID": 1648,
+    "Language": "eng",
+    "SENTENCE": "We're meeting up tomorrow?"
+  },
+  {
+    "ID": 1649,
+    "Language": "eng",
+    "SENTENCE": "How do you say that in Italian?"
+  },
+  {
+    "ID": 1650,
+    "Language": "eng",
+    "SENTENCE": "I have to go shopping. I'll be back in an hour."
+  },
+  {
+    "ID": 1651,
+    "Language": "eng",
+    "SENTENCE": "Is it far from here?"
+  },
+  {
+    "ID": 1652,
+    "Language": "eng",
+    "SENTENCE": "These things aren't mine!"
+  },
+  {
+    "ID": 1653,
+    "Language": "eng",
+    "SENTENCE": "Thanks, that's all."
+  },
+  {
+    "ID": 1654,
+    "Language": "eng",
+    "SENTENCE": "Would you like to dance with me?"
+  },
+  {
+    "ID": 1658,
+    "Language": "eng",
+    "SENTENCE": "Italy is a very beautiful country."
+  },
+  {
+    "ID": 1659,
+    "Language": "eng",
+    "SENTENCE": "It's not my fault!"
+  },
+  {
+    "ID": 1660,
+    "Language": "eng",
+    "SENTENCE": "I'd like to stay for one night."
+  },
+  {
+    "ID": 1661,
+    "Language": "eng",
+    "SENTENCE": "Could you dial for me? The telephone is too high."
+  },
+  {
+    "ID": 1662,
+    "Language": "eng",
+    "SENTENCE": "Is there a youth hostel near here?"
+  },
+  {
+    "ID": 1663,
+    "Language": "eng",
+    "SENTENCE": "Where are the showers?"
+  },
+  {
+    "ID": 1664,
+    "Language": "eng",
+    "SENTENCE": "Open your mouth!"
+  },
+  {
+    "ID": 1665,
+    "Language": "eng",
+    "SENTENCE": "Is it bad?"
+  },
+  {
+    "ID": 1666,
+    "Language": "eng",
+    "SENTENCE": "I have lost my wallet."
+  },
+  {
+    "ID": 1668,
+    "Language": "eng",
+    "SENTENCE": "Love is never wasted."
+  },
+  {
+    "ID": 1669,
+    "Language": "eng",
+    "SENTENCE": "Life is what happens to you while you're busy making other plans."
+  },
+  {
+    "ID": 1670,
+    "Language": "eng",
+    "SENTENCE": "Not wanting is the same as having."
+  },
+  {
+    "ID": 1671,
+    "Language": "eng",
+    "SENTENCE": "He's very sexy."
+  },
+  {
+    "ID": 1674,
+    "Language": "eng",
+    "SENTENCE": "There are too many things to do!"
+  },
+  {
+    "ID": 1676,
+    "Language": "eng",
+    "SENTENCE": "Come on, play with me, I'm so bored!"
+  },
+  {
+    "ID": 1677,
+    "Language": "eng",
+    "SENTENCE": "Don't you even think of eating my chocolate!"
+  },
+  {
+    "ID": 1678,
+    "Language": "eng",
+    "SENTENCE": "Stop asking me for a drink! Go get it yourself."
+  },
+  {
+    "ID": 1679,
+    "Language": "eng",
+    "SENTENCE": "Thanks to you I've lost my appetite."
+  },
+  {
+    "ID": 1680,
+    "Language": "eng",
+    "SENTENCE": "I really need to hit somebody."
+  },
+  {
+    "ID": 1681,
+    "Language": "eng",
+    "SENTENCE": "Who doesn't know this problem?!"
+  },
+  {
+    "ID": 1682,
+    "Language": "eng",
+    "SENTENCE": "It has been so long since I last went to Disneyland with my family."
+  },
+  {
+    "ID": 1683,
+    "Language": "eng",
+    "SENTENCE": "My parents keep arguing about stupid things. It's so annoying!"
+  },
+  {
+    "ID": 1684,
+    "Language": "eng",
+    "SENTENCE": "If you don't want to put on sunscreen, that's your problem. Just don't come complaining to me when you get a sunburn."
+  },
+  {
+    "ID": 1685,
+    "Language": "eng",
+    "SENTENCE": "My friends always say I'm too calm, but my family always says I'm too annoying."
+  },
+  {
+    "ID": 1686,
+    "Language": "eng",
+    "SENTENCE": "I hate those spiders. They're always there to freak me out when I'm cleaning."
+  },
+  {
+    "ID": 1687,
+    "Language": "eng",
+    "SENTENCE": "So annoying... Now I get a headache whenever I use the computer!"
+  },
+  {
+    "ID": 1688,
+    "Language": "eng",
+    "SENTENCE": "It's so hot that you could cook an egg on the hood of a car."
+  },
+  {
+    "ID": 1689,
+    "Language": "eng",
+    "SENTENCE": "It is very hot today."
+  },
+  {
+    "ID": 1690,
+    "Language": "eng",
+    "SENTENCE": "Nobody came."
+  },
+  {
+    "ID": 1691,
+    "Language": "eng",
+    "SENTENCE": "I never saw a red fridge."
+  },
+  {
+    "ID": 1693,
+    "Language": "eng",
+    "SENTENCE": "Better to be hated for who you are than loved for who you're not."
+  },
+  {
+    "ID": 1694,
+    "Language": "eng",
+    "SENTENCE": "It's lonely in the saddle since the horse died."
+  },
+  {
+    "ID": 1695,
+    "Language": "eng",
+    "SENTENCE": "Mathematics is the part of science you could continue to do if you woke up tomorrow and discovered the universe was gone."
+  },
+  {
+    "ID": 1696,
+    "Language": "eng",
+    "SENTENCE": "My eyes are an ocean in which my dreams are reflected."
+  },
+  {
+    "ID": 1697,
+    "Language": "eng",
+    "SENTENCE": "You know the phrase, we reap what we sow. I have sown the wind and this is my storm."
+  },
+  {
+    "ID": 1698,
+    "Language": "eng",
+    "SENTENCE": "Look at me when I talk to you!"
+  },
+  {
+    "ID": 1699,
+    "Language": "eng",
+    "SENTENCE": "What would the world be without women?"
+  },
+  {
+    "ID": 1700,
+    "Language": "eng",
+    "SENTENCE": "What if you gave a speech and nobody came?"
+  },
+  {
+    "ID": 1701,
+    "Language": "eng",
+    "SENTENCE": "I don't know what to say to make you feel better."
+  },
+  {
+    "ID": 1702,
+    "Language": "eng",
+    "SENTENCE": "This is not my type."
+  },
+  {
+    "ID": 1703,
+    "Language": "eng",
+    "SENTENCE": "I was trying to kill time."
+  },
+  {
+    "ID": 1704,
+    "Language": "eng",
+    "SENTENCE": "How did you come up with this crazy idea?"
+  },
+  {
+    "ID": 1705,
+    "Language": "eng",
+    "SENTENCE": "I'm tired."
+  },
+  {
+    "ID": 1706,
+    "Language": "eng",
+    "SENTENCE": "Who wants some hot chocolate?"
+  },
+  {
+    "ID": 1707,
+    "Language": "eng",
+    "SENTENCE": "Speak more slowly, please!"
+  },
+  {
+    "ID": 1709,
+    "Language": "eng",
+    "SENTENCE": "When do we arrive?"
+  },
+  {
+    "ID": 1710,
+    "Language": "eng",
+    "SENTENCE": "The check, please."
+  },
+  {
+    "ID": 1711,
+    "Language": "eng",
+    "SENTENCE": "And what are we going to do?"
+  },
+  {
+    "ID": 1712,
+    "Language": "eng",
+    "SENTENCE": "I have a headache."
+  },
+  {
+    "ID": 1713,
+    "Language": "eng",
+    "SENTENCE": "Where can one make a phone call?"
+  },
+  {
+    "ID": 1714,
+    "Language": "eng",
+    "SENTENCE": "I must admit that I snore."
+  },
+  {
+    "ID": 1715,
+    "Language": "eng",
+    "SENTENCE": "Tonight we're going to church."
+  },
+  {
+    "ID": 1716,
+    "Language": "eng",
+    "SENTENCE": "How are you? Did you have a good trip?"
+  },
+  {
+    "ID": 1717,
+    "Language": "eng",
+    "SENTENCE": "I don't feel well."
+  },
+  {
+    "ID": 1718,
+    "Language": "eng",
+    "SENTENCE": "Call the police!"
+  },
+  {
+    "ID": 1719,
+    "Language": "eng",
+    "SENTENCE": "It's too expensive!"
+  },
+  {
+    "ID": 1720,
+    "Language": "eng",
+    "SENTENCE": "She's faking sleep. That's why she's not snoring."
+  },
+  {
+    "ID": 1721,
+    "Language": "eng",
+    "SENTENCE": "My shoes are too small. I need new ones."
+  },
+  {
+    "ID": 1722,
+    "Language": "eng",
+    "SENTENCE": "We're getting out of here. The cops are coming."
+  },
+  {
+    "ID": 1723,
+    "Language": "eng",
+    "SENTENCE": "Merry Christmas!"
+  },
+  {
+    "ID": 1724,
+    "Language": "eng",
+    "SENTENCE": "It would be so cool if I could speak ten languages!"
+  },
+  {
+    "ID": 1726,
+    "Language": "eng",
+    "SENTENCE": "You should have listened to me."
+  },
+  {
+    "ID": 1727,
+    "Language": "eng",
+    "SENTENCE": "It's a complete mess, and it's getting on my nerves."
+  },
+  {
+    "ID": 1728,
+    "Language": "eng",
+    "SENTENCE": "When the body is touched, receptors in the skin send messages to the brain causing the release of chemicals such as endorphins."
+  },
+  {
+    "ID": 1729,
+    "Language": "eng",
+    "SENTENCE": "What does it involve?"
+  },
+  {
+    "ID": 1730,
+    "Language": "eng",
+    "SENTENCE": "One hundred and fifty thousand couples are expected to get married in Shanghai in 2006."
+  },
+  {
+    "ID": 1731,
+    "Language": "eng",
+    "SENTENCE": "Those selected will have to face extensive medical and psychological tests."
+  },
+  {
+    "ID": 1732,
+    "Language": "eng",
+    "SENTENCE": "Half a million children still face malnutrition in Niger."
+  },
+  {
+    "ID": 1733,
+    "Language": "eng",
+    "SENTENCE": "It will take five to ten years for the technology to be ready."
+  },
+  {
+    "ID": 1734,
+    "Language": "eng",
+    "SENTENCE": "Bicycles are tools for urban sustainability."
+  },
+  {
+    "ID": 1735,
+    "Language": "eng",
+    "SENTENCE": "The French government has launched an online game that challenges taxpayers to balance the national budget."
+  },
+  {
+    "ID": 1736,
+    "Language": "eng",
+    "SENTENCE": "He would be glad to hear that."
+  },
+  {
+    "ID": 1737,
+    "Language": "eng",
+    "SENTENCE": "What do you believe is true even though you cannot prove it?"
+  },
+  {
+    "ID": 1738,
+    "Language": "eng",
+    "SENTENCE": "Computers make people stupid."
+  },
+  {
+    "ID": 1739,
+    "Language": "eng",
+    "SENTENCE": "Don't ask what they think. Ask what they do."
+  },
+  {
+    "ID": 1740,
+    "Language": "eng",
+    "SENTENCE": "When you're trying to prove something, it helps to know it's true."
+  },
+  {
+    "ID": 1741,
+    "Language": "eng",
+    "SENTENCE": "What changes the world is communication, not information."
+  },
+  {
+    "ID": 1742,
+    "Language": "eng",
+    "SENTENCE": "Most scientific breakthroughs are nothing else than the discovery of the obvious."
+  },
+  {
+    "ID": 1743,
+    "Language": "eng",
+    "SENTENCE": "If you don't understand something, it's because you aren't aware of its context."
+  },
+  {
+    "ID": 1744,
+    "Language": "eng",
+    "SENTENCE": "The past can only be known, not changed. The future can only be changed, not known."
+  },
+  {
+    "ID": 1745,
+    "Language": "eng",
+    "SENTENCE": "The key question is not what can I gain but what do I have to lose."
+  },
+  {
+    "ID": 1746,
+    "Language": "eng",
+    "SENTENCE": "Anything that can be misunderstood will be."
+  },
+  {
+    "ID": 1747,
+    "Language": "eng",
+    "SENTENCE": "Any universe simple enough to be understood is too simple to produce a mind able to understand it."
+  },
+  {
+    "ID": 1748,
+    "Language": "eng",
+    "SENTENCE": "Why is life so full of suffering?"
+  },
+  {
+    "ID": 1749,
+    "Language": "eng",
+    "SENTENCE": "Despite the importance of sleep, its purpose is a mystery."
+  },
+  {
+    "ID": 1750,
+    "Language": "eng",
+    "SENTENCE": "What does it mean to have an educated mind in the 21st century?"
+  },
+  {
+    "ID": 1751,
+    "Language": "eng",
+    "SENTENCE": "Passion creates suffering."
+  },
+  {
+    "ID": 1752,
+    "Language": "eng",
+    "SENTENCE": "The train from Geneva will arrive at the station."
+  },
+  {
+    "ID": 1753,
+    "Language": "eng",
+    "SENTENCE": "I would like to give him a present for his birthday."
+  },
+  {
+    "ID": 1754,
+    "Language": "eng",
+    "SENTENCE": "I'm starving!"
+  },
+  {
+    "ID": 1755,
+    "Language": "eng",
+    "SENTENCE": "Do you have friends in Antigua?"
+  },
+  {
+    "ID": 1756,
+    "Language": "eng",
+    "SENTENCE": "A cubic meter corresponds to 1000 liters."
+  },
+  {
+    "ID": 1757,
+    "Language": "eng",
+    "SENTENCE": "I have so much work that I will stay for one more hour."
+  },
+  {
+    "ID": 1758,
+    "Language": "eng",
+    "SENTENCE": "I am married and have two children."
+  },
+  {
+    "ID": 1759,
+    "Language": "eng",
+    "SENTENCE": "He plays the piano very well."
+  },
+  {
+    "ID": 1760,
+    "Language": "eng",
+    "SENTENCE": "I see it rarely."
+  },
+  {
+    "ID": 1761,
+    "Language": "eng",
+    "SENTENCE": "I'd like to study in Paris."
+  },
+  {
+    "ID": 1762,
+    "Language": "eng",
+    "SENTENCE": "You don't know who I am."
+  },
+  {
+    "ID": 1763,
+    "Language": "eng",
+    "SENTENCE": "Why don't you eat vegetables?"
+  },
+  {
+    "ID": 1764,
+    "Language": "eng",
+    "SENTENCE": "Why do people go to the movies?"
+  },
+  {
+    "ID": 1765,
+    "Language": "eng",
+    "SENTENCE": "I'm undressing."
+  },
+  {
+    "ID": 1766,
+    "Language": "eng",
+    "SENTENCE": "The car crashed into the wall."
+  },
+  {
+    "ID": 1767,
+    "Language": "eng",
+    "SENTENCE": "There are no real visions."
+  },
+  {
+    "ID": 1770,
+    "Language": "eng",
+    "SENTENCE": "Creationism is a pseudo-science."
+  },
+  {
+    "ID": 1771,
+    "Language": "eng",
+    "SENTENCE": "The wind calmed down."
+  },
+  {
+    "ID": 1772,
+    "Language": "eng",
+    "SENTENCE": "I don't want to propose to you!"
+  },
+  {
+    "ID": 1773,
+    "Language": "eng",
+    "SENTENCE": "Give me time to give you everything I have!"
+  },
+  {
+    "ID": 1774,
+    "Language": "eng",
+    "SENTENCE": "A democrat is a free citizen who yields to the will of the majority."
+  },
+  {
+    "ID": 1775,
+    "Language": "eng",
+    "SENTENCE": "Where there's a will, there's a way."
+  },
+  {
+    "ID": 1776,
+    "Language": "eng",
+    "SENTENCE": "Who searches, finds."
+  },
+  {
+    "ID": 1777,
+    "Language": "eng",
+    "SENTENCE": "Rome wasn't built in a day."
+  },
+  {
+    "ID": 1778,
+    "Language": "eng",
+    "SENTENCE": "Silence gives consent."
+  },
+  {
+    "ID": 1781,
+    "Language": "eng",
+    "SENTENCE": "Why does one say \"Good day\" when the day is not good?"
+  },
+  {
+    "ID": 1782,
+    "Language": "eng",
+    "SENTENCE": "Wine is poetry in bottles."
+  },
+  {
+    "ID": 1783,
+    "Language": "eng",
+    "SENTENCE": "That was the best day of my life."
+  },
+  {
+    "ID": 1784,
+    "Language": "eng",
+    "SENTENCE": "I don't understand German."
+  },
+  {
+    "ID": 1785,
+    "Language": "eng",
+    "SENTENCE": "I made my decision."
+  },
+  {
+    "ID": 1786,
+    "Language": "eng",
+    "SENTENCE": "I give you my word."
+  },
+  {
+    "ID": 1788,
+    "Language": "eng",
+    "SENTENCE": "You are the great love of my life."
+  },
+  {
+    "ID": 1789,
+    "Language": "eng",
+    "SENTENCE": "Being objective means not telling everybody whose side you are on."
+  },
+  {
+    "ID": 1790,
+    "Language": "eng",
+    "SENTENCE": "We have a Pope."
+  },
+  {
+    "ID": 1791,
+    "Language": "eng",
+    "SENTENCE": "The whole is greater than the sum of the parts."
+  },
+  {
+    "ID": 1792,
+    "Language": "eng",
+    "SENTENCE": "A mathematical truth is neither simple nor complicated; it is."
+  },
+  {
+    "ID": 1793,
+    "Language": "eng",
+    "SENTENCE": "Mathematicians are poets, except that they have to prove what their fantasy creates."
+  },
+  {
+    "ID": 1794,
+    "Language": "eng",
+    "SENTENCE": "Mathematicians are like French people: whatever you tell them they translate it into their own language and turn it into something totally different."
+  },
+  {
+    "ID": 1795,
+    "Language": "eng",
+    "SENTENCE": "An expert is someone who knows some of the worst mistakes that can be made in his field, and how to avoid them."
+  },
+  {
+    "ID": 1796,
+    "Language": "eng",
+    "SENTENCE": "Doing math is the only socially acceptable way to masturbate in public."
+  },
+  {
+    "ID": 1797,
+    "Language": "eng",
+    "SENTENCE": "There are 10 types of people in the world: those who understand binary, and those who don't."
+  },
+  {
+    "ID": 1798,
+    "Language": "eng",
+    "SENTENCE": "I don't think, therefore I am not."
+  },
+  {
+    "ID": 1799,
+    "Language": "eng",
+    "SENTENCE": "Nowadays we want our children to make their own decisions, but we expect those decisions to please us."
+  },
+  {
+    "ID": 1800,
+    "Language": "eng",
+    "SENTENCE": "Don't worry, be happy!"
+  },
+  {
+    "ID": 1801,
+    "Language": "eng",
+    "SENTENCE": "I find foreign languages very interesting."
+  },
+  {
+    "ID": 1802,
+    "Language": "eng",
+    "SENTENCE": "I don't like learning irregular verbs."
+  },
+  {
+    "ID": 1803,
+    "Language": "eng",
+    "SENTENCE": "Take a book and read it."
+  },
+  {
+    "ID": 1804,
+    "Language": "eng",
+    "SENTENCE": "Face life with a smile!"
+  },
+  {
+    "ID": 1805,
+    "Language": "eng",
+    "SENTENCE": "Most schools were designed not to transform society, but to reproduce it."
+  },
+  {
+    "ID": 1806,
+    "Language": "eng",
+    "SENTENCE": "You make me dream."
+  },
+  {
+    "ID": 1807,
+    "Language": "eng",
+    "SENTENCE": "I'm beside myself with joy."
+  },
+  {
+    "ID": 1808,
+    "Language": "eng",
+    "SENTENCE": "He's already a man."
+  },
+  {
+    "ID": 1809,
+    "Language": "eng",
+    "SENTENCE": "The vacation is over now."
+  },
+  {
+    "ID": 1810,
+    "Language": "eng",
+    "SENTENCE": "I'm afraid to fall."
+  },
+  {
+    "ID": 1811,
+    "Language": "eng",
+    "SENTENCE": "Evening dress is desired."
+  },
+  {
+    "ID": 1812,
+    "Language": "eng",
+    "SENTENCE": "That's the absolute truth."
+  },
+  {
+    "ID": 1813,
+    "Language": "eng",
+    "SENTENCE": "It's cold."
+  },
+  {
+    "ID": 1814,
+    "Language": "eng",
+    "SENTENCE": "I'm thirsty."
+  },
+  {
+    "ID": 1815,
+    "Language": "eng",
+    "SENTENCE": "When I ask people what they regret most about high school, they nearly all say the same thing: that they wasted so much time."
+  },
+  {
+    "ID": 1817,
+    "Language": "eng",
+    "SENTENCE": "When you can't do what you want, you do what you can."
+  },
+  {
+    "ID": 1818,
+    "Language": "eng",
+    "SENTENCE": "Give him an inch and he'll take a yard."
+  },
+  {
+    "ID": 1819,
+    "Language": "eng",
+    "SENTENCE": "You did this intentionally!"
+  },
+  {
+    "ID": 1820,
+    "Language": "eng",
+    "SENTENCE": "You didn't tell him anything?"
+  },
+  {
+    "ID": 1821,
+    "Language": "eng",
+    "SENTENCE": "You made me lose my mind."
+  },
+  {
+    "ID": 1822,
+    "Language": "eng",
+    "SENTENCE": "You're my type."
+  },
+  {
+    "ID": 1823,
+    "Language": "eng",
+    "SENTENCE": "You're irresistible."
+  },
+  {
+    "ID": 1824,
+    "Language": "eng",
+    "SENTENCE": "Could you call again later, please?"
+  },
+  {
+    "ID": 1825,
+    "Language": "eng",
+    "SENTENCE": "Who am I talking with?"
+  },
+  {
+    "ID": 1826,
+    "Language": "eng",
+    "SENTENCE": "I accept, but only under one condition."
+  },
+  {
+    "ID": 1827,
+    "Language": "eng",
+    "SENTENCE": "Smile now, cry later!"
+  },
+  {
+    "ID": 1828,
+    "Language": "eng",
+    "SENTENCE": "At the age of six he had learned to use the typewriter and told the teacher that he did not need to learn to write by hand."
+  },
+  {
+    "ID": 1829,
+    "Language": "eng",
+    "SENTENCE": "Life is beautiful."
+  },
+  {
+    "ID": 1830,
+    "Language": "eng",
+    "SENTENCE": "There are days where I feel like my brain wants to abandon me."
+  },
+  {
+    "ID": 1831,
+    "Language": "eng",
+    "SENTENCE": "I can't cut my nails and do the ironing at the same time!"
+  },
+  {
+    "ID": 1832,
+    "Language": "eng",
+    "SENTENCE": "I can't take it anymore! I haven't slept for three days!"
+  },
+  {
+    "ID": 1833,
+    "Language": "eng",
+    "SENTENCE": "He doesn't want you to tell him about your sex life."
+  },
+  {
+    "ID": 1834,
+    "Language": "eng",
+    "SENTENCE": "Have you ever eaten a banana pie?"
+  },
+  {
+    "ID": 1835,
+    "Language": "eng",
+    "SENTENCE": "Why would you marry a woman if you like men?"
+  },
+  {
+    "ID": 1836,
+    "Language": "eng",
+    "SENTENCE": "If you can't have children, you could always adopt."
+  },
+  {
+    "ID": 1837,
+    "Language": "eng",
+    "SENTENCE": "Are you for or against abortions?"
+  },
+  {
+    "ID": 1838,
+    "Language": "eng",
+    "SENTENCE": "What made you change your mind?"
+  },
+  {
+    "ID": 1839,
+    "Language": "eng",
+    "SENTENCE": "Hey, look, a three-headed monkey!"
+  },
+  {
+    "ID": 1840,
+    "Language": "eng",
+    "SENTENCE": "It's a pity that you can't buy miracles like you would buy potatoes."
+  },
+  {
+    "ID": 1841,
+    "Language": "eng",
+    "SENTENCE": "I love lasagna."
+  },
+  {
+    "ID": 1842,
+    "Language": "eng",
+    "SENTENCE": "If you know that something unpleasant will happen, that you will go to the dentist for example, or to France, then that is not good."
+  },
+  {
+    "ID": 1843,
+    "Language": "eng",
+    "SENTENCE": "Half an eye is very useful actually, because an animal can see half of another animal, which wants to eat it, and can get out of the way, and it will eat the animal, which has only one-half eye or only 49% of an eye, because this to it will not be enough, and the animal, which was eaten up, will have no children, because it is dead."
+  },
+  {
+    "ID": 1844,
+    "Language": "eng",
+    "SENTENCE": "Prime numbers are like life; they are completely logical, but impossible to find the rules for, even if you spend all your time thinking about it."
+  },
+  {
+    "ID": 1845,
+    "Language": "eng",
+    "SENTENCE": "If you raise an eyebrow, it can mean \"I want to have sex with you\", but also \"I find that what you just said is completely idiotic."
+  },
+  {
+    "ID": 1846,
+    "Language": "eng",
+    "SENTENCE": "The brain is just a complicated machine."
+  },
+  {
+    "ID": 1847,
+    "Language": "eng",
+    "SENTENCE": "A schedule is an identity card for time, but, if you don't have a schedule, the time isn't there."
+  },
+  {
+    "ID": 1848,
+    "Language": "eng",
+    "SENTENCE": "This baby penguin is too cute!"
+  },
+  {
+    "ID": 1850,
+    "Language": "eng",
+    "SENTENCE": "I'm at the hospital. I got struck by lightning."
+  },
+  {
+    "ID": 1851,
+    "Language": "eng",
+    "SENTENCE": "Let's face it, it's impossible. We're never gonna make it."
+  },
+  {
+    "ID": 1852,
+    "Language": "eng",
+    "SENTENCE": "What is your greatest source of inspiration?"
+  },
+  {
+    "ID": 1853,
+    "Language": "eng",
+    "SENTENCE": "You don't marry someone you can live with — you marry the person whom you cannot live without."
+  },
+  {
+    "ID": 1854,
+    "Language": "eng",
+    "SENTENCE": "In theory, there is no difference between theory and practice. But, in practice, there is."
+  },
+  {
+    "ID": 1855,
+    "Language": "eng",
+    "SENTENCE": "Don't stay in bed, unless you can make money in bed."
+  },
+  {
+    "ID": 1856,
+    "Language": "eng",
+    "SENTENCE": "There are people in the world so hungry, that God cannot appear to them except in the form of bread."
+  },
+  {
+    "ID": 1857,
+    "Language": "eng",
+    "SENTENCE": "Anything that is too stupid to be spoken is sung."
+  },
+  {
+    "ID": 1858,
+    "Language": "eng",
+    "SENTENCE": "It requires wisdom to understand wisdom: the music is nothing if the audience is deaf."
+  },
+  {
+    "ID": 1859,
+    "Language": "eng",
+    "SENTENCE": "I was rereading the letters you sent to me."
+  },
+  {
+    "ID": 1860,
+    "Language": "eng",
+    "SENTENCE": "I don't want to go to school."
+  },
+  {
+    "ID": 1861,
+    "Language": "eng",
+    "SENTENCE": "It's over between us. Give me back my ring!"
+  },
+  {
+    "ID": 1862,
+    "Language": "eng",
+    "SENTENCE": "It is raining."
+  },
+  {
+    "ID": 1863,
+    "Language": "eng",
+    "SENTENCE": "I was planning on going to the beach today, but then it started to rain."
+  },
+  {
+    "ID": 1864,
+    "Language": "eng",
+    "SENTENCE": "She's really smart, isn't she?"
+  },
+  {
+    "ID": 1865,
+    "Language": "eng",
+    "SENTENCE": "An opinion is shocking only if it is a conviction."
+  },
+  {
+    "ID": 1866,
+    "Language": "eng",
+    "SENTENCE": "People who love doubt nothing, or doubt everything."
+  },
+  {
+    "ID": 1867,
+    "Language": "eng",
+    "SENTENCE": "Justice is expensive."
+  },
+  {
+    "ID": 1868,
+    "Language": "eng",
+    "SENTENCE": "Liberty consists of being able to make everything as harmless as possible."
+  },
+  {
+    "ID": 1869,
+    "Language": "eng",
+    "SENTENCE": "The slowest one to make a promise is the most faithful one in keeping it."
+  },
+  {
+    "ID": 1870,
+    "Language": "eng",
+    "SENTENCE": "Every opinion is a mixture of truth and mistakes."
+  },
+  {
+    "ID": 1871,
+    "Language": "eng",
+    "SENTENCE": "Life is a fatal sexually transmitted disease."
+  },
+  {
+    "ID": 1872,
+    "Language": "eng",
+    "SENTENCE": "If two men always have the same opinion, one of them is unnecessary."
+  },
+  {
+    "ID": 1873,
+    "Language": "eng",
+    "SENTENCE": "Our opinion is an idea which we have; our conviction an idea which has us."
+  },
+  {
+    "ID": 1874,
+    "Language": "eng",
+    "SENTENCE": "Tomorrow, I'm going to study at the library."
+  },
+  {
+    "ID": 1875,
+    "Language": "eng",
+    "SENTENCE": "Too late."
+  },
+  {
+    "ID": 1876,
+    "Language": "eng",
+    "SENTENCE": "I went to the zoo yesterday."
+  },
+  {
+    "ID": 1877,
+    "Language": "eng",
+    "SENTENCE": "We won the battle."
+  },
+  {
+    "ID": 1878,
+    "Language": "eng",
+    "SENTENCE": "Hello? Are you still here?"
+  },
+  {
+    "ID": 1879,
+    "Language": "eng",
+    "SENTENCE": "I make lunch every day."
+  },
+  {
+    "ID": 1880,
+    "Language": "eng",
+    "SENTENCE": "I watched TV this morning."
+  },
+  {
+    "ID": 1881,
+    "Language": "eng",
+    "SENTENCE": "I read a book while eating."
+  },
+  {
+    "ID": 1882,
+    "Language": "eng",
+    "SENTENCE": "I slept a little during lunch break because I was so tired."
+  },
+  {
+    "ID": 1883,
+    "Language": "eng",
+    "SENTENCE": "I started learning Chinese last week."
+  },
+  {
+    "ID": 1884,
+    "Language": "eng",
+    "SENTENCE": "It is easier to hit on people on the Internet than in the street."
+  },
+  {
+    "ID": 1885,
+    "Language": "eng",
+    "SENTENCE": "I live near the sea, so I often get to go to the beach."
+  },
+  {
+    "ID": 1886,
+    "Language": "eng",
+    "SENTENCE": "Someday I will buy a cotton candy machine."
+  },
+  {
+    "ID": 1887,
+    "Language": "eng",
+    "SENTENCE": "It's practical to have a laptop."
+  },
+  {
+    "ID": 1888,
+    "Language": "eng",
+    "SENTENCE": "Your glasses fell on the floor."
+  },
+  {
+    "ID": 1889,
+    "Language": "eng",
+    "SENTENCE": "How many times a day do you look at yourself in the mirror?"
+  },
+  {
+    "ID": 1890,
+    "Language": "eng",
+    "SENTENCE": "We went to London last year."
+  },
+  {
+    "ID": 1891,
+    "Language": "eng",
+    "SENTENCE": "She doesn't want to talk about it."
+  },
+  {
+    "ID": 1892,
+    "Language": "eng",
+    "SENTENCE": "I lost my inspiration."
+  },
+  {
+    "ID": 1894,
+    "Language": "eng",
+    "SENTENCE": "If you don't have anything to do, look at the ceiling of your room."
+  },
+  {
+    "ID": 1895,
+    "Language": "eng",
+    "SENTENCE": "It doesn't mean anything!"
+  },
+  {
+    "ID": 1896,
+    "Language": "eng",
+    "SENTENCE": "Be patient please. It takes time."
+  },
+  {
+    "ID": 1897,
+    "Language": "eng",
+    "SENTENCE": "Close the door when you leave."
+  },
+  {
+    "ID": 1898,
+    "Language": "eng",
+    "SENTENCE": "This is such a sad story."
+  },
+  {
+    "ID": 1899,
+    "Language": "eng",
+    "SENTENCE": "If there's no solution, then there's no problem."
+  },
+  {
+    "ID": 1900,
+    "Language": "eng",
+    "SENTENCE": "My little brother is watching TV."
+  },
+  {
+    "ID": 1901,
+    "Language": "eng",
+    "SENTENCE": "It's presumptuous for humans to assume that our task is to do what only God can do."
+  },
+  {
+    "ID": 1902,
+    "Language": "eng",
+    "SENTENCE": "An astute reader should be willing to weigh everything they read, including anonymous sources."
+  },
+  {
+    "ID": 1903,
+    "Language": "eng",
+    "SENTENCE": "Denying she was an anarchist, Katja maintained she wished only to make changes in our government, not to destroy it."
+  },
+  {
+    "ID": 1904,
+    "Language": "eng",
+    "SENTENCE": "Blindness is responsible for a staggering toll of poor health, suffering, and loss of dignity and diminution in the quality of lives of people worldwide."
+  },
+  {
+    "ID": 1905,
+    "Language": "eng",
+    "SENTENCE": "The formation and movement of hurricanes are capricious, even with our present-day technology."
+  },
+  {
+    "ID": 1906,
+    "Language": "eng",
+    "SENTENCE": "When you send a telegram, brevity is essential because you will be charged for every word."
+  },
+  {
+    "ID": 1907,
+    "Language": "eng",
+    "SENTENCE": "David has a keen interest in aesthetics — the qualities that make a painting, sculpture, musical composition, or poem pleasing to the eye, ear, or mind."
+  },
+  {
+    "ID": 1908,
+    "Language": "eng",
+    "SENTENCE": "Despite Trang's constant affirmations of love, Spenser is still afraid someday she will fall out of love with him."
+  },
+  {
+    "ID": 1909,
+    "Language": "eng",
+    "SENTENCE": "You met him at the university?"
+  },
+  {
+    "ID": 1910,
+    "Language": "eng",
+    "SENTENCE": "Aaah!! My computer is broken!"
+  },
+  {
+    "ID": 1911,
+    "Language": "eng",
+    "SENTENCE": "The private colleges and universities of the United States are autonomous."
+  },
+  {
+    "ID": 1912,
+    "Language": "eng",
+    "SENTENCE": "Every time I join a new game of Warcraft, I am pitted against a new team of adversaries."
+  },
+  {
+    "ID": 1913,
+    "Language": "eng",
+    "SENTENCE": "From the moment that I knew that the university existed, I've wanted to go there."
+  },
+  {
+    "ID": 1914,
+    "Language": "eng",
+    "SENTENCE": "My apathy for voting comes from my distaste for politics."
+  },
+  {
+    "ID": 1915,
+    "Language": "eng",
+    "SENTENCE": "The ascendancy of monarchs is what keeps their subjects from rebellion."
+  },
+  {
+    "ID": 1916,
+    "Language": "eng",
+    "SENTENCE": "Sarah was discerning enough to realize that her friends were trying to prank her."
+  },
+  {
+    "ID": 1917,
+    "Language": "eng",
+    "SENTENCE": "The orchestra makes discordant noises when tuning up."
+  },
+  {
+    "ID": 1918,
+    "Language": "eng",
+    "SENTENCE": "The discrepancy between the stories of the two parties involved in the accident was so great that the authorities had a hard time deciding which side was telling the truth."
+  },
+  {
+    "ID": 1919,
+    "Language": "eng",
+    "SENTENCE": "Yes, it happens from time to time."
+  },
+  {
+    "ID": 1920,
+    "Language": "eng",
+    "SENTENCE": "I have a great fear of being disdained by those I love and care about."
+  },
+  {
+    "ID": 1921,
+    "Language": "eng",
+    "SENTENCE": "Most people have a great disinclination to get out of bed early, even if they have to."
+  },
+  {
+    "ID": 1922,
+    "Language": "eng",
+    "SENTENCE": "Most people only want to hear their own truth."
+  },
+  {
+    "ID": 1923,
+    "Language": "eng",
+    "SENTENCE": "The audience acclaimed the actors for their performance."
+  },
+  {
+    "ID": 1924,
+    "Language": "eng",
+    "SENTENCE": "It is good to have ideals... don't you think?"
+  },
+  {
+    "ID": 1925,
+    "Language": "eng",
+    "SENTENCE": "The student decided to abridge his paper by taking out unnecessary details."
+  },
+  {
+    "ID": 1926,
+    "Language": "eng",
+    "SENTENCE": "People in the world are always advocating for more freedom and equality."
+  },
+  {
+    "ID": 1927,
+    "Language": "eng",
+    "SENTENCE": "Politicians are always censured for outrageous or inappropriate behavior."
+  },
+  {
+    "ID": 1928,
+    "Language": "eng",
+    "SENTENCE": "Ms. Eichler had a notorious reputation for being austere to her students."
+  },
+  {
+    "ID": 1929,
+    "Language": "eng",
+    "SENTENCE": "If you don't listen to us, we will have to resort to coercion."
+  },
+  {
+    "ID": 1930,
+    "Language": "eng",
+    "SENTENCE": "When I have migraines, aspirin doesn't alleviate the pain for me."
+  },
+  {
+    "ID": 1931,
+    "Language": "eng",
+    "SENTENCE": "Spenser's sarcastic and joking remarks are often misinterpreted as signs of ambivalence and often taken too seriously."
+  },
+  {
+    "ID": 1932,
+    "Language": "eng",
+    "SENTENCE": "My mother prefers the arbitrary selection of the lottery machines over my lucky numbers."
+  },
+  {
+    "ID": 1933,
+    "Language": "eng",
+    "SENTENCE": "To him, hunger was an abstract concept; he always had enough to eat."
+  },
+  {
+    "ID": 1934,
+    "Language": "eng",
+    "SENTENCE": "The convicted drug dealer was willing to comply with the authorities to have his death sentence reduced to a life sentence."
+  },
+  {
+    "ID": 1935,
+    "Language": "eng",
+    "SENTENCE": "I consider the Jehovah's witnesses who knock on my door all the time to be no different from religious zealots trying to force their beliefs on me."
+  },
+  {
+    "ID": 1936,
+    "Language": "eng",
+    "SENTENCE": "The war on Iraq is a volatile subject of political debate; any wrong word and a heated argument could spark."
+  },
+  {
+    "ID": 1937,
+    "Language": "eng",
+    "SENTENCE": "My next door neighbor is a virtuoso whose skills with the piano have earned him a name among music experts."
+  },
+  {
+    "ID": 1938,
+    "Language": "eng",
+    "SENTENCE": "He was sick of being vilified all the time by people who were jealous of his ability."
+  },
+  {
+    "ID": 1939,
+    "Language": "eng",
+    "SENTENCE": "Sven was so verbose that his friends resorted to calling him a chatterbox."
+  },
+  {
+    "ID": 1940,
+    "Language": "eng",
+    "SENTENCE": "Even people who don't believe in the Catholic church venerate the Pope as a symbolic leader."
+  },
+  {
+    "ID": 1941,
+    "Language": "eng",
+    "SENTENCE": "Unsure of which suitor she wanted to marry, the princess vacillated, saying now one, now the other."
+  },
+  {
+    "ID": 1942,
+    "Language": "eng",
+    "SENTENCE": "With the heirless king going crazy and royal family poisoned, the general of the army finally had his chance to usurp the throne."
+  },
+  {
+    "ID": 1943,
+    "Language": "eng",
+    "SENTENCE": "The recent scandals involving altar boys and religious leaders have undermined the faith people have in the Church."
+  },
+  {
+    "ID": 1944,
+    "Language": "eng",
+    "SENTENCE": "As the plane was approaching turbulence, the pilot asked the passengers aboard the plane to fasten their seat belts."
+  },
+  {
+    "ID": 1945,
+    "Language": "eng",
+    "SENTENCE": "There is a fine line between speech that is terse and to the point and speech that is too abrupt."
+  },
+  {
+    "ID": 1946,
+    "Language": "eng",
+    "SENTENCE": "Though his stay in Europe was transient, Spenser felt he had learned much more about interactions with other people from traveling than he did at college."
+  },
+  {
+    "ID": 1947,
+    "Language": "eng",
+    "SENTENCE": "Jason was a taciturn individual, so it was always a real surprise when he said anything."
+  },
+  {
+    "ID": 1948,
+    "Language": "eng",
+    "SENTENCE": "The king was tired of his sycophants always praising him, so he sent them away."
+  },
+  {
+    "ID": 1949,
+    "Language": "eng",
+    "SENTENCE": "Spenser would not tell anyone his surreptitious plan to get back at his friends for pranking him."
+  },
+  {
+    "ID": 1950,
+    "Language": "eng",
+    "SENTENCE": "If Spenser doesn't keep adding and translating sentences, the other contributors will surely surpass him."
+  },
+  {
+    "ID": 1951,
+    "Language": "eng",
+    "SENTENCE": "There was always too much superfluous writing in his essays."
+  },
+  {
+    "ID": 1952,
+    "Language": "eng",
+    "SENTENCE": "His essay gave only a superficial analysis of the problem, so it was a real surprise to him when he got the highest grade in the class."
+  },
+  {
+    "ID": 1953,
+    "Language": "eng",
+    "SENTENCE": "It depends what you mean by \"believe\" in God."
+  },
+  {
+    "ID": 1954,
+    "Language": "eng",
+    "SENTENCE": "Professors should explain everything in detail, not be succinct and always tell students to go home and read their books."
+  },
+  {
+    "ID": 1955,
+    "Language": "eng",
+    "SENTENCE": "If I gave no answer, I would not have spoken."
+  },
+  {
+    "ID": 1956,
+    "Language": "eng",
+    "SENTENCE": "Prosecutors in court have to substantiate their claims in order to prove a suspect is guilty."
+  },
+  {
+    "ID": 1957,
+    "Language": "eng",
+    "SENTENCE": "The people who come on the Maury Povich show often make pretentious claims about their lovers cheating on them."
+  },
+  {
+    "ID": 1958,
+    "Language": "eng",
+    "SENTENCE": "It is a prevalent belief, according to a nationwide poll in the United States, that Muslims are linked with terrorism."
+  },
+  {
+    "ID": 1959,
+    "Language": "eng",
+    "SENTENCE": "My roommate is prodigal when it comes to spending money on movies; he buys them the day they're released, regardless of price."
+  },
+  {
+    "ID": 1960,
+    "Language": "eng",
+    "SENTENCE": "The profane language used on network television makes many parents with young children not want to subscribe to cable."
+  },
+  {
+    "ID": 1961,
+    "Language": "eng",
+    "SENTENCE": "Freud's insights into human behavior led to him being honored as a profound thinker."
+  },
+  {
+    "ID": 1962,
+    "Language": "eng",
+    "SENTENCE": "Food and drink were served in such profusion at the wedding that the bride and groom began to wonder if they should not have invited more guests."
+  },
+  {
+    "ID": 1963,
+    "Language": "eng",
+    "SENTENCE": "The proliferation of Internet usage has given birth to a new generation of young people."
+  },
+  {
+    "ID": 1964,
+    "Language": "eng",
+    "SENTENCE": "My friends say I'm a prolific writer, but I haven't written anything for months."
+  },
+  {
+    "ID": 1965,
+    "Language": "eng",
+    "SENTENCE": "Blind people sometimes develop a compensatory ability to sense the proximity of objects around them."
+  },
+  {
+    "ID": 1966,
+    "Language": "eng",
+    "SENTENCE": "A miser hoards money not because he is prudent but because he is greedy."
+  },
+  {
+    "ID": 1967,
+    "Language": "eng",
+    "SENTENCE": "When both girls told John they had feelings for him, he was in a quandary as to which girl he should be with."
+  },
+  {
+    "ID": 1968,
+    "Language": "eng",
+    "SENTENCE": "Even now, many years after the Cold War, there is still much rancor between the Russians and the Germans, especially in areas once occupied by the Soviet Union."
+  },
+  {
+    "ID": 1969,
+    "Language": "eng",
+    "SENTENCE": "The defense lawyer was confident that he would be able to answer the prosecutor's arguments in his rebuttal."
+  },
+  {
+    "ID": 1970,
+    "Language": "eng",
+    "SENTENCE": "Johnson is a recluse; he prefers to isolate himself from the rest of the students in our class."
+  },
+  {
+    "ID": 1971,
+    "Language": "eng",
+    "SENTENCE": "Teachers must get tired of rectifying the same mistakes over and over again in their students' papers."
+  },
+  {
+    "ID": 1972,
+    "Language": "eng",
+    "SENTENCE": "The bottles of beer that I brought to the party were redundant; the host's family owned a brewery."
+  },
+  {
+    "ID": 1973,
+    "Language": "eng",
+    "SENTENCE": "The witnesses were able to refute the false testimony of the suspect."
+  },
+  {
+    "ID": 1974,
+    "Language": "eng",
+    "SENTENCE": "The guild leader relegated Vince to a lesser officer because he was abusing his power."
+  },
+  {
+    "ID": 1975,
+    "Language": "eng",
+    "SENTENCE": "Joan of Arc refused to renounce her belief that the voice she heard was from God and none other."
+  },
+  {
+    "ID": 1976,
+    "Language": "eng",
+    "SENTENCE": "Shocked by the events of September 11th, politicians all over the world condemned the terrorists for their reprehensible deed."
+  },
+  {
+    "ID": 1977,
+    "Language": "eng",
+    "SENTENCE": "James had a great fear of making mistakes in class and being reprimanded."
+  },
+  {
+    "ID": 1978,
+    "Language": "eng",
+    "SENTENCE": "The principal severely reproved the students whenever they made a mess in the hallway."
+  },
+  {
+    "ID": 1979,
+    "Language": "eng",
+    "SENTENCE": "My parents would repudiate my brother if they ever found out he was gay."
+  },
+  {
+    "ID": 1980,
+    "Language": "eng",
+    "SENTENCE": "In order to keep his original idea from being copied, Henry resorted to reticence."
+  },
+  {
+    "ID": 1981,
+    "Language": "eng",
+    "SENTENCE": "I would like to retract my previous statement."
+  },
+  {
+    "ID": 1982,
+    "Language": "eng",
+    "SENTENCE": "To win his audience, the speaker resorted to using rhetorical techniques he learned from his communication courses."
+  },
+  {
+    "ID": 1983,
+    "Language": "eng",
+    "SENTENCE": "His father would never sanction his engagement to a girl who did not share the same religious beliefs as their family."
+  },
+  {
+    "ID": 1984,
+    "Language": "eng",
+    "SENTENCE": "Tim is a huge fan of satirical comedy."
+  },
+  {
+    "ID": 1985,
+    "Language": "eng",
+    "SENTENCE": "Though Alfred is scrupulous in fulfilling his duties at work, he is less conscientious about his obligations at home."
+  },
+  {
+    "ID": 1986,
+    "Language": "eng",
+    "SENTENCE": "Spenser's mother often scrutinizes him for every small mistake he makes."
+  },
+  {
+    "ID": 1987,
+    "Language": "eng",
+    "SENTENCE": "All the king's subjects, fearing his wrath, often acted quite servile."
+  },
+  {
+    "ID": 1988,
+    "Language": "eng",
+    "SENTENCE": "People are often quite skeptical about things unless given believable proof."
+  },
+  {
+    "ID": 1989,
+    "Language": "eng",
+    "SENTENCE": "From the doctor's grim expression, it was clear he had somber news for the patient."
+  },
+  {
+    "ID": 1990,
+    "Language": "eng",
+    "SENTENCE": "I always have to check my yard for stagnant pools of water so mosquitoes don't breed there."
+  },
+  {
+    "ID": 1991,
+    "Language": "eng",
+    "SENTENCE": "Sometimes he has difficulty being articulate about his views."
+  },
+  {
+    "ID": 1992,
+    "Language": "eng",
+    "SENTENCE": "Peter was an altruistic video game player; he would give items to people who needed them, rather than selling them for personal profit."
+  },
+  {
+    "ID": 1993,
+    "Language": "eng",
+    "SENTENCE": "Jimmy tried to cajole his parents into letting him drive across the country with his friends."
+  },
+  {
+    "ID": 1994,
+    "Language": "eng",
+    "SENTENCE": "Censorious people delight in casting blame."
+  },
+  {
+    "ID": 1995,
+    "Language": "eng",
+    "SENTENCE": "Pop artists thrive on the adulation of their loyal fans."
+  },
+  {
+    "ID": 1996,
+    "Language": "eng",
+    "SENTENCE": "We must learn to meet adversity gracefully."
+  },
+  {
+    "ID": 1997,
+    "Language": "eng",
+    "SENTENCE": "Bill Clinton spoke in ambiguous language when asked to describe his relationship with Monica Lewinsky."
+  },
+  {
+    "ID": 1998,
+    "Language": "eng",
+    "SENTENCE": "He was a benevolent old man who volunteered to mow his neighbors' lawns for free."
+  },
+  {
+    "ID": 1999,
+    "Language": "eng",
+    "SENTENCE": "His stern tone and loud voice belied his inner sensitivity and caring nature."
+  },
+  {
+    "ID": 2000,
+    "Language": "eng",
+    "SENTENCE": "The wealthy, self-indulgent young man felt oddly drawn to the strict, ascetic life led by members of some monastic orders."
+  },
+  {
+    "ID": 2001,
+    "Language": "eng",
+    "SENTENCE": "The statue of the Minute Man commemorates the valiant soldiers who fought in the Revolutionary War."
+  },
+  {
+    "ID": 2002,
+    "Language": "eng",
+    "SENTENCE": "Baffled by Sherlock Holmes' cryptic remarks, Watson wondered whether Holmes was intentionally concealing his thoughts about the crime."
+  },
+  {
+    "ID": 2003,
+    "Language": "eng",
+    "SENTENCE": "What criterion did you use when you elected this essay as the winner?"
+  },
+  {
+    "ID": 2004,
+    "Language": "eng",
+    "SENTENCE": "Con artists take advantage of the credulity of inexperienced investors and swindle them out of their money."
+  },
+  {
+    "ID": 2005,
+    "Language": "eng",
+    "SENTENCE": "I cannot dance one single step of Salsa."
+  },
+  {
+    "ID": 2006,
+    "Language": "eng",
+    "SENTENCE": "Even if your sentences were actually senseless, you at least have the luck to be able to form beautiful sentences."
+  },
+  {
+    "ID": 2007,
+    "Language": "eng",
+    "SENTENCE": "I like my job very much."
+  },
+  {
+    "ID": 2008,
+    "Language": "eng",
+    "SENTENCE": "Ray was willing to corroborate Gary's story, but the police were still unconvinced that either of them were telling the truth."
+  },
+  {
+    "ID": 2009,
+    "Language": "eng",
+    "SENTENCE": "The murderer was convicted and sentenced to life in prison."
+  },
+  {
+    "ID": 2010,
+    "Language": "eng",
+    "SENTENCE": "Sometimes hockey players get so competitive that fights break out."
+  },
+  {
+    "ID": 2011,
+    "Language": "eng",
+    "SENTENCE": "There was a feeling of constraint in the room; no one dared to tell the king how foolish his decision was."
+  },
+  {
+    "ID": 2012,
+    "Language": "eng",
+    "SENTENCE": "The consensus indicates that we are opposed to the proposed idea."
+  },
+  {
+    "ID": 2013,
+    "Language": "eng",
+    "SENTENCE": "A small forest fire can easily spread and quickly become a great conflagration."
+  },
+  {
+    "ID": 2014,
+    "Language": "eng",
+    "SENTENCE": "Even though he had served his time in prison, the murderer was never quite condoned by the public for his crime."
+  },
+  {
+    "ID": 2015,
+    "Language": "eng",
+    "SENTENCE": "I find words with concise definitions to be the easiest to remember."
+  },
+  {
+    "ID": 2016,
+    "Language": "eng",
+    "SENTENCE": "He was still mad about the accident despite his wife's conciliatory words."
+  },
+  {
+    "ID": 2017,
+    "Language": "eng",
+    "SENTENCE": "A cursory examination of his teeth indicated that he had gingivitis."
+  },
+  {
+    "ID": 2018,
+    "Language": "eng",
+    "SENTENCE": "It was a surprise to see all the students behaving with decorum on prom night."
+  },
+  {
+    "ID": 2019,
+    "Language": "eng",
+    "SENTENCE": "The news article painted the defendant as a guilty man, even though he had been proven innocent."
+  },
+  {
+    "ID": 2020,
+    "Language": "eng",
+    "SENTENCE": "The politician pushed for reform by denouncing the corruption of the government officials."
+  },
+  {
+    "ID": 2021,
+    "Language": "eng",
+    "SENTENCE": "The depravity of the king's deeds led the people to believe he was nothing more than a tyrant that needed to be overthrown."
+  },
+  {
+    "ID": 2022,
+    "Language": "eng",
+    "SENTENCE": "I dreamt about you."
+  },
+  {
+    "ID": 2023,
+    "Language": "eng",
+    "SENTENCE": "I have to get a new computer."
+  },
+  {
+    "ID": 2024,
+    "Language": "eng",
+    "SENTENCE": "I won't lose!"
+  },
+  {
+    "ID": 2025,
+    "Language": "eng",
+    "SENTENCE": "I was late to school."
+  },
+  {
+    "ID": 2026,
+    "Language": "eng",
+    "SENTENCE": "Classes are starting again soon."
+  },
+  {
+    "ID": 2027,
+    "Language": "eng",
+    "SENTENCE": "I think I'm gonna sneeze. Give me a tissue."
+  },
+  {
+    "ID": 2028,
+    "Language": "eng",
+    "SENTENCE": "For a moment there, I thought he had gone mad."
+  },
+  {
+    "ID": 2029,
+    "Language": "eng",
+    "SENTENCE": "This day was just a waste of time and money."
+  },
+  {
+    "ID": 2030,
+    "Language": "eng",
+    "SENTENCE": "It caught me off guard; I didn't know what to do."
+  },
+  {
+    "ID": 2031,
+    "Language": "eng",
+    "SENTENCE": "But you've never told me about this!"
+  },
+  {
+    "ID": 2032,
+    "Language": "eng",
+    "SENTENCE": "I've changed my website's layout."
+  },
+  {
+    "ID": 2033,
+    "Language": "eng",
+    "SENTENCE": "When we are small, everything seems so big."
+  },
+  {
+    "ID": 2034,
+    "Language": "eng",
+    "SENTENCE": "He won't beat me."
+  },
+  {
+    "ID": 2035,
+    "Language": "eng",
+    "SENTENCE": "I have to do laundry while it's still sunny."
+  },
+  {
+    "ID": 2036,
+    "Language": "eng",
+    "SENTENCE": "Sorry, I don't think I'm gonna be able to."
+  },
+  {
+    "ID": 2037,
+    "Language": "eng",
+    "SENTENCE": "You had plenty of time."
+  },
+  {
+    "ID": 2038,
+    "Language": "eng",
+    "SENTENCE": "Stop criticizing me!"
+  },
+  {
+    "ID": 2039,
+    "Language": "eng",
+    "SENTENCE": "Come on! Talk to me, Trang."
+  },
+  {
+    "ID": 2040,
+    "Language": "eng",
+    "SENTENCE": "I'm almost done."
+  },
+  {
+    "ID": 2041,
+    "Language": "eng",
+    "SENTENCE": "Take the other chair!"
+  },
+  {
+    "ID": 2042,
+    "Language": "eng",
+    "SENTENCE": "How many sandwiches are there left?"
+  },
+  {
+    "ID": 2043,
+    "Language": "eng",
+    "SENTENCE": "I'm not inspired anymore."
+  },
+  {
+    "ID": 2044,
+    "Language": "eng",
+    "SENTENCE": "I won't lower myself to his level."
+  },
+  {
+    "ID": 2045,
+    "Language": "eng",
+    "SENTENCE": "We could see the sunset from the window."
+  },
+  {
+    "ID": 2046,
+    "Language": "eng",
+    "SENTENCE": "It's driving me crazy."
+  },
+  {
+    "ID": 2047,
+    "Language": "eng",
+    "SENTENCE": "Did you say that I could never win?"
+  },
+  {
+    "ID": 2048,
+    "Language": "eng",
+    "SENTENCE": "It's all dark outside."
+  },
+  {
+    "ID": 2049,
+    "Language": "eng",
+    "SENTENCE": "What happened? There's water all over the apartment."
+  },
+  {
+    "ID": 2050,
+    "Language": "eng",
+    "SENTENCE": "During summer breaks, I ate dinner at midnight."
+  },
+  {
+    "ID": 2051,
+    "Language": "eng",
+    "SENTENCE": "You can finish your essay now."
+  },
+  {
+    "ID": 2052,
+    "Language": "eng",
+    "SENTENCE": "You will say and do things your parents said and did, even if you swore you would never do them."
+  },
+  {
+    "ID": 2053,
+    "Language": "eng",
+    "SENTENCE": "I am alive even though I am not giving any sign of life."
+  },
+  {
+    "ID": 2054,
+    "Language": "eng",
+    "SENTENCE": "Never try to die."
+  },
+  {
+    "ID": 2055,
+    "Language": "eng",
+    "SENTENCE": "I am too old for this world."
+  },
+  {
+    "ID": 2056,
+    "Language": "eng",
+    "SENTENCE": "Life begins when we realize who we really are."
+  },
+  {
+    "ID": 2057,
+    "Language": "eng",
+    "SENTENCE": "Life starts when you decide what you are expecting from it."
+  },
+  {
+    "ID": 2058,
+    "Language": "eng",
+    "SENTENCE": "Life begins when you pay taxes."
+  },
+  {
+    "ID": 2059,
+    "Language": "eng",
+    "SENTENCE": "What you don't have is better than what you do have."
+  },
+  {
+    "ID": 2060,
+    "Language": "eng",
+    "SENTENCE": "Life begins when you're ready to live it."
+  },
+  {
+    "ID": 2061,
+    "Language": "eng",
+    "SENTENCE": "It is never too late to learn."
+  },
+  {
+    "ID": 2062,
+    "Language": "eng",
+    "SENTENCE": "It's just five in the morning, but nevertheless it is light out."
+  },
+  {
+    "ID": 2063,
+    "Language": "eng",
+    "SENTENCE": "He told me the story of his life."
+  },
+  {
+    "ID": 2064,
+    "Language": "eng",
+    "SENTENCE": "I never said I was fragile."
+  },
+  {
+    "ID": 1800,
+    "Language": "eng",
+    "SENTENCE": "Don't worry, be happy!"
+  },
+  {
+    "ID": 1801,
+    "Language": "eng",
+    "SENTENCE": "I find foreign languages very interesting."
+  },
+  {
+    "ID": 1802,
+    "Language": "eng",
+    "SENTENCE": "I don't like learning irregular verbs."
+  },
+  {
+    "ID": 1803,
+    "Language": "eng",
+    "SENTENCE": "Take a book and read it."
+  },
+  {
+    "ID": 1804,
+    "Language": "eng",
+    "SENTENCE": "Face life with a smile!"
+  },
+  {
+    "ID": 1805,
+    "Language": "eng",
+    "SENTENCE": "Most schools were designed not to transform society, but to reproduce it."
+  },
+  {
+    "ID": 1806,
+    "Language": "eng",
+    "SENTENCE": "You make me dream."
+  },
+  {
+    "ID": 1807,
+    "Language": "eng",
+    "SENTENCE": "I'm beside myself with joy."
+  },
+  {
+    "ID": 1808,
+    "Language": "eng",
+    "SENTENCE": "He's already a man."
+  },
+  {
+    "ID": 1809,
+    "Language": "eng",
+    "SENTENCE": "The vacation is over now."
+  },
+  {
+    "ID": 1810,
+    "Language": "eng",
+    "SENTENCE": "I'm afraid to fall."
+  },
+  {
+    "ID": 1811,
+    "Language": "eng",
+    "SENTENCE": "Evening dress is desired."
+  },
+  {
+    "ID": 1812,
+    "Language": "eng",
+    "SENTENCE": "That's the absolute truth."
+  },
+  {
+    "ID": 1813,
+    "Language": "eng",
+    "SENTENCE": "It's cold."
+  },
+  {
+    "ID": 1814,
+    "Language": "eng",
+    "SENTENCE": "I'm thirsty."
+  },
+  {
+    "ID": 1815,
+    "Language": "eng",
+    "SENTENCE": "When I ask people what they regret most about high school, they nearly all say the same thing: that they wasted so much time."
+  },
+  {
+    "ID": 1817,
+    "Language": "eng",
+    "SENTENCE": "When you can't do what you want, you do what you can."
+  },
+  {
+    "ID": 1818,
+    "Language": "eng",
+    "SENTENCE": "Give him an inch and he'll take a yard."
+  },
+  {
+    "ID": 1819,
+    "Language": "eng",
+    "SENTENCE": "You did this intentionally!"
+  },
+  {
+    "ID": 1820,
+    "Language": "eng",
+    "SENTENCE": "You didn't tell him anything?"
+  },
+  {
+    "ID": 1821,
+    "Language": "eng",
+    "SENTENCE": "You made me lose my mind."
+  },
+  {
+    "ID": 1822,
+    "Language": "eng",
+    "SENTENCE": "You're my type."
+  },
+  {
+    "ID": 1823,
+    "Language": "eng",
+    "SENTENCE": "You're irresistible."
+  },
+  {
+    "ID": 1824,
+    "Language": "eng",
+    "SENTENCE": "Could you call again later, please?"
+  },
+  {
+    "ID": 1825,
+    "Language": "eng",
+    "SENTENCE": "Who am I talking with?"
+  },
+  {
+    "ID": 1826,
+    "Language": "eng",
+    "SENTENCE": "I accept, but only under one condition."
+  },
+  {
+    "ID": 1827,
+    "Language": "eng",
+    "SENTENCE": "Smile now, cry later!"
+  },
+  {
+    "ID": 1828,
+    "Language": "eng",
+    "SENTENCE": "At the age of six he had learned to use the typewriter and told the teacher that he did not need to learn to write by hand."
+  },
+  {
+    "ID": 1829,
+    "Language": "eng",
+    "SENTENCE": "Life is beautiful."
+  },
+  {
+    "ID": 1830,
+    "Language": "eng",
+    "SENTENCE": "There are days where I feel like my brain wants to abandon me."
+  },
+  {
+    "ID": 1831,
+    "Language": "eng",
+    "SENTENCE": "I can't cut my nails and do the ironing at the same time!"
+  },
+  {
+    "ID": 1832,
+    "Language": "eng",
+    "SENTENCE": "I can't take it anymore! I haven't slept for three days!"
+  },
+  {
+    "ID": 1833,
+    "Language": "eng",
+    "SENTENCE": "He doesn't want you to tell him about your sex life."
+  },
+  {
+    "ID": 1834,
+    "Language": "eng",
+    "SENTENCE": "Have you ever eaten a banana pie?"
+  },
+  {
+    "ID": 1835,
+    "Language": "eng",
+    "SENTENCE": "Why would you marry a woman if you like men?"
+  },
+  {
+    "ID": 1836,
+    "Language": "eng",
+    "SENTENCE": "If you can't have children, you could always adopt."
+  },
+  {
+    "ID": 1837,
+    "Language": "eng",
+    "SENTENCE": "Are you for or against abortions?"
+  },
+  {
+    "ID": 1838,
+    "Language": "eng",
+    "SENTENCE": "What made you change your mind?"
+  },
+  {
+    "ID": 1839,
+    "Language": "eng",
+    "SENTENCE": "Hey, look, a three-headed monkey!"
+  },
+  {
+    "ID": 1840,
+    "Language": "eng",
+    "SENTENCE": "It's a pity that you can't buy miracles like you would buy potatoes."
+  },
+  {
+    "ID": 1841,
+    "Language": "eng",
+    "SENTENCE": "I love lasagna."
+  },
+  {
+    "ID": 1842,
+    "Language": "eng",
+    "SENTENCE": "If you know that something unpleasant will happen, that you will go to the dentist for example, or to France, then that is not good."
+  },
+  {
+    "ID": 1843,
+    "Language": "eng",
+    "SENTENCE": "Half an eye is very useful actually, because an animal can see half of another animal, which wants to eat it, and can get out of the way, and it will eat the animal, which has only one-half eye or only 49% of an eye, because this to it will not be enough, and the animal, which was eaten up, will have no children, because it is dead."
+  },
+  {
+    "ID": 1844,
+    "Language": "eng",
+    "SENTENCE": "Prime numbers are like life; they are completely logical, but impossible to find the rules for, even if you spend all your time thinking about it."
+  },
+  {
+    "ID": 1845,
+    "Language": "eng",
+    "SENTENCE": "If you raise an eyebrow, it can mean \"I want to have sex with you\", but also \"I find that what you just said is completely idiotic."
+  },
+  {
+    "ID": 1846,
+    "Language": "eng",
+    "SENTENCE": "The brain is just a complicated machine."
+  },
+  {
+    "ID": 1847,
+    "Language": "eng",
+    "SENTENCE": "A schedule is an identity card for time, but, if you don't have a schedule, the time isn't there."
+  },
+  {
+    "ID": 1848,
+    "Language": "eng",
+    "SENTENCE": "This baby penguin is too cute!"
+  },
+  {
+    "ID": 1850,
+    "Language": "eng",
+    "SENTENCE": "I'm at the hospital. I got struck by lightning."
+  },
+  {
+    "ID": 1851,
+    "Language": "eng",
+    "SENTENCE": "Let's face it, it's impossible. We're never gonna make it."
+  },
+  {
+    "ID": 1852,
+    "Language": "eng",
+    "SENTENCE": "What is your greatest source of inspiration?"
+  },
+  {
+    "ID": 1853,
+    "Language": "eng",
+    "SENTENCE": "You don't marry someone you can live with — you marry the person whom you cannot live without."
+  },
+  {
+    "ID": 1854,
+    "Language": "eng",
+    "SENTENCE": "In theory, there is no difference between theory and practice. But, in practice, there is."
+  },
+  {
+    "ID": 1855,
+    "Language": "eng",
+    "SENTENCE": "Don't stay in bed, unless you can make money in bed."
+  },
+  {
+    "ID": 1856,
+    "Language": "eng",
+    "SENTENCE": "There are people in the world so hungry, that God cannot appear to them except in the form of bread."
+  },
+  {
+    "ID": 1857,
+    "Language": "eng",
+    "SENTENCE": "Anything that is too stupid to be spoken is sung."
+  },
+  {
+    "ID": 1858,
+    "Language": "eng",
+    "SENTENCE": "It requires wisdom to understand wisdom: the music is nothing if the audience is deaf."
+  },
+  {
+    "ID": 1859,
+    "Language": "eng",
+    "SENTENCE": "I was rereading the letters you sent to me."
+  },
+  {
+    "ID": 1860,
+    "Language": "eng",
+    "SENTENCE": "I don't want to go to school."
+  },
+  {
+    "ID": 1861,
+    "Language": "eng",
+    "SENTENCE": "It's over between us. Give me back my ring!"
+  },
+  {
+    "ID": 1862,
+    "Language": "eng",
+    "SENTENCE": "It is raining."
+  },
+  {
+    "ID": 1863,
+    "Language": "eng",
+    "SENTENCE": "I was planning on going to the beach today, but then it started to rain."
+  },
+  {
+    "ID": 1864,
+    "Language": "eng",
+    "SENTENCE": "She's really smart, isn't she?"
+  },
+  {
+    "ID": 1865,
+    "Language": "eng",
+    "SENTENCE": "An opinion is shocking only if it is a conviction."
+  },
+  {
+    "ID": 1866,
+    "Language": "eng",
+    "SENTENCE": "People who love doubt nothing, or doubt everything."
+  },
+  {
+    "ID": 1867,
+    "Language": "eng",
+    "SENTENCE": "Justice is expensive."
+  },
+  {
+    "ID": 1868,
+    "Language": "eng",
+    "SENTENCE": "Liberty consists of being able to make everything as harmless as possible."
+  },
+  {
+    "ID": 1869,
+    "Language": "eng",
+    "SENTENCE": "The slowest one to make a promise is the most faithful one in keeping it."
+  },
+  {
+    "ID": 1870,
+    "Language": "eng",
+    "SENTENCE": "Every opinion is a mixture of truth and mistakes."
+  },
+  {
+    "ID": 1871,
+    "Language": "eng",
+    "SENTENCE": "Life is a fatal sexually transmitted disease."
+  },
+  {
+    "ID": 1872,
+    "Language": "eng",
+    "SENTENCE": "If two men always have the same opinion, one of them is unnecessary."
+  },
+  {
+    "ID": 1873,
+    "Language": "eng",
+    "SENTENCE": "Our opinion is an idea which we have; our conviction an idea which has us."
+  },
+  {
+    "ID": 1874,
+    "Language": "eng",
+    "SENTENCE": "Tomorrow, I'm going to study at the library."
+  },
+  {
+    "ID": 1875,
+    "Language": "eng",
+    "SENTENCE": "Too late."
+  },
+  {
+    "ID": 1876,
+    "Language": "eng",
+    "SENTENCE": "I went to the zoo yesterday."
+  },
+  {
+    "ID": 1877,
+    "Language": "eng",
+    "SENTENCE": "We won the battle."
+  },
+  {
+    "ID": 1878,
+    "Language": "eng",
+    "SENTENCE": "Hello? Are you still here?"
+  },
+  {
+    "ID": 1879,
+    "Language": "eng",
+    "SENTENCE": "I make lunch every day."
+  },
+  {
+    "ID": 1880,
+    "Language": "eng",
+    "SENTENCE": "I watched TV this morning."
+  },
+  {
+    "ID": 1881,
+    "Language": "eng",
+    "SENTENCE": "I read a book while eating."
+  },
+  {
+    "ID": 1882,
+    "Language": "eng",
+    "SENTENCE": "I slept a little during lunch break because I was so tired."
+  },
+  {
+    "ID": 1883,
+    "Language": "eng",
+    "SENTENCE": "I started learning Chinese last week."
+  },
+  {
+    "ID": 1884,
+    "Language": "eng",
+    "SENTENCE": "It is easier to hit on people on the Internet than in the street."
+  },
+  {
+    "ID": 1885,
+    "Language": "eng",
+    "SENTENCE": "I live near the sea, so I often get to go to the beach."
+  },
+  {
+    "ID": 1886,
+    "Language": "eng",
+    "SENTENCE": "Someday I will buy a cotton candy machine."
+  },
+  {
+    "ID": 1887,
+    "Language": "eng",
+    "SENTENCE": "It's practical to have a laptop."
+  },
+  {
+    "ID": 1888,
+    "Language": "eng",
+    "SENTENCE": "Your glasses fell on the floor."
+  },
+  {
+    "ID": 1889,
+    "Language": "eng",
+    "SENTENCE": "How many times a day do you look at yourself in the mirror?"
+  },
+  {
+    "ID": 1890,
+    "Language": "eng",
+    "SENTENCE": "We went to London last year."
+  },
+  {
+    "ID": 1891,
+    "Language": "eng",
+    "SENTENCE": "She doesn't want to talk about it."
+  },
+  {
+    "ID": 1892,
+    "Language": "eng",
+    "SENTENCE": "I lost my inspiration."
+  },
+  {
+    "ID": 1894,
+    "Language": "eng",
+    "SENTENCE": "If you don't have anything to do, look at the ceiling of your room."
+  },
+  {
+    "ID": 1895,
+    "Language": "eng",
+    "SENTENCE": "It doesn't mean anything!"
+  },
+  {
+    "ID": 1896,
+    "Language": "eng",
+    "SENTENCE": "Be patient please. It takes time."
+  },
+  {
+    "ID": 1897,
+    "Language": "eng",
+    "SENTENCE": "Close the door when you leave."
+  },
+  {
+    "ID": 1898,
+    "Language": "eng",
+    "SENTENCE": "This is such a sad story."
+  },
+  {
+    "ID": 1899,
+    "Language": "eng",
+    "SENTENCE": "If there's no solution, then there's no problem."
+  },
+  {
+    "ID": 1900,
+    "Language": "eng",
+    "SENTENCE": "My little brother is watching TV."
+  },
+  {
+    "ID": 1901,
+    "Language": "eng",
+    "SENTENCE": "It's presumptuous for humans to assume that our task is to do what only God can do."
+  },
+  {
+    "ID": 1902,
+    "Language": "eng",
+    "SENTENCE": "An astute reader should be willing to weigh everything they read, including anonymous sources."
+  },
+  {
+    "ID": 1903,
+    "Language": "eng",
+    "SENTENCE": "Denying she was an anarchist, Katja maintained she wished only to make changes in our government, not to destroy it."
+  },
+  {
+    "ID": 1904,
+    "Language": "eng",
+    "SENTENCE": "Blindness is responsible for a staggering toll of poor health, suffering, and loss of dignity and diminution in the quality of lives of people worldwide."
+  },
+  {
+    "ID": 1905,
+    "Language": "eng",
+    "SENTENCE": "The formation and movement of hurricanes are capricious, even with our present-day technology."
+  },
+  {
+    "ID": 1906,
+    "Language": "eng",
+    "SENTENCE": "When you send a telegram, brevity is essential because you will be charged for every word."
+  },
+  {
+    "ID": 1907,
+    "Language": "eng",
+    "SENTENCE": "David has a keen interest in aesthetics — the qualities that make a painting, sculpture, musical composition, or poem pleasing to the eye, ear, or mind."
+  },
+  {
+    "ID": 1908,
+    "Language": "eng",
+    "SENTENCE": "Despite Trang's constant affirmations of love, Spenser is still afraid someday she will fall out of love with him."
+  },
+  {
+    "ID": 1909,
+    "Language": "eng",
+    "SENTENCE": "You met him at the university?"
+  },
+  {
+    "ID": 1910,
+    "Language": "eng",
+    "SENTENCE": "Aaah!! My computer is broken!"
+  },
+  {
+    "ID": 1911,
+    "Language": "eng",
+    "SENTENCE": "The private colleges and universities of the United States are autonomous."
+  },
+  {
+    "ID": 1912,
+    "Language": "eng",
+    "SENTENCE": "Every time I join a new game of Warcraft, I am pitted against a new team of adversaries."
+  },
+  {
+    "ID": 1913,
+    "Language": "eng",
+    "SENTENCE": "From the moment that I knew that the university existed, I've wanted to go there."
+  },
+  {
+    "ID": 1914,
+    "Language": "eng",
+    "SENTENCE": "My apathy for voting comes from my distaste for politics."
+  },
+  {
+    "ID": 1915,
+    "Language": "eng",
+    "SENTENCE": "The ascendancy of monarchs is what keeps their subjects from rebellion."
+  },
+  {
+    "ID": 1916,
+    "Language": "eng",
+    "SENTENCE": "Sarah was discerning enough to realize that her friends were trying to prank her."
+  },
+  {
+    "ID": 1917,
+    "Language": "eng",
+    "SENTENCE": "The orchestra makes discordant noises when tuning up."
+  },
+  {
+    "ID": 1918,
+    "Language": "eng",
+    "SENTENCE": "The discrepancy between the stories of the two parties involved in the accident was so great that the authorities had a hard time deciding which side was telling the truth."
+  },
+  {
+    "ID": 1919,
+    "Language": "eng",
+    "SENTENCE": "Yes, it happens from time to time."
+  },
+  {
+    "ID": 1920,
+    "Language": "eng",
+    "SENTENCE": "I have a great fear of being disdained by those I love and care about."
+  },
+  {
+    "ID": 1921,
+    "Language": "eng",
+    "SENTENCE": "Most people have a great disinclination to get out of bed early, even if they have to."
+  },
+  {
+    "ID": 1922,
+    "Language": "eng",
+    "SENTENCE": "Most people only want to hear their own truth."
+  },
+  {
+    "ID": 1923,
+    "Language": "eng",
+    "SENTENCE": "The audience acclaimed the actors for their performance."
+  },
+  {
+    "ID": 1924,
+    "Language": "eng",
+    "SENTENCE": "It is good to have ideals... don't you think?"
+  },
+  {
+    "ID": 1925,
+    "Language": "eng",
+    "SENTENCE": "The student decided to abridge his paper by taking out unnecessary details."
+  },
+  {
+    "ID": 1926,
+    "Language": "eng",
+    "SENTENCE": "People in the world are always advocating for more freedom and equality."
+  },
+  {
+    "ID": 1927,
+    "Language": "eng",
+    "SENTENCE": "Politicians are always censured for outrageous or inappropriate behavior."
+  },
+  {
+    "ID": 1928,
+    "Language": "eng",
+    "SENTENCE": "Ms. Eichler had a notorious reputation for being austere to her students."
+  },
+  {
+    "ID": 1929,
+    "Language": "eng",
+    "SENTENCE": "If you don't listen to us, we will have to resort to coercion."
+  },
+  {
+    "ID": 1930,
+    "Language": "eng",
+    "SENTENCE": "When I have migraines, aspirin doesn't alleviate the pain for me."
+  },
+  {
+    "ID": 1931,
+    "Language": "eng",
+    "SENTENCE": "Spenser's sarcastic and joking remarks are often misinterpreted as signs of ambivalence and often taken too seriously."
+  },
+  {
+    "ID": 1932,
+    "Language": "eng",
+    "SENTENCE": "My mother prefers the arbitrary selection of the lottery machines over my lucky numbers."
+  },
+  {
+    "ID": 1933,
+    "Language": "eng",
+    "SENTENCE": "To him, hunger was an abstract concept; he always had enough to eat."
+  },
+  {
+    "ID": 1934,
+    "Language": "eng",
+    "SENTENCE": "The convicted drug dealer was willing to comply with the authorities to have his death sentence reduced to a life sentence."
+  },
+  {
+    "ID": 1935,
+    "Language": "eng",
+    "SENTENCE": "I consider the Jehovah's witnesses who knock on my door all the time to be no different from religious zealots trying to force their beliefs on me."
+  },
+  {
+    "ID": 1936,
+    "Language": "eng",
+    "SENTENCE": "The war on Iraq is a volatile subject of political debate; any wrong word and a heated argument could spark."
+  },
+  {
+    "ID": 1937,
+    "Language": "eng",
+    "SENTENCE": "My next door neighbor is a virtuoso whose skills with the piano have earned him a name among music experts."
+  },
+  {
+    "ID": 1938,
+    "Language": "eng",
+    "SENTENCE": "He was sick of being vilified all the time by people who were jealous of his ability."
+  },
+  {
+    "ID": 1939,
+    "Language": "eng",
+    "SENTENCE": "Sven was so verbose that his friends resorted to calling him a chatterbox."
+  },
+  {
+    "ID": 1940,
+    "Language": "eng",
+    "SENTENCE": "Even people who don't believe in the Catholic church venerate the Pope as a symbolic leader."
+  },
+  {
+    "ID": 1941,
+    "Language": "eng",
+    "SENTENCE": "Unsure of which suitor she wanted to marry, the princess vacillated, saying now one, now the other."
+  },
+  {
+    "ID": 1942,
+    "Language": "eng",
+    "SENTENCE": "With the heirless king going crazy and royal family poisoned, the general of the army finally had his chance to usurp the throne."
+  },
+  {
+    "ID": 1943,
+    "Language": "eng",
+    "SENTENCE": "The recent scandals involving altar boys and religious leaders have undermined the faith people have in the Church."
+  },
+  {
+    "ID": 1944,
+    "Language": "eng",
+    "SENTENCE": "As the plane was approaching turbulence, the pilot asked the passengers aboard the plane to fasten their seat belts."
+  },
+  {
+    "ID": 1945,
+    "Language": "eng",
+    "SENTENCE": "There is a fine line between speech that is terse and to the point and speech that is too abrupt."
+  },
+  {
+    "ID": 1946,
+    "Language": "eng",
+    "SENTENCE": "Though his stay in Europe was transient, Spenser felt he had learned much more about interactions with other people from traveling than he did at college."
+  },
+  {
+    "ID": 1947,
+    "Language": "eng",
+    "SENTENCE": "Jason was a taciturn individual, so it was always a real surprise when he said anything."
+  },
+  {
+    "ID": 1948,
+    "Language": "eng",
+    "SENTENCE": "The king was tired of his sycophants always praising him, so he sent them away."
+  },
+  {
+    "ID": 1949,
+    "Language": "eng",
+    "SENTENCE": "Spenser would not tell anyone his surreptitious plan to get back at his friends for pranking him."
+  },
+  {
+    "ID": 1950,
+    "Language": "eng",
+    "SENTENCE": "If Spenser doesn't keep adding and translating sentences, the other contributors will surely surpass him."
+  },
+  {
+    "ID": 1951,
+    "Language": "eng",
+    "SENTENCE": "There was always too much superfluous writing in his essays."
+  },
+  {
+    "ID": 1952,
+    "Language": "eng",
+    "SENTENCE": "His essay gave only a superficial analysis of the problem, so it was a real surprise to him when he got the highest grade in the class."
+  },
+  {
+    "ID": 1953,
+    "Language": "eng",
+    "SENTENCE": "It depends what you mean by \"believe\" in God."
+  },
+  {
+    "ID": 1954,
+    "Language": "eng",
+    "SENTENCE": "Professors should explain everything in detail, not be succinct and always tell students to go home and read their books."
+  },
+  {
+    "ID": 1955,
+    "Language": "eng",
+    "SENTENCE": "If I gave no answer, I would not have spoken."
+  },
+  {
+    "ID": 1956,
+    "Language": "eng",
+    "SENTENCE": "Prosecutors in court have to substantiate their claims in order to prove a suspect is guilty."
+  },
+  {
+    "ID": 1957,
+    "Language": "eng",
+    "SENTENCE": "The people who come on the Maury Povich show often make pretentious claims about their lovers cheating on them."
+  },
+  {
+    "ID": 1958,
+    "Language": "eng",
+    "SENTENCE": "It is a prevalent belief, according to a nationwide poll in the United States, that Muslims are linked with terrorism."
+  },
+  {
+    "ID": 1959,
+    "Language": "eng",
+    "SENTENCE": "My roommate is prodigal when it comes to spending money on movies; he buys them the day they're released, regardless of price."
+  },
+  {
+    "ID": 1960,
+    "Language": "eng",
+    "SENTENCE": "The profane language used on network television makes many parents with young children not want to subscribe to cable."
+  },
+  {
+    "ID": 1961,
+    "Language": "eng",
+    "SENTENCE": "Freud's insights into human behavior led to him being honored as a profound thinker."
+  },
+  {
+    "ID": 1962,
+    "Language": "eng",
+    "SENTENCE": "Food and drink were served in such profusion at the wedding that the bride and groom began to wonder if they should not have invited more guests."
+  },
+  {
+    "ID": 1963,
+    "Language": "eng",
+    "SENTENCE": "The proliferation of Internet usage has given birth to a new generation of young people."
+  },
+  {
+    "ID": 1964,
+    "Language": "eng",
+    "SENTENCE": "My friends say I'm a prolific writer, but I haven't written anything for months."
+  },
+  {
+    "ID": 1965,
+    "Language": "eng",
+    "SENTENCE": "Blind people sometimes develop a compensatory ability to sense the proximity of objects around them."
+  },
+  {
+    "ID": 1966,
+    "Language": "eng",
+    "SENTENCE": "A miser hoards money not because he is prudent but because he is greedy."
+  },
+  {
+    "ID": 1967,
+    "Language": "eng",
+    "SENTENCE": "When both girls told John they had feelings for him, he was in a quandary as to which girl he should be with."
+  },
+  {
+    "ID": 1968,
+    "Language": "eng",
+    "SENTENCE": "Even now, many years after the Cold War, there is still much rancor between the Russians and the Germans, especially in areas once occupied by the Soviet Union."
+  },
+  {
+    "ID": 1969,
+    "Language": "eng",
+    "SENTENCE": "The defense lawyer was confident that he would be able to answer the prosecutor's arguments in his rebuttal."
+  },
+  {
+    "ID": 1970,
+    "Language": "eng",
+    "SENTENCE": "Johnson is a recluse; he prefers to isolate himself from the rest of the students in our class."
+  },
+  {
+    "ID": 1971,
+    "Language": "eng",
+    "SENTENCE": "Teachers must get tired of rectifying the same mistakes over and over again in their students' papers."
+  },
+  {
+    "ID": 1972,
+    "Language": "eng",
+    "SENTENCE": "The bottles of beer that I brought to the party were redundant; the host's family owned a brewery."
+  },
+  {
+    "ID": 1973,
+    "Language": "eng",
+    "SENTENCE": "The witnesses were able to refute the false testimony of the suspect."
+  },
+  {
+    "ID": 1974,
+    "Language": "eng",
+    "SENTENCE": "The guild leader relegated Vince to a lesser officer because he was abusing his power."
+  },
+  {
+    "ID": 1975,
+    "Language": "eng",
+    "SENTENCE": "Joan of Arc refused to renounce her belief that the voice she heard was from God and none other."
+  },
+  {
+    "ID": 1976,
+    "Language": "eng",
+    "SENTENCE": "Shocked by the events of September 11th, politicians all over the world condemned the terrorists for their reprehensible deed."
+  },
+  {
+    "ID": 1977,
+    "Language": "eng",
+    "SENTENCE": "James had a great fear of making mistakes in class and being reprimanded."
+  },
+  {
+    "ID": 1978,
+    "Language": "eng",
+    "SENTENCE": "The principal severely reproved the students whenever they made a mess in the hallway."
+  },
+  {
+    "ID": 1979,
+    "Language": "eng",
+    "SENTENCE": "My parents would repudiate my brother if they ever found out he was gay."
+  },
+  {
+    "ID": 1980,
+    "Language": "eng",
+    "SENTENCE": "In order to keep his original idea from being copied, Henry resorted to reticence."
+  },
+  {
+    "ID": 1981,
+    "Language": "eng",
+    "SENTENCE": "I would like to retract my previous statement."
+  },
+  {
+    "ID": 1982,
+    "Language": "eng",
+    "SENTENCE": "To win his audience, the speaker resorted to using rhetorical techniques he learned from his communication courses."
+  },
+  {
+    "ID": 1983,
+    "Language": "eng",
+    "SENTENCE": "His father would never sanction his engagement to a girl who did not share the same religious beliefs as their family."
+  },
+  {
+    "ID": 1984,
+    "Language": "eng",
+    "SENTENCE": "Tim is a huge fan of satirical comedy."
+  },
+  {
+    "ID": 1985,
+    "Language": "eng",
+    "SENTENCE": "Though Alfred is scrupulous in fulfilling his duties at work, he is less conscientious about his obligations at home."
+  },
+  {
+    "ID": 1986,
+    "Language": "eng",
+    "SENTENCE": "Spenser's mother often scrutinizes him for every small mistake he makes."
+  },
+  {
+    "ID": 1987,
+    "Language": "eng",
+    "SENTENCE": "All the king's subjects, fearing his wrath, often acted quite servile."
+  },
+  {
+    "ID": 1988,
+    "Language": "eng",
+    "SENTENCE": "People are often quite skeptical about things unless given believable proof."
+  },
+  {
+    "ID": 1989,
+    "Language": "eng",
+    "SENTENCE": "From the doctor's grim expression, it was clear he had somber news for the patient."
+  },
+  {
+    "ID": 1990,
+    "Language": "eng",
+    "SENTENCE": "I always have to check my yard for stagnant pools of water so mosquitoes don't breed there."
+  },
+  {
+    "ID": 1991,
+    "Language": "eng",
+    "SENTENCE": "Sometimes he has difficulty being articulate about his views."
+  },
+  {
+    "ID": 1992,
+    "Language": "eng",
+    "SENTENCE": "Peter was an altruistic video game player; he would give items to people who needed them, rather than selling them for personal profit."
+  },
+  {
+    "ID": 1993,
+    "Language": "eng",
+    "SENTENCE": "Jimmy tried to cajole his parents into letting him drive across the country with his friends."
+  },
+  {
+    "ID": 1994,
+    "Language": "eng",
+    "SENTENCE": "Censorious people delight in casting blame."
+  },
+  {
+    "ID": 1995,
+    "Language": "eng",
+    "SENTENCE": "Pop artists thrive on the adulation of their loyal fans."
+  },
+  {
+    "ID": 1996,
+    "Language": "eng",
+    "SENTENCE": "We must learn to meet adversity gracefully."
+  },
+  {
+    "ID": 1997,
+    "Language": "eng",
+    "SENTENCE": "Bill Clinton spoke in ambiguous language when asked to describe his relationship with Monica Lewinsky."
+  },
+  {
+    "ID": 1998,
+    "Language": "eng",
+    "SENTENCE": "He was a benevolent old man who volunteered to mow his neighbors' lawns for free."
+  },
+  {
+    "ID": 1999,
+    "Language": "eng",
+    "SENTENCE": "His stern tone and loud voice belied his inner sensitivity and caring nature."
+  },
+  {
+    "ID": 2000,
+    "Language": "eng",
+    "SENTENCE": "The wealthy, self-indulgent young man felt oddly drawn to the strict, ascetic life led by members of some monastic orders."
+  },
+  {
+    "ID": 2001,
+    "Language": "eng",
+    "SENTENCE": "The statue of the Minute Man commemorates the valiant soldiers who fought in the Revolutionary War."
+  },
+  {
+    "ID": 2002,
+    "Language": "eng",
+    "SENTENCE": "Baffled by Sherlock Holmes' cryptic remarks, Watson wondered whether Holmes was intentionally concealing his thoughts about the crime."
+  },
+  {
+    "ID": 2003,
+    "Language": "eng",
+    "SENTENCE": "What criterion did you use when you elected this essay as the winner?"
+  },
+  {
+    "ID": 2004,
+    "Language": "eng",
+    "SENTENCE": "Con artists take advantage of the credulity of inexperienced investors and swindle them out of their money."
+  },
+  {
+    "ID": 2005,
+    "Language": "eng",
+    "SENTENCE": "I cannot dance one single step of Salsa."
+  },
+  {
+    "ID": 2006,
+    "Language": "eng",
+    "SENTENCE": "Even if your sentences were actually senseless, you at least have the luck to be able to form beautiful sentences."
+  },
+  {
+    "ID": 2007,
+    "Language": "eng",
+    "SENTENCE": "I like my job very much."
+  },
+  {
+    "ID": 2008,
+    "Language": "eng",
+    "SENTENCE": "Ray was willing to corroborate Gary's story, but the police were still unconvinced that either of them were telling the truth."
+  },
+  {
+    "ID": 2009,
+    "Language": "eng",
+    "SENTENCE": "The murderer was convicted and sentenced to life in prison."
+  },
+  {
+    "ID": 2010,
+    "Language": "eng",
+    "SENTENCE": "Sometimes hockey players get so competitive that fights break out."
+  },
+  {
+    "ID": 2011,
+    "Language": "eng",
+    "SENTENCE": "There was a feeling of constraint in the room; no one dared to tell the king how foolish his decision was."
+  },
+  {
+    "ID": 2012,
+    "Language": "eng",
+    "SENTENCE": "The consensus indicates that we are opposed to the proposed idea."
+  },
+  {
+    "ID": 2013,
+    "Language": "eng",
+    "SENTENCE": "A small forest fire can easily spread and quickly become a great conflagration."
+  },
+  {
+    "ID": 2014,
+    "Language": "eng",
+    "SENTENCE": "Even though he had served his time in prison, the murderer was never quite condoned by the public for his crime."
+  },
+  {
+    "ID": 2015,
+    "Language": "eng",
+    "SENTENCE": "I find words with concise definitions to be the easiest to remember."
+  },
+  {
+    "ID": 2016,
+    "Language": "eng",
+    "SENTENCE": "He was still mad about the accident despite his wife's conciliatory words."
+  },
+  {
+    "ID": 2017,
+    "Language": "eng",
+    "SENTENCE": "A cursory examination of his teeth indicated that he had gingivitis."
+  },
+  {
+    "ID": 2018,
+    "Language": "eng",
+    "SENTENCE": "It was a surprise to see all the students behaving with decorum on prom night."
+  },
+  {
+    "ID": 2019,
+    "Language": "eng",
+    "SENTENCE": "The news article painted the defendant as a guilty man, even though he had been proven innocent."
+  },
+  {
+    "ID": 2020,
+    "Language": "eng",
+    "SENTENCE": "The politician pushed for reform by denouncing the corruption of the government officials."
+  },
+  {
+    "ID": 2021,
+    "Language": "eng",
+    "SENTENCE": "The depravity of the king's deeds led the people to believe he was nothing more than a tyrant that needed to be overthrown."
+  },
+  {
+    "ID": 2022,
+    "Language": "eng",
+    "SENTENCE": "I dreamt about you."
+  },
+  {
+    "ID": 2023,
+    "Language": "eng",
+    "SENTENCE": "I have to get a new computer."
+  },
+  {
+    "ID": 2024,
+    "Language": "eng",
+    "SENTENCE": "I won't lose!"
+  },
+  {
+    "ID": 2025,
+    "Language": "eng",
+    "SENTENCE": "I was late to school."
+  },
+  {
+    "ID": 2026,
+    "Language": "eng",
+    "SENTENCE": "Classes are starting again soon."
+  },
+  {
+    "ID": 2027,
+    "Language": "eng",
+    "SENTENCE": "I think I'm gonna sneeze. Give me a tissue."
+  },
+  {
+    "ID": 2028,
+    "Language": "eng",
+    "SENTENCE": "For a moment there, I thought he had gone mad."
+  },
+  {
+    "ID": 2029,
+    "Language": "eng",
+    "SENTENCE": "This day was just a waste of time and money."
+  },
+  {
+    "ID": 2030,
+    "Language": "eng",
+    "SENTENCE": "It caught me off guard; I didn't know what to do."
+  },
+  {
+    "ID": 2031,
+    "Language": "eng",
+    "SENTENCE": "But you've never told me about this!"
+  },
+  {
+    "ID": 2032,
+    "Language": "eng",
+    "SENTENCE": "I've changed my website's layout."
+  },
+  {
+    "ID": 2033,
+    "Language": "eng",
+    "SENTENCE": "When we are small, everything seems so big."
+  },
+  {
+    "ID": 2034,
+    "Language": "eng",
+    "SENTENCE": "He won't beat me."
+  },
+  {
+    "ID": 2035,
+    "Language": "eng",
+    "SENTENCE": "I have to do laundry while it's still sunny."
+  },
+  {
+    "ID": 2036,
+    "Language": "eng",
+    "SENTENCE": "Sorry, I don't think I'm gonna be able to."
+  },
+  {
+    "ID": 2037,
+    "Language": "eng",
+    "SENTENCE": "You had plenty of time."
+  },
+  {
+    "ID": 2038,
+    "Language": "eng",
+    "SENTENCE": "Stop criticizing me!"
+  },
+  {
+    "ID": 2039,
+    "Language": "eng",
+    "SENTENCE": "Come on! Talk to me, Trang."
+  },
+  {
+    "ID": 2040,
+    "Language": "eng",
+    "SENTENCE": "I'm almost done."
+  },
+  {
+    "ID": 2041,
+    "Language": "eng",
+    "SENTENCE": "Take the other chair!"
+  },
+  {
+    "ID": 2042,
+    "Language": "eng",
+    "SENTENCE": "How many sandwiches are there left?"
+  },
+  {
+    "ID": 2043,
+    "Language": "eng",
+    "SENTENCE": "I'm not inspired anymore."
+  },
+  {
+    "ID": 2044,
+    "Language": "eng",
+    "SENTENCE": "I won't lower myself to his level."
+  },
+  {
+    "ID": 2045,
+    "Language": "eng",
+    "SENTENCE": "We could see the sunset from the window."
+  },
+  {
+    "ID": 2046,
+    "Language": "eng",
+    "SENTENCE": "It's driving me crazy."
+  },
+  {
+    "ID": 2047,
+    "Language": "eng",
+    "SENTENCE": "Did you say that I could never win?"
+  },
+  {
+    "ID": 2048,
+    "Language": "eng",
+    "SENTENCE": "It's all dark outside."
+  },
+  {
+    "ID": 2049,
+    "Language": "eng",
+    "SENTENCE": "What happened? There's water all over the apartment."
+  },
+  {
+    "ID": 2050,
+    "Language": "eng",
+    "SENTENCE": "During summer breaks, I ate dinner at midnight."
+  },
+  {
+    "ID": 2051,
+    "Language": "eng",
+    "SENTENCE": "You can finish your essay now."
+  },
+  {
+    "ID": 2052,
+    "Language": "eng",
+    "SENTENCE": "You will say and do things your parents said and did, even if you swore you would never do them."
+  },
+  {
+    "ID": 2053,
+    "Language": "eng",
+    "SENTENCE": "I am alive even though I am not giving any sign of life."
+  },
+  {
+    "ID": 2054,
+    "Language": "eng",
+    "SENTENCE": "Never try to die."
+  },
+  {
+    "ID": 2055,
+    "Language": "eng",
+    "SENTENCE": "I am too old for this world."
+  },
+  {
+    "ID": 2056,
+    "Language": "eng",
+    "SENTENCE": "Life begins when we realize who we really are."
+  },
+  {
+    "ID": 2057,
+    "Language": "eng",
+    "SENTENCE": "Life starts when you decide what you are expecting from it."
+  },
+  {
+    "ID": 2058,
+    "Language": "eng",
+    "SENTENCE": "Life begins when you pay taxes."
+  },
+  {
+    "ID": 2059,
+    "Language": "eng",
+    "SENTENCE": "What you don't have is better than what you do have."
+  },
+  {
+    "ID": 2060,
+    "Language": "eng",
+    "SENTENCE": "Life begins when you're ready to live it."
+  },
+  {
+    "ID": 2061,
+    "Language": "eng",
+    "SENTENCE": "It is never too late to learn."
+  },
+  {
+    "ID": 2062,
+    "Language": "eng",
+    "SENTENCE": "It's just five in the morning, but nevertheless it is light out."
+  },
+  {
+    "ID": 2063,
+    "Language": "eng",
+    "SENTENCE": "He told me the story of his life."
+  },
+  {
+    "ID": 2064,
+    "Language": "eng",
+    "SENTENCE": "I never said I was fragile."
+  },
+  {
+    "ID": 2065,
+    "Language": "eng",
+    "SENTENCE": "I wonder if I am made for this world."
+  },
+  {
+    "ID": 2066,
+    "Language": "eng",
+    "SENTENCE": "What are you talking about?"
+  },
+  {
+    "ID": 2067,
+    "Language": "eng",
+    "SENTENCE": "I want a piece of candy."
+  },
+  {
+    "ID": 2068,
+    "Language": "eng",
+    "SENTENCE": "I knew that today would be fun."
+  },
+  {
+    "ID": 2069,
+    "Language": "eng",
+    "SENTENCE": "A child is not a vessel for filling, but a fire to light."
+  },
+  {
+    "ID": 2070,
+    "Language": "eng",
+    "SENTENCE": "Sadly many people will believe things told to them via an email which they would find implausible face-to-face."
+  },
+  {
+    "ID": 2071,
+    "Language": "eng",
+    "SENTENCE": "It might sound far-fetched, but this is a real problem."
+  },
+  {
+    "ID": 2073,
+    "Language": "eng",
+    "SENTENCE": "When are we eating? I'm hungry!"
+  },
+  {
+    "ID": 2075,
+    "Language": "eng",
+    "SENTENCE": "I have class tomorrow."
+  },
+  {
+    "ID": 2076,
+    "Language": "eng",
+    "SENTENCE": "I can't believe it!"
+  },
+  {
+    "ID": 2078,
+    "Language": "eng",
+    "SENTENCE": "How do you pronounce \"pronounce\"?"
+  },
+  {
+    "ID": 2079,
+    "Language": "eng",
+    "SENTENCE": "Winter is my favorite season."
+  },
+  {
+    "ID": 2080,
+    "Language": "eng",
+    "SENTENCE": "It's difficult to have great ideas."
+  },
+  {
+    "ID": 2081,
+    "Language": "eng",
+    "SENTENCE": "The data suggest that the optimum length of a lecture may be 30 instead of 60 minutes."
+  },
+  {
+    "ID": 2082,
+    "Language": "eng",
+    "SENTENCE": "I tend to look at the pictures before reading the text."
+  },
+  {
+    "ID": 2083,
+    "Language": "eng",
+    "SENTENCE": "I learned a lot from you."
+  },
+  {
+    "ID": 2084,
+    "Language": "eng",
+    "SENTENCE": "We walked a lot."
+  },
+  {
+    "ID": 2085,
+    "Language": "eng",
+    "SENTENCE": "I spent twelve hours on the train."
+  },
+  {
+    "ID": 2086,
+    "Language": "eng",
+    "SENTENCE": "She got sick this weekend."
+  },
+  {
+    "ID": 2087,
+    "Language": "eng",
+    "SENTENCE": "Hold on, someone is knocking at my door."
+  },
+  {
+    "ID": 2088,
+    "Language": "eng",
+    "SENTENCE": "He's rich. He doesn't need money!"
+  },
+  {
+    "ID": 2089,
+    "Language": "eng",
+    "SENTENCE": "He's sleeping like a baby."
+  },
+  {
+    "ID": 2090,
+    "Language": "eng",
+    "SENTENCE": "They're making too much noise. I can't concentrate."
+  },
+  {
+    "ID": 2091,
+    "Language": "eng",
+    "SENTENCE": "I want a massage. I need to relax."
+  },
+  {
+    "ID": 2092,
+    "Language": "eng",
+    "SENTENCE": "You're sick. You have to rest."
+  },
+  {
+    "ID": 2093,
+    "Language": "eng",
+    "SENTENCE": "There's a secret path on the left."
+  },
+  {
+    "ID": 2094,
+    "Language": "eng",
+    "SENTENCE": "Smith has spent years studying the effects of sleep and sleep loss on memory and learning."
+  },
+  {
+    "ID": 2095,
+    "Language": "eng",
+    "SENTENCE": "She's asking for the impossible."
+  },
+  {
+    "ID": 2096,
+    "Language": "eng",
+    "SENTENCE": "He disappeared without a trace."
+  },
+  {
+    "ID": 2097,
+    "Language": "eng",
+    "SENTENCE": "I can place the palms of my hands on the floor without bending my knees."
+  },
+  {
+    "ID": 2098,
+    "Language": "eng",
+    "SENTENCE": "There cannot be progress without communication."
+  },
+  {
+    "ID": 2099,
+    "Language": "eng",
+    "SENTENCE": "Everyone would like to believe that dreams can come true."
+  },
+  {
+    "ID": 2100,
+    "Language": "eng",
+    "SENTENCE": "The best way to make your dreams come true is to wake up."
+  },
+  {
+    "ID": 2101,
+    "Language": "eng",
+    "SENTENCE": "The world doesn't revolve around you."
+  },
+  {
+    "ID": 2102,
+    "Language": "eng",
+    "SENTENCE": "The world is full of fools."
+  },
+  {
+    "ID": 2103,
+    "Language": "eng",
+    "SENTENCE": "Are you saying my life is in danger?"
+  },
+  {
+    "ID": 2104,
+    "Language": "eng",
+    "SENTENCE": "Do you have any idea what my life is like?"
+  },
+  {
+    "ID": 2105,
+    "Language": "eng",
+    "SENTENCE": "This place has a mysterious atmosphere."
+  },
+  {
+    "ID": 2106,
+    "Language": "eng",
+    "SENTENCE": "I look forward to hearing your thoughts on this matter."
+  },
+  {
+    "ID": 2107,
+    "Language": "eng",
+    "SENTENCE": "So what if I am gay? Is it a crime?"
+  },
+  {
+    "ID": 2108,
+    "Language": "eng",
+    "SENTENCE": "My life is hollow without him."
+  },
+  {
+    "ID": 2109,
+    "Language": "eng",
+    "SENTENCE": "I don't want to fail my exams."
+  },
+  {
+    "ID": 2110,
+    "Language": "eng",
+    "SENTENCE": "My mother bought two bottles of orange juice."
+  },
+  {
+    "ID": 2111,
+    "Language": "eng",
+    "SENTENCE": "She was wearing a black hat."
+  },
+  {
+    "ID": 2112,
+    "Language": "eng",
+    "SENTENCE": "We made pancakes for breakfast."
+  },
+  {
+    "ID": 2114,
+    "Language": "eng",
+    "SENTENCE": "I spent the whole afternoon chatting with friends."
+  },
+  {
+    "ID": 2115,
+    "Language": "eng",
+    "SENTENCE": "I want to be more independent."
+  },
+  {
+    "ID": 2116,
+    "Language": "eng",
+    "SENTENCE": "Are you just going to stand there all day?"
+  },
+  {
+    "ID": 2117,
+    "Language": "eng",
+    "SENTENCE": "A rabbit has long ears and a short tail."
+  },
+  {
+    "ID": 2118,
+    "Language": "eng",
+    "SENTENCE": "My heart was filled with happiness."
+  },
+  {
+    "ID": 2119,
+    "Language": "eng",
+    "SENTENCE": "He wishes to erase bad memories."
+  },
+  {
+    "ID": 2120,
+    "Language": "eng",
+    "SENTENCE": "Sir, you are not allowed to park your car here."
+  },
+  {
+    "ID": 2121,
+    "Language": "eng",
+    "SENTENCE": "Your secret will be safe with me."
+  },
+  {
+    "ID": 2122,
+    "Language": "eng",
+    "SENTENCE": "I don't want to hear any more of your complaining."
+  },
+  {
+    "ID": 2123,
+    "Language": "eng",
+    "SENTENCE": "Tell them to call me before they leave."
+  },
+  {
+    "ID": 2124,
+    "Language": "eng",
+    "SENTENCE": "You should have refused such an unfair proposal."
+  },
+  {
+    "ID": 2125,
+    "Language": "eng",
+    "SENTENCE": "I don't have the strength to keep trying."
+  },
+  {
+    "ID": 2126,
+    "Language": "eng",
+    "SENTENCE": "Mathematics is not just the memorization of formulas."
+  },
+  {
+    "ID": 2127,
+    "Language": "eng",
+    "SENTENCE": "I didn't mean to give you that impression."
+  },
+  {
+    "ID": 2128,
+    "Language": "eng",
+    "SENTENCE": "Yes! I won twice in a row!"
+  },
+  {
+    "ID": 2129,
+    "Language": "eng",
+    "SENTENCE": "I'm tired of eating fast food."
+  },
+  {
+    "ID": 2130,
+    "Language": "eng",
+    "SENTENCE": "I'm sick and tired of being sick and tired."
+  },
+  {
+    "ID": 2131,
+    "Language": "eng",
+    "SENTENCE": "I can't wait to go on a vacation."
+  },
+  {
+    "ID": 2132,
+    "Language": "eng",
+    "SENTENCE": "The rooms in this hotel are really very bad at muffling sounds. I can hear my neighbor chewing his gum!"
+  },
+  {
+    "ID": 2133,
+    "Language": "eng",
+    "SENTENCE": "The essence of mathematics is liberty."
+  },
+  {
+    "ID": 2134,
+    "Language": "eng",
+    "SENTENCE": "Can you imagine what our lives would be like without electricity?"
+  },
+  {
+    "ID": 2136,
+    "Language": "eng",
+    "SENTENCE": "Where is the bathroom?"
+  },
+  {
+    "ID": 2137,
+    "Language": "eng",
+    "SENTENCE": "If you lend someone $20 and never see that person again, it was probably worth it."
+  },
+  {
+    "ID": 2138,
+    "Language": "eng",
+    "SENTENCE": "The essence of liberty is mathematics."
+  },
+  {
+    "ID": 2139,
+    "Language": "eng",
+    "SENTENCE": "His story was too ridiculous for anyone to believe."
+  },
+  {
+    "ID": 2140,
+    "Language": "eng",
+    "SENTENCE": "How many hours of sleep do you need?"
+  },
+  {
+    "ID": 2141,
+    "Language": "eng",
+    "SENTENCE": "Each person is a world."
+  },
+  {
+    "ID": 2142,
+    "Language": "eng",
+    "SENTENCE": "I have French nationality but Vietnamese origins."
+  },
+  {
+    "ID": 2143,
+    "Language": "eng",
+    "SENTENCE": "It's very frustrating to try to find your glasses when you can't see anything without glasses."
+  },
+  {
+    "ID": 2144,
+    "Language": "eng",
+    "SENTENCE": "Do you think mankind will someday colonize the Moon?"
+  },
+  {
+    "ID": 2145,
+    "Language": "eng",
+    "SENTENCE": "What famous songs do you wish you had composed, and why?"
+  },
+  {
+    "ID": 2146,
+    "Language": "eng",
+    "SENTENCE": "I'm going to buy myself a new camera, digital this time."
+  },
+  {
+    "ID": 2147,
+    "Language": "eng",
+    "SENTENCE": "I'm crazy about you."
+  },
+  {
+    "ID": 2148,
+    "Language": "eng",
+    "SENTENCE": "I don't know what is worse."
+  },
+  {
+    "ID": 2149,
+    "Language": "eng",
+    "SENTENCE": "Life in prison is worse than the life of an animal."
+  },
+  {
+    "ID": 2150,
+    "Language": "eng",
+    "SENTENCE": "I am proud to be a part of this project."
+  },
+  {
+    "ID": 2151,
+    "Language": "eng",
+    "SENTENCE": "Beauty lies in the eyes of the one who sees."
+  },
+  {
+    "ID": 2152,
+    "Language": "eng",
+    "SENTENCE": "Who buys this type of art?"
+  },
+  {
+    "ID": 2153,
+    "Language": "eng",
+    "SENTENCE": "Why can't we tickle ourselves?"
+  },
+  {
+    "ID": 2154,
+    "Language": "eng",
+    "SENTENCE": "The answer leads us to a vicious circle."
+  },
+  {
+    "ID": 2155,
+    "Language": "eng",
+    "SENTENCE": "I'm too lazy to do my homework."
+  },
+  {
+    "ID": 2156,
+    "Language": "eng",
+    "SENTENCE": "What... you still don't know how to drive?"
+  },
+  {
+    "ID": 2157,
+    "Language": "eng",
+    "SENTENCE": "Have you got a beard already?"
+  },
+  {
+    "ID": 2158,
+    "Language": "eng",
+    "SENTENCE": "I feel that I am free."
+  },
+  {
+    "ID": 2159,
+    "Language": "eng",
+    "SENTENCE": "Freedom is not free."
+  },
+  {
+    "ID": 2160,
+    "Language": "eng",
+    "SENTENCE": "I created a shortcut on the desktop."
+  },
+  {
+    "ID": 2161,
+    "Language": "eng",
+    "SENTENCE": "I want an MP3 player!"
+  },
+  {
+    "ID": 2162,
+    "Language": "eng",
+    "SENTENCE": "My brother is very important. At least he thinks he is."
+  },
+  {
+    "ID": 2163,
+    "Language": "eng",
+    "SENTENCE": "While eating a pizza he was annoying his sister."
+  },
+  {
+    "ID": 2164,
+    "Language": "eng",
+    "SENTENCE": "At this rate, we're not likely to be done before the end of the week."
+  },
+  {
+    "ID": 2165,
+    "Language": "eng",
+    "SENTENCE": "I guess my view on friendship is pretty bleak because I've never really had to rely on anyone for anything."
+  },
+  {
+    "ID": 2166,
+    "Language": "eng",
+    "SENTENCE": "What?! You ate my chocolate bear?!"
+  },
+  {
+    "ID": 2167,
+    "Language": "eng",
+    "SENTENCE": "No, I cannot let you in, there's one person too many."
+  },
+  {
+    "ID": 2168,
+    "Language": "eng",
+    "SENTENCE": "Where are you?"
+  },
+  {
+    "ID": 2169,
+    "Language": "eng",
+    "SENTENCE": "He will make you eat dirt."
+  },
+  {
+    "ID": 2171,
+    "Language": "eng",
+    "SENTENCE": "He's got a face like a month of wet Sundays."
+  },
+  {
+    "ID": 2172,
+    "Language": "eng",
+    "SENTENCE": "Holy crap, who's the asshole who dares call me in the middle of the night?!"
+  },
+  {
+    "ID": 2173,
+    "Language": "eng",
+    "SENTENCE": "He has just published an interesting series of articles."
+  },
+  {
+    "ID": 2174,
+    "Language": "eng",
+    "SENTENCE": "You piss me off!"
+  },
+  {
+    "ID": 2175,
+    "Language": "eng",
+    "SENTENCE": "No way!"
+  },
+  {
+    "ID": 2176,
+    "Language": "eng",
+    "SENTENCE": "It's a dead end."
+  },
+  {
+    "ID": 2177,
+    "Language": "eng",
+    "SENTENCE": "I don't necessarily trust translations."
+  },
+  {
+    "ID": 2178,
+    "Language": "eng",
+    "SENTENCE": "To share one's passion is to live it fully."
+  },
+  {
+    "ID": 2179,
+    "Language": "eng",
+    "SENTENCE": "The day before yesterday you impressed everyone, but I already knew you."
+  },
+  {
+    "ID": 2180,
+    "Language": "eng",
+    "SENTENCE": "If I showed you my house, my neighborhood back then, would you understand where I am from?"
+  },
+  {
+    "ID": 2181,
+    "Language": "eng",
+    "SENTENCE": "Life is not long, it is wide!"
+  },
+  {
+    "ID": 2182,
+    "Language": "eng",
+    "SENTENCE": "When I was your age, Pluto was a planet."
+  },
+  {
+    "ID": 2183,
+    "Language": "eng",
+    "SENTENCE": "She is on the verge of a nervous breakdown."
+  },
+  {
+    "ID": 2184,
+    "Language": "eng",
+    "SENTENCE": "Elephants are the largest land animals alive today."
+  },
+  {
+    "ID": 2185,
+    "Language": "eng",
+    "SENTENCE": "If you teach me how to dance, I will show you my hidden scars."
+  },
+  {
+    "ID": 2186,
+    "Language": "eng",
+    "SENTENCE": "The elevators in a skyscraper are vital systems."
+  },
+  {
+    "ID": 2187,
+    "Language": "eng",
+    "SENTENCE": "Fruits and vegetables are essential to a balanced diet."
+  },
+  {
+    "ID": 2188,
+    "Language": "eng",
+    "SENTENCE": "Cheese is a solid food made from the milk of cows, goats, sheep, and other mammals."
+  },
+  {
+    "ID": 2189,
+    "Language": "eng",
+    "SENTENCE": "I still don't like Cavalieri, Tonelli, or Fubini... and my oral calculus exam is already tomorrow."
+  },
+  {
+    "ID": 2190,
+    "Language": "eng",
+    "SENTENCE": "I usually take a shower in the evening."
+  },
+  {
+    "ID": 2191,
+    "Language": "eng",
+    "SENTENCE": "He spent the evening reading a book."
+  },
+  {
+    "ID": 2192,
+    "Language": "eng",
+    "SENTENCE": "You have been thinking about this problem the whole morning. Take a break; go eat lunch."
+  },
+  {
+    "ID": 2193,
+    "Language": "eng",
+    "SENTENCE": "If I don't do it now, I never will."
+  },
+  {
+    "ID": 2194,
+    "Language": "eng",
+    "SENTENCE": "Good night. Sweet dreams."
+  },
+  {
+    "ID": 2195,
+    "Language": "eng",
+    "SENTENCE": "This song is so moving that it brings tears to my eyes."
+  },
+  {
+    "ID": 2196,
+    "Language": "eng",
+    "SENTENCE": "There are a lot of things you don't know about my personality."
+  },
+  {
+    "ID": 2197,
+    "Language": "eng",
+    "SENTENCE": "Perhaps you are right, I have been selfish."
+  },
+  {
+    "ID": 2198,
+    "Language": "eng",
+    "SENTENCE": "Everyone deserves a second chance."
+  },
+  {
+    "ID": 2199,
+    "Language": "eng",
+    "SENTENCE": "When we borrow money, we must agree on the conditions."
+  },
+  {
+    "ID": 2200,
+    "Language": "eng",
+    "SENTENCE": "What is the advantage of this technology?"
+  },
+  {
+    "ID": 2201,
+    "Language": "eng",
+    "SENTENCE": "If you do not have this program, you can download it now."
+  },
+  {
+    "ID": 2203,
+    "Language": "eng",
+    "SENTENCE": "The headline caught my eye this morning."
+  },
+  {
+    "ID": 2204,
+    "Language": "eng",
+    "SENTENCE": "Gonzales offers a bike to all his employees in Europe."
+  },
+  {
+    "ID": 2205,
+    "Language": "eng",
+    "SENTENCE": "There are 1000 movies that one must watch before dying."
+  },
+  {
+    "ID": 2206,
+    "Language": "eng",
+    "SENTENCE": "I have been told that I am pragmatic, and I am."
+  },
+  {
+    "ID": 2207,
+    "Language": "eng",
+    "SENTENCE": "I prefer to look for a solution to problems, not only to report them."
+  },
+  {
+    "ID": 2208,
+    "Language": "eng",
+    "SENTENCE": "I'm running out of ideas."
+  },
+  {
+    "ID": 2209,
+    "Language": "eng",
+    "SENTENCE": "The seven questions that an engineer has to ask himself are: who, what, when, where, why, how and how much."
+  },
+  {
+    "ID": 2210,
+    "Language": "eng",
+    "SENTENCE": "You are still asking yourself what the meaning of life is?"
+  },
+  {
+    "ID": 2211,
+    "Language": "eng",
+    "SENTENCE": "When can one say that a person has alcohol issues?"
+  },
+  {
+    "ID": 2212,
+    "Language": "eng",
+    "SENTENCE": "Remember that we are all in the same boat."
+  },
+  {
+    "ID": 2213,
+    "Language": "eng",
+    "SENTENCE": "All I need to know about life, I learned from a snowman."
+  },
+  {
+    "ID": 2214,
+    "Language": "eng",
+    "SENTENCE": "Check that your username and password are written correctly."
+  }
 ]
