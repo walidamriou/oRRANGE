@@ -1,0 +1,147 @@
+[
+    {
+        "ID": 1,
+        "Type": 2, 
+        "SENTENCE": "How do I get to library?"
+    },
+    {
+        "ID": 2,
+        "Type": 2,
+        "SENTENCE": "Where is the nearest post office?"
+    },
+    {
+        "ID": 3,
+        "Type": 2,
+        "SENTENCE": "Can you tell me the way to the Big Hotel?"
+    },
+    {
+        "ID": 4,
+        "Type": 2,
+        "SENTENCE": "Are we on the right road for London?"
+    },
+    {
+        "ID": 5,
+        "Type": 2,
+        "SENTENCE": "Can you Show me on the map, please?"
+    },
+    {
+        "ID": 6,
+        "Type": 1,
+        "SENTENCE": "I’m looking for this address."
+    },
+    {
+        "ID": 7,
+        "Type": 2,
+        "SENTENCE": "How do I find this thing?"
+    },
+    {
+        "ID": 8,
+        "Type": 2,
+        "SENTENCE": "Excuse me, How can I go to Algeria?"
+    },
+    {
+        "ID": 9,
+        "Type": 2,
+        "SENTENCE": "Dou you have a map?"
+    },
+    {
+        "ID": 10,
+        "Type": 2,
+        "SENTENCE": "Are you from around here?"
+    },
+    {
+        "ID": 11,
+        "Type": 2,
+        "SENTENCE": "Where is your mouse?"
+    },
+    {
+        "ID": 12,
+        "Type": 1,
+        "SENTENCE": "Which the best way to write a book"
+    },
+    {
+        "ID": 13,
+        "Type": 2,
+        "SENTENCE": "How can we get to High Park?"
+    },
+    {
+        "ID": 14,
+        "Type": 2,
+        "SENTENCE": "Is it far?"
+    },
+    {
+        "ID": 15,
+        "Type": 2,
+        "SENTENCE": "Excuse me, could you tell me how to get to the bus station?"
+    },
+    {
+        "ID": 16,
+        "Type": 1,
+        "SENTENCE": "You will pass a süpermarket on your left"
+    },
+    {
+        "ID": 17,
+        "Type": 1,
+        "SENTENCE": "Take this road"
+    },
+    {
+        "ID": 18,
+        "Type": 1,
+        "SENTENCE": "Turn right at the crossroads"
+    },
+    {
+        "ID": 19,
+        "Type": 1,
+        "SENTENCE": "It’s about 100 meters from here"
+    },
+    {
+        "ID": 20,
+        "Type": 1,
+        "SENTENCE": "Take the first road on the right"
+    },
+    {
+        "ID": 21,
+        "Type": 1,
+        "SENTENCE": "Take the second road on the left"
+    },
+    {
+        "ID": 22,
+        "Type": 1,
+        "SENTENCE": "My body says yes, but my heart say no."
+    },
+    {
+        "ID": 23,
+        "Type": 1,
+        "SENTENCE": "Maybe another time."
+    },
+    {
+        "ID": 24,
+        "Type": 1,
+        "SENTENCE": "I am not accepting anything else at this time."
+    },
+    {
+        "ID": 25,
+        "Type": 1,
+        "SENTENCE": "I’m not really into it, but thanks for asking!"
+    },
+    {
+        "ID": 26,
+        "Type": 1,
+        "SENTENCE": "That’s not going to work for me."
+    },
+    {
+        "ID": 27,
+        "Type": 1,
+        "SENTENCE": "Sounds fun, but I’m not available."
+    },
+    {
+        "ID": 28,
+        "Type": 1,
+        "SENTENCE": "I want to, but I’m unable to."
+    },
+    {
+        "ID": 29,
+        "Type": 1,
+        "SENTENCE": "I just don’t have that to give right now."
+    }
+]
