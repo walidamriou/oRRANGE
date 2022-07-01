@@ -39,14 +39,14 @@ TABLE OF CONTENT
   |
   ------------------------------------------------------------*/
 
-  --ui-color-brand: #353535;
+  --ui-color-brand: #f5f5f5;
 
   /* COLOR PALETTE */
 
-  --ui-color-n-000: #fff;
+  --ui-color-n-000: #1a1a1a;
   --ui-color-n-025: #fafafa;
-  --ui-color-n-050: #f5f5f5;
-  --ui-color-n-300: #aeaeae;
+  --ui-color-n-050: #353535;
+  --ui-color-n-300: #fafafa;
   --ui-color-n-500: #353535;
   --ui-color-n-900: #1a1a1a;
 
