@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- META -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Orrange | Make Sentences to Learn a language.">
+    <meta name="author" content="walidamriou">
+    <meta name="referrer" content="unsafe-url">
+    <meta name="robots" content="index, follow">
+    <!-- SPEED -->
+    <link rel="preconnect" href="https://res.cloudinary.com">
+    <link rel="dns-prefetch" href="https://res.cloudinary.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+    <!-- LINK -->
+    <link rel="me" href="#">
+    <link rel="canonical" href="#">
+    <link rel="icon" type="image/png" href="#" sizes="48x48">
+    <!-- PERFORMANCE -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap">
+    <link rel="preload" as="style" href="style.css">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css" rel="stylesheet">
+    <!-- TITLE -->
+    <title>oRRANGE</title>
+</head>
+
+<body>
+    <header role="banner" class="ui-section-header">
+        <div class="ui-layout-container">
+            <div class="ui-section-header__layout ui-layout-flex">
+                <!-- LOGO -->
+                <a href="#" role="link" aria-label="#">
+                    <b>oRRANGE</b>
+                </a>
+
+                <!-- MENU -->
+                <a href="#" role="link" aria-label="#"
+                    class="ui-component-button ui-component-button-small ui-component-button-primary">
+                    English Version
+                </a>
+            </div>
+        </div>
+        <link rel="stylesheet" href="css/styles.css?v=1.0">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js"></script>
+
+        <style>
+            #wordblock {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+
+                /* prevent text selection */
+                -webkit-touch-callout: none;
+                -webkit-user-select: none;
+                -khtml-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+            }
+
+
+            #wordblock li {
+                margin: 3px 3px 3px 0;
+                padding: 5px;
+                width: auto;
+                float: left;
+                font-size: 16px;
+                text-align: center;
+                cursor: pointer;
+                font-family: arial;
+                background-color: rgba(45, 45, 45, 0.858);
+                color: white;
+                border-radius: 10px;
+            }
+        </style>
+        </head>
+        <script>
+        var data;
+        var data_length
+        var random_sentence_id
+        var word=''
+
+         function readJsonFile(file, callback) {
+            var rawFile = new XMLHttpRequest();
+            rawFile.overrideMimeType("application/json");
+            rawFile.open("GET", file, true);
+            rawFile.onreadystatechange = function() {
+                if (rawFile.readyState === 4 && rawFile.status == "200") {
+                    callback(rawFile.responseText);
+                }
+            }
+            rawFile.send(null);
+        }
+
+        readJsonFile("https://orrange.walidamriou.com/assets/data/orrange_data.json", function(text){
+        data = JSON.parse(text);
+        console.log(data);
+        data_length = data.length;
+        random_sentence_id =  Math.floor(Math.random()*data_length)
+        word = data[random_sentence_id].SENTENCE;
+
+
+        $( function () {
+            $("#wordblock").sortable();
+            $("#wordblock").disableSelection();
+            let d_word = word.split(' ');
+            console.log(d_word)
+            shuffle(d_word);
+            console.log(d_word)
+            const lis = [];
+
+            for (let i = 0; i < d_word.length; i++) {
+                lis.push('<li class="ui-state-default">' + d_word[i] +
+                        '</li>')
+            }
+            console.log(lis)
+            $('#wordblock').html(lis.join(''));
+            $('#wordblock').mouseup(function () {
+            setTimeout(() => {
+                let r_word_b = '';
+                $('#wordblock>li').each(function (e) {
+                    r_word_b += $(this).text();
+                    r_word_b += ' ';
+                });
+                let r_word = r_word_b.trim();
+                console.log(r_word)
+                if (r_word == word) {
+                    // Correct, you found it
+                    document.getElementById("Correct_text").innerHTML = "<i class='bx bx-check'></i> Correct <br/> "+word;
+                    document.getElementById("Correct_text").style = "color:rgb(0, 108, 0)";    
+                } 
+                    else {
+                        document.getElementById("Correct_text").innerHTML = " ";
+                    }
+                }, 0);
+            });
+
+        });
+
+        function shuffle(a, b, c, d) {
+            c = a.length;
+            while (c) b = Math.random() * (--c + 1) | 0, d = a[c], a[c] = a[b], a[b] = d
+        }
+        });
+
+
+       function currectanswer(){
+        document.getElementById("Correct_text").innerHTML = "The Correct answer is: <br/> "+word;
+        document.getElementById("Correct_text").style = "color:--ui-color-brand";
+       }
+        </script>
+
+        <main role="main">
+            <section class="ui-section-hero slategray h-5">
+                <div class="ui-layout-container">
+                    <div class="ui-layout-column-10 ui-layout-column-center">
+                        
+                        <div style="background-color: #aeaeae;border-radius:50px;margin: 10px;padding: 90px;height: auto;">
+                            <div>
+                                <ul id="wordblock"></ul>
+                            </div>
+                            <br/><br/><br/>
+                            <div>
+                                <p id="Correct_text" style="color: rgb(0, 108, 0);font-weight: bold;font-size: 20px;"></p>
+                            </div>                           
+                            
+
+                            
+                        </div>
+                        <p class="ui-text-note"><small>Drag and arrange the words to create the sentences</small></p>
+                        <br />
+                        <div class=" ui-layout-flex" style="white-space: nowrap; ">
+                            <a onclick = "currectanswer()"  role="link" aria-label="#"
+                                class="ui-component-button ui-component-button-normal ui-component-button-primary"
+                                style="margin: 10px;">
+                                Correct </a>
+                            <a href="/" role="link"
+                                aria-label="#"
+                                class="ui-component-button ui-component-button-normal ui-component-button-primary"
+                                style="background-color: #FF914D;margin: 10px;color: #000;">
+                                Another sentence</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+
+      <section id="contact" class="ui-section-close">
+        <div class="ui-layout-container">
+          <div class="ui-layout-column-6 ui-layout-column-center">
+            <img src="assets/img/logo.png" loading="lazy" alt="#" width="250px" height="250px">
+            <small class="ui-text-note">Make Sentences to Learn a language</small>
+          <img src="assets/img/anim.png" loading="lazy" alt="#" class="ui-section-hero--image">
+          
+        </div>
+      </section>
+
+        </main>
+
+
+        <footer role="contentinfo" class="ui-section-footer">
+            <div class="ui-layout-container">
+                <div class="ui-section-footer__layout ui-layout-flex">
+                    <!-- COPYRIGHT -->
+                    <p class="ui-section-footer--copyright ui-text-note"><small>oRRANGE &copy; 2021</small></p>
+                    <!-- MENU -->
+                    <nav role="navigation" class="ui-section-footer--nav ui-section-footer--menu ui-layout-flex">
+                        <a href="#" role="link" aria-label="#" class="ui-text-note"><small>About
+                                Project</small></a>
+                        <a href="#" role="link" aria-label="#" class="ui-text-note"><small>Contact</small></a>
+
+                    </nav>
+                    <!-- SOCIAL -->
+                    <nav role="navigation" class="ui-section-footer--nav ui-section-footer--social ui-layout-flex">
+                        <p class="ui-section-footer--copyright ui-text-note">
+                            <small>Under Developement</small>
+                        </p>
+                    </nav>
+                </div>
+            </div>
+        </footer>
+
+
+</body>
+
+</html>
