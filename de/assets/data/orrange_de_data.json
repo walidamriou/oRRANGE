@@ -1,0 +1,5592 @@
+[
+  {
+    "ID": 77,
+    "Language": "deu",
+    "SENTENCE": "Lass uns etwas versuchen!"
+  },
+  {
+    "ID": 78,
+    "Language": "deu",
+    "SENTENCE": "Ich muss schlafen gehen."
+  },
+  {
+    "ID": 80,
+    "Language": "deu",
+    "SENTENCE": "Was ist das?"
+  },
+  {
+    "ID": 81,
+    "Language": "deu",
+    "SENTENCE": "Heute ist der 18. Juni und das ist der Geburtstag von Muiriel!"
+  },
+  {
+    "ID": 82,
+    "Language": "deu",
+    "SENTENCE": "Herzlichen Glückwunsch zum Geburtstag, Muiriel!"
+  },
+  {
+    "ID": 83,
+    "Language": "deu",
+    "SENTENCE": "Muiriel ist jetzt 20."
+  },
+  {
+    "ID": 84,
+    "Language": "deu",
+    "SENTENCE": "Das Passwort ist \"Muiriel\"."
+  },
+  {
+    "ID": 85,
+    "Language": "deu",
+    "SENTENCE": "Ich werde bald zurück sein."
+  },
+  {
+    "ID": 87,
+    "Language": "deu",
+    "SENTENCE": "Ich finde keine Worte."
+  },
+  {
+    "ID": 88,
+    "Language": "deu",
+    "SENTENCE": "Das wird nie enden."
+  },
+  {
+    "ID": 89,
+    "Language": "deu",
+    "SENTENCE": "Ich weiß einfach nicht, was ich sagen soll."
+  },
+  {
+    "ID": 90,
+    "Language": "deu",
+    "SENTENCE": "Das war ein böses Kaninchen."
+  },
+  {
+    "ID": 91,
+    "Language": "deu",
+    "SENTENCE": "Ich war in den Bergen."
+  },
+  {
+    "ID": 93,
+    "Language": "deu",
+    "SENTENCE": "Ich weiß nicht, ob ich Zeit dazu habe."
+  },
+  {
+    "ID": 94,
+    "Language": "deu",
+    "SENTENCE": "Aus irgendeinem Grund hat das Mikrofon gerade nicht funktioniert."
+  },
+  {
+    "ID": 95,
+    "Language": "deu",
+    "SENTENCE": "Letztendlich muss jeder selbst lernen."
+  },
+  {
+    "ID": 96,
+    "Language": "deu",
+    "SENTENCE": "Die Ausbildung in dieser Welt enttäuscht mich."
+  },
+  {
+    "ID": 97,
+    "Language": "deu",
+    "SENTENCE": "Zum Lernen sollte man nicht gezwungen werden. Zum Lernen sollte man ermutigt werden."
+  },
+  {
+    "ID": 98,
+    "Language": "deu",
+    "SENTENCE": "Es ist eine schwere Aufgabe, zwischen \"richtig\" und \"falsch\" zu unterscheiden, aber man muss es tun."
+  },
+  {
+    "ID": 99,
+    "Language": "deu",
+    "SENTENCE": "Das wird nichts ändern."
+  },
+  {
+    "ID": 100,
+    "Language": "deu",
+    "SENTENCE": "Das wird 30 € kosten."
+  },
+  {
+    "ID": 101,
+    "Language": "deu",
+    "SENTENCE": "Ich verdiene 100 Euro pro Tag."
+  },
+  {
+    "ID": 102,
+    "Language": "deu",
+    "SENTENCE": "Es kann sein, dass ich bald aufgebe und stattdessen ein Nickerchen mache."
+  },
+  {
+    "ID": 103,
+    "Language": "deu",
+    "SENTENCE": "Das liegt daran, dass du nicht allein sein willst."
+  },
+  {
+    "ID": 104,
+    "Language": "deu",
+    "SENTENCE": "Das wird nicht passieren."
+  },
+  {
+    "ID": 105,
+    "Language": "deu",
+    "SENTENCE": "Manchmal kann er ein seltsamer Junge sein."
+  },
+  {
+    "ID": 106,
+    "Language": "deu",
+    "SENTENCE": "Ich werde mir Mühe geben, dich nicht beim Lernen zu stören."
+  },
+  {
+    "ID": 107,
+    "Language": "deu",
+    "SENTENCE": "Ich kann mich nur fragen, ob es für alle anderen dasselbe ist."
+  },
+  {
+    "ID": 108,
+    "Language": "deu",
+    "SENTENCE": "Ich vermute, das ist anders, wenn du darüber längerfristig nachdenkst."
+  },
+  {
+    "ID": 109,
+    "Language": "deu",
+    "SENTENCE": "Mach dir keine Sorgen."
+  },
+  {
+    "ID": 110,
+    "Language": "deu",
+    "SENTENCE": "Ich vermisse dich."
+  },
+  {
+    "ID": 111,
+    "Language": "deu",
+    "SENTENCE": "Ich werde sie morgen anrufen, wenn ich zurückkomme."
+  },
+  {
+    "ID": 112,
+    "Language": "deu",
+    "SENTENCE": "Ich mochte mysteriöse Charaktere schon immer mehr."
+  },
+  {
+    "ID": 113,
+    "Language": "deu",
+    "SENTENCE": "Du solltest schlafen."
+  },
+  {
+    "ID": 115,
+    "Language": "deu",
+    "SENTENCE": "Ich sagte ihnen, sie sollen mir ein neues Ticket schicken."
+  },
+  {
+    "ID": 116,
+    "Language": "deu",
+    "SENTENCE": "Du bist so ungeduldig mit mir."
+  },
+  {
+    "ID": 117,
+    "Language": "deu",
+    "SENTENCE": "Ich kann so ein Leben nicht leben."
+  },
+  {
+    "ID": 118,
+    "Language": "deu",
+    "SENTENCE": "Ich wollte mal Astrophysiker werden."
+  },
+  {
+    "ID": 119,
+    "Language": "deu",
+    "SENTENCE": "Ich mochte Biologie noch nie."
+  },
+  {
+    "ID": 120,
+    "Language": "deu",
+    "SENTENCE": "Die letzte Person, der ich meine Idee erzählt habe, dachte, ich wäre bekloppt."
+  },
+  {
+    "ID": 121,
+    "Language": "deu",
+    "SENTENCE": "Wenn die Welt nicht so wäre wie sie jetzt ist, könnte ich jedem vertrauen."
+  },
+  {
+    "ID": 122,
+    "Language": "deu",
+    "SENTENCE": "Unglücklicherweise stimmt es."
+  },
+  {
+    "ID": 123,
+    "Language": "deu",
+    "SENTENCE": "Sie sind zu sehr damit beschäftigt, sich gegenseitig zu bekämpfen, als dass sie sich gemeinsamen Idealen widmen könnten."
+  },
+  {
+    "ID": 124,
+    "Language": "deu",
+    "SENTENCE": "Die meisten Leute denken, ich sei verrückt."
+  },
+  {
+    "ID": 125,
+    "Language": "deu",
+    "SENTENCE": "Nein, ich bin es nicht, du bist es!"
+  },
+  {
+    "ID": 126,
+    "Language": "deu",
+    "SENTENCE": "Das war mein Satz!"
+  },
+  {
+    "ID": 127,
+    "Language": "deu",
+    "SENTENCE": "Er tritt mich!"
+  },
+  {
+    "ID": 128,
+    "Language": "deu",
+    "SENTENCE": "Bist du sicher?"
+  },
+  {
+    "ID": 129,
+    "Language": "deu",
+    "SENTENCE": "Dann haben wir ein Problem..."
+  },
+  {
+    "ID": 130,
+    "Language": "deu",
+    "SENTENCE": "Oh, da ist ein Schmetterling!"
+  },
+  {
+    "ID": 131,
+    "Language": "deu",
+    "SENTENCE": "Beeil dich!"
+  },
+  {
+    "ID": 132,
+    "Language": "deu",
+    "SENTENCE": "Es überrascht mich nicht."
+  },
+  {
+    "ID": 133,
+    "Language": "deu",
+    "SENTENCE": "Wenn ich so sein könnte..."
+  },
+  {
+    "ID": 134,
+    "Language": "deu",
+    "SENTENCE": "Aus irgendeinem Grund fühle ich mich nachts lebendiger."
+  },
+  {
+    "ID": 135,
+    "Language": "deu",
+    "SENTENCE": "Das kommt auf den Zusammenhang an."
+  },
+  {
+    "ID": 136,
+    "Language": "deu",
+    "SENTENCE": "Willst du mich verdammt nochmal auf den Arm nehmen?!"
+  },
+  {
+    "ID": 137,
+    "Language": "deu",
+    "SENTENCE": "Das ist das Dümmste, was ich je gesagt habe."
+  },
+  {
+    "ID": 138,
+    "Language": "deu",
+    "SENTENCE": "Ich will nicht erbärmlich sein, ich will cool sein!!"
+  },
+  {
+    "ID": 139,
+    "Language": "deu",
+    "SENTENCE": "Wenn ich groß bin, will ich ein König sein."
+  },
+  {
+    "ID": 140,
+    "Language": "deu",
+    "SENTENCE": "Es ist wundervoll in Amerika zu sein, wenn man hier ist, um Geld zu verdienen."
+  },
+  {
+    "ID": 141,
+    "Language": "deu",
+    "SENTENCE": "Ich bin so dick."
+  },
+  {
+    "ID": 142,
+    "Language": "deu",
+    "SENTENCE": "Na und?"
+  },
+  {
+    "ID": 143,
+    "Language": "deu",
+    "SENTENCE": "Ich werde ihn erschießen."
+  },
+  {
+    "ID": 144,
+    "Language": "deu",
+    "SENTENCE": "Ich bin kein echter Fisch, ich bin nur ein einfaches Plüschtier."
+  },
+  {
+    "ID": 145,
+    "Language": "deu",
+    "SENTENCE": "Ich sag's ja nur!"
+  },
+  {
+    "ID": 146,
+    "Language": "deu",
+    "SENTENCE": "Wahrscheinlich war es das, was ihre Entscheidung beeinflusst hat."
+  },
+  {
+    "ID": 147,
+    "Language": "deu",
+    "SENTENCE": "Ich habe mich immer gefragt, wie es wäre, Geschwister zu haben."
+  },
+  {
+    "ID": 148,
+    "Language": "deu",
+    "SENTENCE": "Das hätte ich gesagt."
+  },
+  {
+    "ID": 149,
+    "Language": "deu",
+    "SENTENCE": "Es würde ewig dauern, alles zu erklären."
+  },
+  {
+    "ID": 150,
+    "Language": "deu",
+    "SENTENCE": "Es liegt daran, dass du ein Mädchen bist."
+  },
+  {
+    "ID": 151,
+    "Language": "deu",
+    "SENTENCE": "Manchmal kann ich es nicht vermeiden, Gefühle zu zeigen."
+  },
+  {
+    "ID": 152,
+    "Language": "deu",
+    "SENTENCE": "Es ist ein Wort, für das ich gerne einen Ersatz finden würde."
+  },
+  {
+    "ID": 153,
+    "Language": "deu",
+    "SENTENCE": "Das wäre etwas, das ich programmieren sollte."
+  },
+  {
+    "ID": 154,
+    "Language": "deu",
+    "SENTENCE": "Ich beabsichtige nicht, selbstsüchtig zu sein."
+  },
+  {
+    "ID": 155,
+    "Language": "deu",
+    "SENTENCE": "Lass uns über das Schlimmste, das passieren könnte, nachdenken."
+  },
+  {
+    "ID": 156,
+    "Language": "deu",
+    "SENTENCE": "Wie viele enge Freunde hast du?"
+  },
+  {
+    "ID": 157,
+    "Language": "deu",
+    "SENTENCE": "Ich bin vielleicht asozial, aber das heißt nicht, dass ich nicht mit Leuten rede."
+  },
+  {
+    "ID": 158,
+    "Language": "deu",
+    "SENTENCE": "Das ist immer so gewesen."
+  },
+  {
+    "ID": 159,
+    "Language": "deu",
+    "SENTENCE": "Ich denke, es ist am besten, nicht unhöflich zu sein."
+  },
+  {
+    "ID": 160,
+    "Language": "deu",
+    "SENTENCE": "Man kann immer Zeit finden."
+  },
+  {
+    "ID": 161,
+    "Language": "deu",
+    "SENTENCE": "Ich wäre unglücklich, aber ich würde keinen Selbstmord begehen."
+  },
+  {
+    "ID": 162,
+    "Language": "deu",
+    "SENTENCE": "Damals im Gymnasium bin ich jeden Morgen um 6 Uhr aufgestanden."
+  },
+  {
+    "ID": 163,
+    "Language": "deu",
+    "SENTENCE": "Als ich aufgewacht bin, war ich traurig."
+  },
+  {
+    "ID": 164,
+    "Language": "deu",
+    "SENTENCE": "Das ist am Ende einigermaßen erklärt."
+  },
+  {
+    "ID": 165,
+    "Language": "deu",
+    "SENTENCE": "Ich dachte, du würdest gerne neue Sachen lernen."
+  },
+  {
+    "ID": 166,
+    "Language": "deu",
+    "SENTENCE": "Die meisten Menschen schreiben über ihr Alltagsleben."
+  },
+  {
+    "ID": 167,
+    "Language": "deu",
+    "SENTENCE": "Wenn ich dir ein Marshmallow schicken könnte, Trang, würde ich es tun."
+  },
+  {
+    "ID": 168,
+    "Language": "deu",
+    "SENTENCE": "Um das zu tun, musst du Risiken eingehen."
+  },
+  {
+    "ID": 169,
+    "Language": "deu",
+    "SENTENCE": "Jeder Mensch, der allein ist, ist allein, weil er Angst vor den anderen hat."
+  },
+  {
+    "ID": 170,
+    "Language": "deu",
+    "SENTENCE": "Warum fragst du?"
+  },
+  {
+    "ID": 171,
+    "Language": "deu",
+    "SENTENCE": "Ich bin kein Künstler. Ich hatte niemals das Zeug dazu."
+  },
+  {
+    "ID": 172,
+    "Language": "deu",
+    "SENTENCE": "Ich kann es ihr jetzt nicht sagen. Das ist nicht mehr so einfach."
+  },
+  {
+    "ID": 173,
+    "Language": "deu",
+    "SENTENCE": "Ich bin ein Mensch, der viele Fehler hat, aber diese Fehler können leicht korrigiert werden."
+  },
+  {
+    "ID": 174,
+    "Language": "deu",
+    "SENTENCE": "Immer, wenn ich etwas finde, das mir gefällt, ist es zu teuer."
+  },
+  {
+    "ID": 175,
+    "Language": "deu",
+    "SENTENCE": "Wie lange bist du geblieben?"
+  },
+  {
+    "ID": 176,
+    "Language": "deu",
+    "SENTENCE": "Vielleicht wird es für ihn genauso sein."
+  },
+  {
+    "ID": 177,
+    "Language": "deu",
+    "SENTENCE": "Unschuld ist eine schöne Sache."
+  },
+  {
+    "ID": 178,
+    "Language": "deu",
+    "SENTENCE": "Die Menschen waren nie dazu gedacht, ewig zu leben."
+  },
+  {
+    "ID": 179,
+    "Language": "deu",
+    "SENTENCE": "Ich will meine Ideen nicht verlieren, selbst wenn einige von ihnen ein bisschen extrem sind."
+  },
+  {
+    "ID": 180,
+    "Language": "deu",
+    "SENTENCE": "Ich denke, ich habe dazu eine Theorie."
+  },
+  {
+    "ID": 181,
+    "Language": "deu",
+    "SENTENCE": "Das macht neugierig."
+  },
+  {
+    "ID": 182,
+    "Language": "deu",
+    "SENTENCE": "Meinst du gerade, dass du absichtlich deine Schönheit versteckst?"
+  },
+  {
+    "ID": 183,
+    "Language": "deu",
+    "SENTENCE": "Ich habe kein Konto in diesen Foren."
+  },
+  {
+    "ID": 184,
+    "Language": "deu",
+    "SENTENCE": "Wenn jemand fragen sollte, was die Pointe der Geschichte sei, ich wüsste es wirklich nicht."
+  },
+  {
+    "ID": 185,
+    "Language": "deu",
+    "SENTENCE": "Ich wusste nicht, woher es kam."
+  },
+  {
+    "ID": 186,
+    "Language": "deu",
+    "SENTENCE": "Ich denke, dass mein Zusammenleben mit dir deine Lebensweise beeinflusst hat."
+  },
+  {
+    "ID": 187,
+    "Language": "deu",
+    "SENTENCE": "Dies ist nicht wichtig."
+  },
+  {
+    "ID": 188,
+    "Language": "deu",
+    "SENTENCE": "Ich möchte es nicht."
+  },
+  {
+    "ID": 189,
+    "Language": "deu",
+    "SENTENCE": "Sie fragt, wie das möglich ist."
+  },
+  {
+    "ID": 190,
+    "Language": "deu",
+    "SENTENCE": "Du läufst einfach vor den Problemen des Lebens davon."
+  },
+  {
+    "ID": 191,
+    "Language": "deu",
+    "SENTENCE": "Wenn du den Liedtext anschaust, bedeutet er nicht wirklich viel."
+  },
+  {
+    "ID": 192,
+    "Language": "deu",
+    "SENTENCE": "Es gibt da ein Problem, das du nicht siehst."
+  },
+  {
+    "ID": 193,
+    "Language": "deu",
+    "SENTENCE": "Du kannst das machen!"
+  },
+  {
+    "ID": 194,
+    "Language": "deu",
+    "SENTENCE": "Meinem Physiklehrer ist es egal, wenn ich den Unterricht schwänze."
+  },
+  {
+    "ID": 195,
+    "Language": "deu",
+    "SENTENCE": "Ich wünschte, ich könnte nach Japan gehen."
+  },
+  {
+    "ID": 196,
+    "Language": "deu",
+    "SENTENCE": "Ich hasse es, wenn viele Leute da sind."
+  },
+  {
+    "ID": 197,
+    "Language": "deu",
+    "SENTENCE": "Ich muss ins Bett gehen."
+  },
+  {
+    "ID": 198,
+    "Language": "deu",
+    "SENTENCE": "Danach gehe ich, aber dann merke ich, dass ich meinen Rucksack vergessen habe."
+  },
+  {
+    "ID": 199,
+    "Language": "deu",
+    "SENTENCE": "Ich werde dich heute nichts mehr fragen."
+  },
+  {
+    "ID": 200,
+    "Language": "deu",
+    "SENTENCE": "Nächste Woche wird es vielleicht Frost geben."
+  },
+  {
+    "ID": 201,
+    "Language": "deu",
+    "SENTENCE": "Obwohl er sich entschuldigt hat, bin ich immer noch wütend."
+  },
+  {
+    "ID": 202,
+    "Language": "deu",
+    "SENTENCE": "Die Polizei wird euch dazu bringen, die Kugeln zu finden."
+  },
+  {
+    "ID": 203,
+    "Language": "deu",
+    "SENTENCE": "Danke, dass Sie mir letzten Endes erklärt haben, warum die Leute mich für einen Idioten halten."
+  },
+  {
+    "ID": 204,
+    "Language": "deu",
+    "SENTENCE": "Das war nicht meine Absicht."
+  },
+  {
+    "ID": 205,
+    "Language": "deu",
+    "SENTENCE": "Danke für Ihre Erklärung."
+  },
+  {
+    "ID": 206,
+    "Language": "deu",
+    "SENTENCE": "Theoretisch mache ich gerade Mathe."
+  },
+  {
+    "ID": 207,
+    "Language": "deu",
+    "SENTENCE": "Was passierte?"
+  },
+  {
+    "ID": 208,
+    "Language": "deu",
+    "SENTENCE": "Wenn du mich nicht so gekannt hast, dann hast du mich einfach gar nicht gekannt."
+  },
+  {
+    "ID": 209,
+    "Language": "deu",
+    "SENTENCE": "Es hat mir fast Angst gemacht, dich einen ganzen Tag nicht online zu sehen."
+  },
+  {
+    "ID": 210,
+    "Language": "deu",
+    "SENTENCE": "Ich weiß nicht, was du meinst."
+  },
+  {
+    "ID": 211,
+    "Language": "deu",
+    "SENTENCE": "Mein Computer muss mir zu etwas nützen."
+  },
+  {
+    "ID": 212,
+    "Language": "deu",
+    "SENTENCE": "Du wolltest mit mir über Freiheit sprechen?"
+  },
+  {
+    "ID": 213,
+    "Language": "deu",
+    "SENTENCE": "Oh, jetzt ist es wirklich verwirrend..."
+  },
+  {
+    "ID": 214,
+    "Language": "deu",
+    "SENTENCE": "Wenn ich dich erschrecken wollte, würde ich dir erzählen, was ich vor ein paar Wochen geträumt habe."
+  },
+  {
+    "ID": 215,
+    "Language": "deu",
+    "SENTENCE": "Man kann nicht alles von den Schulen erwarten."
+  },
+  {
+    "ID": 216,
+    "Language": "deu",
+    "SENTENCE": "Es gibt viele Wörter, die ich nicht verstehe."
+  },
+  {
+    "ID": 217,
+    "Language": "deu",
+    "SENTENCE": "Ich mag es nicht, wenn Mathematiker, die viel mehr als ich wissen, sich nicht genau ausdrücken können."
+  },
+  {
+    "ID": 218,
+    "Language": "deu",
+    "SENTENCE": "Du bist nicht wirklich dumm."
+  },
+  {
+    "ID": 219,
+    "Language": "deu",
+    "SENTENCE": "Ich muss dir eine dumme Frage stellen."
+  },
+  {
+    "ID": 220,
+    "Language": "deu",
+    "SENTENCE": "Ich weiß nicht, wie ich es beweisen soll, so selbstverständlich wie es ist!"
+  },
+  {
+    "ID": 221,
+    "Language": "deu",
+    "SENTENCE": "Ich hätte nicht gedacht, dass ich eines Tages bei Wikipedia \"Viagra\" nachschauen würde."
+  },
+  {
+    "ID": 222,
+    "Language": "deu",
+    "SENTENCE": "Kann man das anders ausdrücken?"
+  },
+  {
+    "ID": 223,
+    "Language": "deu",
+    "SENTENCE": "Niemand wird's erfahren."
+  },
+  {
+    "ID": 224,
+    "Language": "deu",
+    "SENTENCE": "Ich habe eine Lösung gefunden, aber ich habe sie so schnell gefunden, dass es nicht die richtige Lösung sein kann."
+  },
+  {
+    "ID": 225,
+    "Language": "deu",
+    "SENTENCE": "Das scheint mir interessant!"
+  },
+  {
+    "ID": 226,
+    "Language": "deu",
+    "SENTENCE": "Nur, dass es hier nicht so einfach ist."
+  },
+  {
+    "ID": 227,
+    "Language": "deu",
+    "SENTENCE": "Ich mag gerne Kerzenlicht."
+  },
+  {
+    "ID": 228,
+    "Language": "deu",
+    "SENTENCE": "Was hast du geantwortet?"
+  },
+  {
+    "ID": 229,
+    "Language": "deu",
+    "SENTENCE": "Nein, er ist nicht mein neuer Freund."
+  },
+  {
+    "ID": 230,
+    "Language": "deu",
+    "SENTENCE": "Es ist schade, dass ich nicht abnehmen muss."
+  },
+  {
+    "ID": 231,
+    "Language": "deu",
+    "SENTENCE": "Hast du nie Unterricht oder was?!"
+  },
+  {
+    "ID": 232,
+    "Language": "deu",
+    "SENTENCE": "Ich werde also Sudoku spielen, anstatt dich weiter zu stören."
+  },
+  {
+    "ID": 233,
+    "Language": "deu",
+    "SENTENCE": "Wo ist das Problem?"
+  },
+  {
+    "ID": 235,
+    "Language": "deu",
+    "SENTENCE": "Das ist keine große Überraschung, oder?"
+  },
+  {
+    "ID": 237,
+    "Language": "deu",
+    "SENTENCE": "Ich mag dich nicht mehr."
+  },
+  {
+    "ID": 238,
+    "Language": "deu",
+    "SENTENCE": "Ich bin neugierig."
+  },
+  {
+    "ID": 239,
+    "Language": "deu",
+    "SENTENCE": "Herzlichen Glückwunsch."
+  },
+  {
+    "ID": 240,
+    "Language": "deu",
+    "SENTENCE": "Ich will nicht so lange warten."
+  },
+  {
+    "ID": 241,
+    "Language": "deu",
+    "SENTENCE": "Warum kommst du uns nicht besuchen?"
+  },
+  {
+    "ID": 242,
+    "Language": "deu",
+    "SENTENCE": "Aber die Möglichkeit scheint unwahrscheinlich."
+  },
+  {
+    "ID": 244,
+    "Language": "deu",
+    "SENTENCE": "Es war eine schlechte Idee, sich abzumelden."
+  },
+  {
+    "ID": 245,
+    "Language": "deu",
+    "SENTENCE": "Ich weiß nicht mehr, was ich tun soll."
+  },
+  {
+    "ID": 246,
+    "Language": "deu",
+    "SENTENCE": "Es ist unvermeidbar, dass ich eines Tages nach Frankreich gehe, ich weiß nur nicht, wann."
+  },
+  {
+    "ID": 247,
+    "Language": "deu",
+    "SENTENCE": "Ich hasse Chemie."
+  },
+  {
+    "ID": 248,
+    "Language": "deu",
+    "SENTENCE": "Ich wollte nicht, dass das passiert."
+  },
+  {
+    "ID": 249,
+    "Language": "deu",
+    "SENTENCE": "Du kannst vermutlich erahnen, was indessen passiert."
+  },
+  {
+    "ID": 250,
+    "Language": "deu",
+    "SENTENCE": "Bevor du dich versiehst, wirst du in der Zeitung sein."
+  },
+  {
+    "ID": 251,
+    "Language": "deu",
+    "SENTENCE": "Was für andere Optionen habe ich?"
+  },
+  {
+    "ID": 252,
+    "Language": "deu",
+    "SENTENCE": "Ich habe nicht viel von einem Reisenden."
+  },
+  {
+    "ID": 253,
+    "Language": "deu",
+    "SENTENCE": "Ich habe nichts Besseres zu tun."
+  },
+  {
+    "ID": 254,
+    "Language": "deu",
+    "SENTENCE": "Ich kann es auch nicht erklären."
+  },
+  {
+    "ID": 256,
+    "Language": "deu",
+    "SENTENCE": "Aber im Ernst, die Episode 21 hat mich fast vor Lachen weinen lassen."
+  },
+  {
+    "ID": 257,
+    "Language": "deu",
+    "SENTENCE": "Es zeigt nur, dass du kein Roboter bist."
+  },
+  {
+    "ID": 258,
+    "Language": "deu",
+    "SENTENCE": "Wie könnte ich ein Roboter sein? Roboter träumen nicht."
+  },
+  {
+    "ID": 260,
+    "Language": "deu",
+    "SENTENCE": "Das ist nichts, was jeder Beliebige tun kann."
+  },
+  {
+    "ID": 261,
+    "Language": "deu",
+    "SENTENCE": "Ich weiß nicht, ob ich es noch habe."
+  },
+  {
+    "ID": 262,
+    "Language": "deu",
+    "SENTENCE": "Was denkst du, was ich gerade gemacht habe?"
+  },
+  {
+    "ID": 263,
+    "Language": "deu",
+    "SENTENCE": "Unterschätze nicht meine Macht!"
+  },
+  {
+    "ID": 264,
+    "Language": "deu",
+    "SENTENCE": "Meine Mutter spricht nicht sehr gut Englisch."
+  },
+  {
+    "ID": 265,
+    "Language": "deu",
+    "SENTENCE": "Ich spreche nicht gut genug Französisch!"
+  },
+  {
+    "ID": 266,
+    "Language": "deu",
+    "SENTENCE": "Ich fragte mich, ob du heute kommen würdest."
+  },
+  {
+    "ID": 267,
+    "Language": "deu",
+    "SENTENCE": "Dort liegt das Problem."
+  },
+  {
+    "ID": 268,
+    "Language": "deu",
+    "SENTENCE": "Wie findest du Nahrung im Weltraum?"
+  },
+  {
+    "ID": 269,
+    "Language": "deu",
+    "SENTENCE": "Ihr müsst nichts tun, außer euch zu vertrauen."
+  },
+  {
+    "ID": 270,
+    "Language": "deu",
+    "SENTENCE": "Alle wollen dich kennenlernen. Du bist berühmt!"
+  },
+  {
+    "ID": 271,
+    "Language": "deu",
+    "SENTENCE": "Wieso tut dir etwas leid, das du nicht gemacht hast?"
+  },
+  {
+    "ID": 272,
+    "Language": "deu",
+    "SENTENCE": "Ich verabscheue förmliches Schreiben zutiefst!"
+  },
+  {
+    "ID": 273,
+    "Language": "deu",
+    "SENTENCE": "Ausländer machen mich neugierig."
+  },
+  {
+    "ID": 274,
+    "Language": "deu",
+    "SENTENCE": "Was auch immer ich tue, sie sagt, ich kann es besser."
+  },
+  {
+    "ID": 275,
+    "Language": "deu",
+    "SENTENCE": "Warum bist du um diese Uhrzeit noch wach?"
+  },
+  {
+    "ID": 276,
+    "Language": "deu",
+    "SENTENCE": "Du wärst überrascht, was man in einer Woche lernen kann."
+  },
+  {
+    "ID": 277,
+    "Language": "deu",
+    "SENTENCE": "Ich habe niemanden, der mit mir reisen würde."
+  },
+  {
+    "ID": 278,
+    "Language": "deu",
+    "SENTENCE": "Du bist nicht schnell genug."
+  },
+  {
+    "ID": 279,
+    "Language": "deu",
+    "SENTENCE": "Das Leben ist hart, aber ich bin härter."
+  },
+  {
+    "ID": 280,
+    "Language": "deu",
+    "SENTENCE": "Ertragen kann unerträglich sein."
+  },
+  {
+    "ID": 281,
+    "Language": "deu",
+    "SENTENCE": "Hör auf! Sie fühlt sich dadurch unbehaglich!"
+  },
+  {
+    "ID": 282,
+    "Language": "deu",
+    "SENTENCE": "Nur die Wahrheit ist schön."
+  },
+  {
+    "ID": 283,
+    "Language": "deu",
+    "SENTENCE": "Morgen wird er auf dem Mond landen."
+  },
+  {
+    "ID": 284,
+    "Language": "deu",
+    "SENTENCE": "Ich spreche kein Japanisch."
+  },
+  {
+    "ID": 285,
+    "Language": "deu",
+    "SENTENCE": "Das ist ein Wortspiel."
+  },
+  {
+    "ID": 286,
+    "Language": "deu",
+    "SENTENCE": "Niemand versteht mich."
+  },
+  {
+    "ID": 287,
+    "Language": "deu",
+    "SENTENCE": "Ich habe gelernt, ohne sie zu leben."
+  },
+  {
+    "ID": 288,
+    "Language": "deu",
+    "SENTENCE": "Das bringt nichts mehr, weiter nachzudenken."
+  },
+  {
+    "ID": 289,
+    "Language": "deu",
+    "SENTENCE": "Mir gehen in diesen Tagen zu viele Dinge durch den Kopf."
+  },
+  {
+    "ID": 290,
+    "Language": "deu",
+    "SENTENCE": "Ich wollte gerade meine E-Mails abrufen."
+  },
+  {
+    "ID": 291,
+    "Language": "deu",
+    "SENTENCE": "Musst du wirklich die Frage stellen, um die Antwort zu erfahren?"
+  },
+  {
+    "ID": 292,
+    "Language": "deu",
+    "SENTENCE": "Du kannst nicht von mir erwarten, dass ich immer an alles denke!"
+  },
+  {
+    "ID": 293,
+    "Language": "deu",
+    "SENTENCE": "Ich vermute, dass es hinter jeder Sache, die wir tun müssen, etwas gibt, das wir tun wollen..."
+  },
+  {
+    "ID": 294,
+    "Language": "deu",
+    "SENTENCE": "Du hast wirklich nicht die richtigen Prioritäten!"
+  },
+  {
+    "ID": 295,
+    "Language": "deu",
+    "SENTENCE": "Man darf nicht darauf warten, dass die anderen für einen denken!"
+  },
+  {
+    "ID": 296,
+    "Language": "deu",
+    "SENTENCE": "Du hast nie Zeit für die wichtigen Dinge!"
+  },
+  {
+    "ID": 297,
+    "Language": "deu",
+    "SENTENCE": "Es ist die Mühe nicht wert, so zu tun, als würdest du mich dazu bringen zu glauben, dass ich Dinge glaube, die du nicht glaubst."
+  },
+  {
+    "ID": 298,
+    "Language": "deu",
+    "SENTENCE": "Das würde zu lange dauern, dir zu erklären, warum das nicht funktionieren wird."
+  },
+  {
+    "ID": 299,
+    "Language": "deu",
+    "SENTENCE": "Ich bin so blöd... ich versuche, dir Dinge zu erklären, die ich selbst nicht verstehe."
+  },
+  {
+    "ID": 300,
+    "Language": "deu",
+    "SENTENCE": "Hör auf, mich als einen \"normalen\" Menschen anzusehen!"
+  },
+  {
+    "ID": 301,
+    "Language": "deu",
+    "SENTENCE": "Du könntest zumindest versuchen, ein bisschen höflicher zu sein, auch wenn das nicht in deiner Natur liegt."
+  },
+  {
+    "ID": 302,
+    "Language": "deu",
+    "SENTENCE": "Es gibt immer Dinge, die ich nie lernen werde, ich habe nicht ewig Zeit."
+  },
+  {
+    "ID": 303,
+    "Language": "deu",
+    "SENTENCE": "Das ist nicht möglich!"
+  },
+  {
+    "ID": 304,
+    "Language": "deu",
+    "SENTENCE": "Ich wünschte, ich könnte mir mehr aus Noten machen, aber scheinbar habe ich an einem gewissen Punkt in meinem Leben entschieden, dass es nicht mehr so wichtig sei."
+  },
+  {
+    "ID": 305,
+    "Language": "deu",
+    "SENTENCE": "„Wer rastet, der rostet“ ist ein Sprichwort."
+  },
+  {
+    "ID": 306,
+    "Language": "deu",
+    "SENTENCE": "Willst du etwas zum Trinken?"
+  },
+  {
+    "ID": 309,
+    "Language": "deu",
+    "SENTENCE": "„Was ist los?“ fragte das kleine weiße Kaninchen."
+  },
+  {
+    "ID": 310,
+    "Language": "deu",
+    "SENTENCE": "„Was passiert in der Höhle? Ich bin neugierig.“ – „Ich habe keine Ahnung.“"
+  },
+  {
+    "ID": 312,
+    "Language": "deu",
+    "SENTENCE": "Wir müssen lernen, als Brüder zusammen zu leben, oder wir werden als Narren zusammen untergehen."
+  },
+  {
+    "ID": 313,
+    "Language": "deu",
+    "SENTENCE": "Öh, wie funktioniert das?"
+  },
+  {
+    "ID": 316,
+    "Language": "deu",
+    "SENTENCE": "„Danach habe ich gesucht“, erklärte er."
+  },
+  {
+    "ID": 317,
+    "Language": "deu",
+    "SENTENCE": "„Das sieht ziemlich interessant aus“, sagt Hiroshi."
+  },
+  {
+    "ID": 318,
+    "Language": "deu",
+    "SENTENCE": "Ihre Kommunikation ist vielleicht viel komplexer als wir dachten."
+  },
+  {
+    "ID": 321,
+    "Language": "deu",
+    "SENTENCE": "„Danke für die Hilfe.“ – „Keine Ursache.“"
+  },
+  {
+    "ID": 322,
+    "Language": "deu",
+    "SENTENCE": "Irgendwann werde ich wie der Wind rennen."
+  },
+  {
+    "ID": 325,
+    "Language": "deu",
+    "SENTENCE": "Lass es mich wissen, wenn es irgendetwas gibt, was ich tun kann."
+  },
+  {
+    "ID": 326,
+    "Language": "deu",
+    "SENTENCE": "Möglicherweise ist das Glück, das uns dort erwartet, überhaupt nicht die Art Glück, die wir uns wünschen würden."
+  },
+  {
+    "ID": 327,
+    "Language": "deu",
+    "SENTENCE": "Du entscheidest, ob wir dahin gehen oder nicht."
+  },
+  {
+    "ID": 328,
+    "Language": "deu",
+    "SENTENCE": "Das fängt nicht vor acht Uhr dreißig an."
+  },
+  {
+    "ID": 329,
+    "Language": "deu",
+    "SENTENCE": "Ich wünsche mir ein Boot, das mich weit weg von hier bringt."
+  },
+  {
+    "ID": 330,
+    "Language": "deu",
+    "SENTENCE": "„Ich habe Lust, Karten zu spielen.“ – „Ich auch.“"
+  },
+  {
+    "ID": 332,
+    "Language": "deu",
+    "SENTENCE": "Ein Japaner würde so etwas nie tun."
+  },
+  {
+    "ID": 334,
+    "Language": "deu",
+    "SENTENCE": "Der Bogenschütze tötete den Hirsch."
+  },
+  {
+    "ID": 335,
+    "Language": "deu",
+    "SENTENCE": "Der Kommunismus wird nie erreicht werden, solange ich lebe."
+  },
+  {
+    "ID": 336,
+    "Language": "deu",
+    "SENTENCE": "Der Roggen wurde Arme-Leute-Getreide genannt."
+  },
+  {
+    "ID": 337,
+    "Language": "deu",
+    "SENTENCE": "In den 1950ern sagte man den Finnen nach, eine der ungesündesten Ernährungsweisen der Welt zu haben."
+  },
+  {
+    "ID": 338,
+    "Language": "deu",
+    "SENTENCE": "Wenn du einen Fehler siehst, dann korrigiere ihn bitte."
+  },
+  {
+    "ID": 339,
+    "Language": "deu",
+    "SENTENCE": "Lege das Kartenspiel auf den Eichentisch."
+  },
+  {
+    "ID": 340,
+    "Language": "deu",
+    "SENTENCE": "Die Deutschen sind sehr listig."
+  },
+  {
+    "ID": 341,
+    "Language": "deu",
+    "SENTENCE": "Wenn man nicht isst, stirbt man."
+  },
+  {
+    "ID": 342,
+    "Language": "deu",
+    "SENTENCE": "Wie schreibt man \"pretty\"?"
+  },
+  {
+    "ID": 343,
+    "Language": "deu",
+    "SENTENCE": "Wieso gehen wir nicht heim?"
+  },
+  {
+    "ID": 344,
+    "Language": "deu",
+    "SENTENCE": "Es tut mir leid, ich kann nicht lange bleiben."
+  },
+  {
+    "ID": 345,
+    "Language": "deu",
+    "SENTENCE": "10 Jahre sind eine lange Zeit zum Warten."
+  },
+  {
+    "ID": 346,
+    "Language": "deu",
+    "SENTENCE": "„Wieso gehst du nicht?“ – „Weil ich nicht will.“"
+  },
+  {
+    "ID": 347,
+    "Language": "deu",
+    "SENTENCE": "Eine Million Menschen haben im Krieg ihr Leben verloren."
+  },
+  {
+    "ID": 348,
+    "Language": "deu",
+    "SENTENCE": "Ich kam vor drei Jahren nach Tokyo und seither habe ich hier gelebt."
+  },
+  {
+    "ID": 349,
+    "Language": "deu",
+    "SENTENCE": "Ich habe mehr als einen Monat lang in Nagoya gelebt."
+  },
+  {
+    "ID": 350,
+    "Language": "deu",
+    "SENTENCE": "Es ist überhaupt nicht selten, länger als neunzig Jahre zu leben."
+  },
+  {
+    "ID": 352,
+    "Language": "deu",
+    "SENTENCE": "Zuerst werde ich ein Schema meiner neuen Website machen."
+  },
+  {
+    "ID": 354,
+    "Language": "deu",
+    "SENTENCE": "Demokratie ist die schlechteste Regierungsform, abgesehen von allen anderen, die ausprobiert wurden."
+  },
+  {
+    "ID": 355,
+    "Language": "deu",
+    "SENTENCE": "Wenn man beginnt, seinem Passfoto ähnlich zu sehen, sollte man in den Urlaub fahren."
+  },
+  {
+    "ID": 356,
+    "Language": "deu",
+    "SENTENCE": "Ich war's nicht, Kommissar!"
+  },
+  {
+    "ID": 357,
+    "Language": "deu",
+    "SENTENCE": "Oh, meine weiße Hose! Sie war neu."
+  },
+  {
+    "ID": 358,
+    "Language": "deu",
+    "SENTENCE": "Bei so vielen Leuten wurde er natürlich etwas nervös."
+  },
+  {
+    "ID": 359,
+    "Language": "deu",
+    "SENTENCE": "Beim Verlassen des Bahnhofs sah ich einen Mann."
+  },
+  {
+    "ID": 360,
+    "Language": "deu",
+    "SENTENCE": "Und niemand hat Ihnen geholfen?"
+  },
+  {
+    "ID": 361,
+    "Language": "deu",
+    "SENTENCE": "Du bist ein Engel!"
+  },
+  {
+    "ID": 362,
+    "Language": "deu",
+    "SENTENCE": "Die Madrilenen sind verrückt."
+  },
+  {
+    "ID": 363,
+    "Language": "deu",
+    "SENTENCE": "Nun gut, die Nacht ist sehr lang, oder?"
+  },
+  {
+    "ID": 364,
+    "Language": "deu",
+    "SENTENCE": "Du hast Glück gehabt, dass er dich nicht gebissen hat."
+  },
+  {
+    "ID": 365,
+    "Language": "deu",
+    "SENTENCE": "Hast du mich vermisst?"
+  },
+  {
+    "ID": 367,
+    "Language": "deu",
+    "SENTENCE": "Sind sie alle gleich?"
+  },
+  {
+    "ID": 368,
+    "Language": "deu",
+    "SENTENCE": "Vielen Dank!"
+  },
+  {
+    "ID": 369,
+    "Language": "deu",
+    "SENTENCE": "Wo sind bitte die Eier?"
+  },
+  {
+    "ID": 370,
+    "Language": "deu",
+    "SENTENCE": "Ich nehme ihn."
+  },
+  {
+    "ID": 371,
+    "Language": "deu",
+    "SENTENCE": "Das ist eine Überraschung."
+  },
+  {
+    "ID": 372,
+    "Language": "deu",
+    "SENTENCE": "Das ist eine gute Idee!"
+  },
+  {
+    "ID": 373,
+    "Language": "deu",
+    "SENTENCE": "Hin- und Rückfahrt? Nur Hinfahrt."
+  },
+  {
+    "ID": 374,
+    "Language": "deu",
+    "SENTENCE": "Es ist schade, wenn jemand stirbt."
+  },
+  {
+    "ID": 375,
+    "Language": "deu",
+    "SENTENCE": "Der Mund blieb ihnen offen stehen."
+  },
+  {
+    "ID": 376,
+    "Language": "deu",
+    "SENTENCE": "Donnerwetter! Das ist nicht schlecht!"
+  },
+  {
+    "ID": 377,
+    "Language": "deu",
+    "SENTENCE": "Nach der Wäsche in Form bringen."
+  },
+  {
+    "ID": 378,
+    "Language": "deu",
+    "SENTENCE": "Vor dem Tragen waschen."
+  },
+  {
+    "ID": 379,
+    "Language": "deu",
+    "SENTENCE": "Nicht öffnen, bevor der Zug hält."
+  },
+  {
+    "ID": 381,
+    "Language": "deu",
+    "SENTENCE": "Wer im Glashaus sitzt, sollte nicht mit Steinen werfen."
+  },
+  {
+    "ID": 382,
+    "Language": "deu",
+    "SENTENCE": "Man sagt, Liebe mache blind."
+  },
+  {
+    "ID": 383,
+    "Language": "deu",
+    "SENTENCE": "Oh, tut mir leid."
+  },
+  {
+    "ID": 384,
+    "Language": "deu",
+    "SENTENCE": "Mathe ist wie Liebe - eine einfache Idee, aber es kann kompliziert werden."
+  },
+  {
+    "ID": 385,
+    "Language": "deu",
+    "SENTENCE": "Antworten sind nur dann nützlich, wenn sie neue Fragen aufwerfen."
+  },
+  {
+    "ID": 386,
+    "Language": "deu",
+    "SENTENCE": "An sich selbst zu zweifeln, ist das erste Zeichen von Intelligenz."
+  },
+  {
+    "ID": 387,
+    "Language": "deu",
+    "SENTENCE": "Arm ist nicht, wer zu wenig besitzt, sondern, wer zu viel haben möchte."
+  },
+  {
+    "ID": 388,
+    "Language": "deu",
+    "SENTENCE": "Da du nicht überrascht bist, denke ich, musst du es gewusst haben."
+  },
+  {
+    "ID": 389,
+    "Language": "deu",
+    "SENTENCE": "Wie lange braucht man bis zum Bahnhof?"
+  },
+  {
+    "ID": 390,
+    "Language": "deu",
+    "SENTENCE": "Das wird eine gute Erinnerung an meine Reise durch die Vereinigten Staaten sein."
+  },
+  {
+    "ID": 391,
+    "Language": "deu",
+    "SENTENCE": "Entschuldigung, erlauben Sie mir, auf drei Fehler in dem obigen Artikel hinzuweisen."
+  },
+  {
+    "ID": 393,
+    "Language": "deu",
+    "SENTENCE": "Es ist schwierig, ein Gespräch mit jemandem zu führen, der nur \"Ja\" und \"Nein\" sagt."
+  },
+  {
+    "ID": 394,
+    "Language": "deu",
+    "SENTENCE": "Sprichst du Italienisch?"
+  },
+  {
+    "ID": 396,
+    "Language": "deu",
+    "SENTENCE": "Man sagt, dass \"Hamlet\" das interessanteste Stück sei, das je geschrieben wurde."
+  },
+  {
+    "ID": 398,
+    "Language": "deu",
+    "SENTENCE": "Könnte ich eine Frage stellen?"
+  },
+  {
+    "ID": 400,
+    "Language": "deu",
+    "SENTENCE": "Es ist ziemlich schwierig, Französisch nach 2, 3 Jahren zu beherrschen."
+  },
+  {
+    "ID": 401,
+    "Language": "deu",
+    "SENTENCE": "Es ist mir unmöglich, es dir zu erklären."
+  },
+  {
+    "ID": 402,
+    "Language": "deu",
+    "SENTENCE": "Ich möchte nicht mein restliches Leben damit verbringen, es zu bereuen."
+  },
+  {
+    "ID": 403,
+    "Language": "deu",
+    "SENTENCE": "Es wäre lustig zu sehen, wie die Dinge sich im Lauf der Jahre ändern."
+  },
+  {
+    "ID": 404,
+    "Language": "deu",
+    "SENTENCE": "Das hätte ich nie gedacht."
+  },
+  {
+    "ID": 405,
+    "Language": "deu",
+    "SENTENCE": "Die Fantasie hat Auswirkungen auf alle Aspekte in unserem Leben."
+  },
+  {
+    "ID": 406,
+    "Language": "deu",
+    "SENTENCE": "Du wirst mich eines Tages vergessen."
+  },
+  {
+    "ID": 407,
+    "Language": "deu",
+    "SENTENCE": "Das ist ziemlich unerwartet."
+  },
+  {
+    "ID": 408,
+    "Language": "deu",
+    "SENTENCE": "Ich frage mich, wie lange es dauern wird."
+  },
+  {
+    "ID": 409,
+    "Language": "deu",
+    "SENTENCE": "Ich kann ohne Fernsehen nicht leben."
+  },
+  {
+    "ID": 410,
+    "Language": "deu",
+    "SENTENCE": "Ich hätte es ohne dich nicht machen können. Danke."
+  },
+  {
+    "ID": 411,
+    "Language": "deu",
+    "SENTENCE": "Ohne Anstrengung erreicht man nichts."
+  },
+  {
+    "ID": 412,
+    "Language": "deu",
+    "SENTENCE": "Viele Menschen wandern ziellos durchs Leben."
+  },
+  {
+    "ID": 413,
+    "Language": "deu",
+    "SENTENCE": "Ein Leben ohne Liebe hat überhaupt keinen Sinn."
+  },
+  {
+    "ID": 414,
+    "Language": "deu",
+    "SENTENCE": "Lasst es mich wissen, wenn ich irgendwelche Änderungen machen muss."
+  },
+  {
+    "ID": 415,
+    "Language": "deu",
+    "SENTENCE": "Ich denke, dass Prüfungen die Erziehung ruinieren."
+  },
+  {
+    "ID": 416,
+    "Language": "deu",
+    "SENTENCE": "Wir können wegen des Lärms nicht schlafen."
+  },
+  {
+    "ID": 417,
+    "Language": "deu",
+    "SENTENCE": "Hast du ein Kondom?"
+  },
+  {
+    "ID": 418,
+    "Language": "deu",
+    "SENTENCE": "„Eine Katze?“ fragte der alte Mann."
+  },
+  {
+    "ID": 419,
+    "Language": "deu",
+    "SENTENCE": "Tu, was auch immer er dir befiehlt."
+  },
+  {
+    "ID": 420,
+    "Language": "deu",
+    "SENTENCE": "Ich kann in 10 Minuten zur Schule gehen."
+  },
+  {
+    "ID": 421,
+    "Language": "deu",
+    "SENTENCE": "Ich habe über zwei Stunden gebraucht, um einige Seiten Englisch zu übersetzen."
+  },
+  {
+    "ID": 422,
+    "Language": "deu",
+    "SENTENCE": "Es ist schon 11 Uhr."
+  },
+  {
+    "ID": 423,
+    "Language": "deu",
+    "SENTENCE": "Könnte ich Fräulein Brown sprechen?"
+  },
+  {
+    "ID": 427,
+    "Language": "deu",
+    "SENTENCE": "Die Verpflichtung zum Schulbesuch wird selten analysiert in der Vielzahl der Werke, die den mannigfaltigen Arten gewidmet sind, bei Kindern den Wunsch zu lernen zu entwickeln."
+  },
+  {
+    "ID": 428,
+    "Language": "deu",
+    "SENTENCE": "Mann bist du doof! Ich muss dir echt alles erklären!"
+  },
+  {
+    "ID": 429,
+    "Language": "deu",
+    "SENTENCE": "Ich habe ein Hühnchen mit dir zu rupfen."
+  },
+  {
+    "ID": 430,
+    "Language": "deu",
+    "SENTENCE": "Ist es nötig, dass ich dir Geld gebe?"
+  },
+  {
+    "ID": 431,
+    "Language": "deu",
+    "SENTENCE": "Paris ist die schönste Stadt der Welt."
+  },
+  {
+    "ID": 432,
+    "Language": "deu",
+    "SENTENCE": "Ich dachte immer, einen Herzanfall zu haben, sei die Art der Natur, dir zu sagen, dass du sterben musst."
+  },
+  {
+    "ID": 433,
+    "Language": "deu",
+    "SENTENCE": "He, ich habe vielleicht kein Geld, aber ich habe immer noch meinen Stolz."
+  },
+  {
+    "ID": 434,
+    "Language": "deu",
+    "SENTENCE": "Ich habe einen Traum."
+  },
+  {
+    "ID": 435,
+    "Language": "deu",
+    "SENTENCE": "Das ist meine Freundin Rachel, wir sind zusammen ins Gymnasium gegangen."
+  },
+  {
+    "ID": 436,
+    "Language": "deu",
+    "SENTENCE": "Die Lebenshaltungskosten sind drastisch gestiegen."
+  },
+  {
+    "ID": 437,
+    "Language": "deu",
+    "SENTENCE": "Alles Erfundene ist wahr."
+  },
+  {
+    "ID": 438,
+    "Language": "deu",
+    "SENTENCE": "Überrascht sein, sich wundern, heißt anfangen, zu verstehen."
+  },
+  {
+    "ID": 439,
+    "Language": "deu",
+    "SENTENCE": "Zweifellos ist das Universum unendlich."
+  },
+  {
+    "ID": 440,
+    "Language": "deu",
+    "SENTENCE": "Zur Vollkommenheit fehlte ihr nur ein Fehler."
+  },
+  {
+    "ID": 441,
+    "Language": "deu",
+    "SENTENCE": "Und doch, auch das Gegenteil ist immer wahr."
+  },
+  {
+    "ID": 442,
+    "Language": "deu",
+    "SENTENCE": "Wir sehen die Dinge nicht, wie sie sind, sondern wie wir sind."
+  },
+  {
+    "ID": 443,
+    "Language": "deu",
+    "SENTENCE": "Die Welt ist ein Irrenhaus."
+  },
+  {
+    "ID": 444,
+    "Language": "deu",
+    "SENTENCE": "Kein Schüler beschwert sich je, Schmerzen im Frontallappen der linken Gehirnhälfte zu haben."
+  },
+  {
+    "ID": 445,
+    "Language": "deu",
+    "SENTENCE": "Du hast mir die Augen dafür geöffnet, wie es ist, wenn alles gut geht."
+  },
+  {
+    "ID": 446,
+    "Language": "deu",
+    "SENTENCE": "Du hast mich gefunden, wo sonst niemand gesucht hat."
+  },
+  {
+    "ID": 447,
+    "Language": "deu",
+    "SENTENCE": "Du bist an meiner Seite, jetzt ist alles gut."
+  },
+  {
+    "ID": 448,
+    "Language": "deu",
+    "SENTENCE": "Wie, du weißt nicht?!"
+  },
+  {
+    "ID": 449,
+    "Language": "deu",
+    "SENTENCE": "Du siehst dumm aus."
+  },
+  {
+    "ID": 450,
+    "Language": "deu",
+    "SENTENCE": "Ich denke, ich werde schlafen gehen."
+  },
+  {
+    "ID": 451,
+    "Language": "deu",
+    "SENTENCE": "Ich muss einkaufen gehen, ich komme in einer Stunde zurück."
+  },
+  {
+    "ID": 452,
+    "Language": "deu",
+    "SENTENCE": "Ich heiße Jack."
+  },
+  {
+    "ID": 453,
+    "Language": "deu",
+    "SENTENCE": "Es gefällt mir sehr gut."
+  },
+  {
+    "ID": 454,
+    "Language": "deu",
+    "SENTENCE": "Sehen wir uns morgen?"
+  },
+  {
+    "ID": 455,
+    "Language": "deu",
+    "SENTENCE": "Wie heißt das auf Italienisch?"
+  },
+  {
+    "ID": 456,
+    "Language": "deu",
+    "SENTENCE": "Ist es weit von hier?"
+  },
+  {
+    "ID": 457,
+    "Language": "deu",
+    "SENTENCE": "Das sind nicht meine Sachen!"
+  },
+  {
+    "ID": 458,
+    "Language": "deu",
+    "SENTENCE": "Danke, das ist alles."
+  },
+  {
+    "ID": 459,
+    "Language": "deu",
+    "SENTENCE": "Tanzt du mit mir?"
+  },
+  {
+    "ID": 460,
+    "Language": "deu",
+    "SENTENCE": "Wie viel Uhr ist es?"
+  },
+  {
+    "ID": 464,
+    "Language": "deu",
+    "SENTENCE": "Es ist nicht meine Schuld!"
+  },
+  {
+    "ID": 465,
+    "Language": "deu",
+    "SENTENCE": "Ich möchte eine Nacht bleiben."
+  },
+  {
+    "ID": 466,
+    "Language": "deu",
+    "SENTENCE": "Könnten Sie für mich wählen? Das Telefon hängt zu hoch."
+  },
+  {
+    "ID": 467,
+    "Language": "deu",
+    "SENTENCE": "Gibt es hier in der Nähe eine Jugendherberge?"
+  },
+  {
+    "ID": 468,
+    "Language": "deu",
+    "SENTENCE": "Wo sind die Duschen?"
+  },
+  {
+    "ID": 469,
+    "Language": "deu",
+    "SENTENCE": "Öffnen Sie den Mund!"
+  },
+  {
+    "ID": 470,
+    "Language": "deu",
+    "SENTENCE": "Ist es schlimm?"
+  },
+  {
+    "ID": 471,
+    "Language": "deu",
+    "SENTENCE": "Ich habe meine Brieftasche verloren."
+  },
+  {
+    "ID": 472,
+    "Language": "deu",
+    "SENTENCE": "Ich bin einverstanden."
+  },
+  {
+    "ID": 473,
+    "Language": "deu",
+    "SENTENCE": "Liebe ist nie verschwendet."
+  },
+  {
+    "ID": 474,
+    "Language": "deu",
+    "SENTENCE": "Leben ist das, was dir zustößt, während du gerade damit beschäftigt bist, andere Pläne zu machen."
+  },
+  {
+    "ID": 475,
+    "Language": "deu",
+    "SENTENCE": "Nicht wollen ist das Gleiche wie haben."
+  },
+  {
+    "ID": 476,
+    "Language": "deu",
+    "SENTENCE": "Er ist sehr sexy."
+  },
+  {
+    "ID": 477,
+    "Language": "deu",
+    "SENTENCE": "Lass mich in Ruhe!"
+  },
+  {
+    "ID": 478,
+    "Language": "deu",
+    "SENTENCE": "„Gib mir bitte das Salz.“ „Hier, nimm.“"
+  },
+  {
+    "ID": 479,
+    "Language": "deu",
+    "SENTENCE": "Es gibt zu viele Dinge zu tun!"
+  },
+  {
+    "ID": 480,
+    "Language": "deu",
+    "SENTENCE": "Wie alt bist du?"
+  },
+  {
+    "ID": 481,
+    "Language": "deu",
+    "SENTENCE": "Los, spiel' mit mir, mir ist so langweilig!"
+  },
+  {
+    "ID": 482,
+    "Language": "deu",
+    "SENTENCE": "Denk nicht mal dran, meine Schokolade zu essen!"
+  },
+  {
+    "ID": 483,
+    "Language": "deu",
+    "SENTENCE": "Hör auf, mich um ein Getränk zu bitten! Geh, hol dir selbst eins."
+  },
+  {
+    "ID": 484,
+    "Language": "deu",
+    "SENTENCE": "Dank dir habe ich meinen Appetit verloren."
+  },
+  {
+    "ID": 485,
+    "Language": "deu",
+    "SENTENCE": "Ich habe wirklich das Bedürfnis, jemanden zu schlagen."
+  },
+  {
+    "ID": 486,
+    "Language": "deu",
+    "SENTENCE": "Das ist so lange her, dass ich mit meiner Familie ins Disneyland gegangen bin."
+  },
+  {
+    "ID": 487,
+    "Language": "deu",
+    "SENTENCE": "Meine Eltern streiten sich dauernd wegen Kleinigkeiten. Das regt mich so auf!"
+  },
+  {
+    "ID": 488,
+    "Language": "deu",
+    "SENTENCE": "Wenn du dich nicht mit Sonnencreme eincremen willst, ist das deine Sache. Aber beschwer' dich später nicht bei mir, wenn du Sonnenbrand hast."
+  },
+  {
+    "ID": 489,
+    "Language": "deu",
+    "SENTENCE": "Meine Freunde sagen immer, ich sei zu ruhig, aber meine Familie sagt immer, ich sei zu nervig."
+  },
+  {
+    "ID": 490,
+    "Language": "deu",
+    "SENTENCE": "Ich hasse diese Spinnen; wegen denen flippe ich jedes Mal aus, wenn ich sauber mache."
+  },
+  {
+    "ID": 491,
+    "Language": "deu",
+    "SENTENCE": "Zu nervig... Ich kann nicht einmal einen Computer benutzen, ohne Kopfweh zu bekommen!"
+  },
+  {
+    "ID": 492,
+    "Language": "deu",
+    "SENTENCE": "Es ist so heiß, dass man Eier auf den Motorhauben der Autos braten könnte."
+  },
+  {
+    "ID": 493,
+    "Language": "deu",
+    "SENTENCE": "Wer kennt dieses Problem nicht?!"
+  },
+  {
+    "ID": 494,
+    "Language": "deu",
+    "SENTENCE": "Heute ist es sehr heiß."
+  },
+  {
+    "ID": 495,
+    "Language": "deu",
+    "SENTENCE": "Es ist niemand gekommen."
+  },
+  {
+    "ID": 496,
+    "Language": "deu",
+    "SENTENCE": "Ich habe noch nie einen roten Kühlschrank gesehen."
+  },
+  {
+    "ID": 497,
+    "Language": "deu",
+    "SENTENCE": "Er hat sein Wort gebrochen."
+  },
+  {
+    "ID": 498,
+    "Language": "deu",
+    "SENTENCE": "Lieber für das gehasst werden, was man ist, als geliebt werden für das, was man nicht ist."
+  },
+  {
+    "ID": 499,
+    "Language": "deu",
+    "SENTENCE": "Es ist einsam im Sattel, seit das Pferd gestorben ist."
+  },
+  {
+    "ID": 500,
+    "Language": "deu",
+    "SENTENCE": "Die Mathematik ist der Teil der Wissenschaft, den man weiter betreiben könnte, wenn man morgen aufwachen würde und entdecken würde, dass das Universum weg ist."
+  },
+  {
+    "ID": 501,
+    "Language": "deu",
+    "SENTENCE": "Meine Augen sind ein Ozean, in dem sich meine Träume spiegeln."
+  },
+  {
+    "ID": 502,
+    "Language": "deu",
+    "SENTENCE": "Ihr kennt den Satz, wir ernten, was wir säen. Ich habe den Wind gesät und hier ist mein Sturm."
+  },
+  {
+    "ID": 503,
+    "Language": "deu",
+    "SENTENCE": "Schau mich an, wenn ich mit dir rede!"
+  },
+  {
+    "ID": 504,
+    "Language": "deu",
+    "SENTENCE": "Was wäre die Welt ohne Frauen?"
+  },
+  {
+    "ID": 505,
+    "Language": "deu",
+    "SENTENCE": "Was wäre, wenn du eine Rede halten würdest, und niemand käme?"
+  },
+  {
+    "ID": 506,
+    "Language": "deu",
+    "SENTENCE": "Ich weiß nicht, was ich sagen soll, um dich zu trösten."
+  },
+  {
+    "ID": 507,
+    "Language": "deu",
+    "SENTENCE": "Er ist nicht mein Typ."
+  },
+  {
+    "ID": 508,
+    "Language": "deu",
+    "SENTENCE": "Ich versuchte, die Zeit totzuschlagen."
+  },
+  {
+    "ID": 509,
+    "Language": "deu",
+    "SENTENCE": "Wie bist du auf diese verrückte Idee gekommen?"
+  },
+  {
+    "ID": 511,
+    "Language": "deu",
+    "SENTENCE": "Wer will heiße Schokolade?"
+  },
+  {
+    "ID": 512,
+    "Language": "deu",
+    "SENTENCE": "Sprechen Sie bitte langsamer!"
+  },
+  {
+    "ID": 516,
+    "Language": "deu",
+    "SENTENCE": "Und was werden wir machen?"
+  },
+  {
+    "ID": 517,
+    "Language": "deu",
+    "SENTENCE": "Ich habe Kopfweh."
+  },
+  {
+    "ID": 518,
+    "Language": "deu",
+    "SENTENCE": "Wo kann man telefonieren?"
+  },
+  {
+    "ID": 519,
+    "Language": "deu",
+    "SENTENCE": "Ich muss zugeben, dass ich schnarche."
+  },
+  {
+    "ID": 520,
+    "Language": "deu",
+    "SENTENCE": "Heute Abend gehen wir in die Kirche."
+  },
+  {
+    "ID": 521,
+    "Language": "deu",
+    "SENTENCE": "Wie geht's dir? Hattest du eine gute Reise?"
+  },
+  {
+    "ID": 522,
+    "Language": "deu",
+    "SENTENCE": "Ich fühle mich nicht gut."
+  },
+  {
+    "ID": 523,
+    "Language": "deu",
+    "SENTENCE": "Rufen Sie die Polizei!"
+  },
+  {
+    "ID": 524,
+    "Language": "deu",
+    "SENTENCE": "Das ist zu teuer!"
+  },
+  {
+    "ID": 525,
+    "Language": "deu",
+    "SENTENCE": "Sie gibt nur vor zu schlafen, deswegen schnarcht sie nicht."
+  },
+  {
+    "ID": 526,
+    "Language": "deu",
+    "SENTENCE": "Meine Schuhe sind zu klein, ich brauche neue."
+  },
+  {
+    "ID": 527,
+    "Language": "deu",
+    "SENTENCE": "Hauen wir ab von hier, die Bullen kommen."
+  },
+  {
+    "ID": 528,
+    "Language": "deu",
+    "SENTENCE": "Fröhliche Weihnachten!"
+  },
+  {
+    "ID": 529,
+    "Language": "deu",
+    "SENTENCE": "Das wäre zu cool, wenn ich zehn Sprachen sprechen könnte!"
+  },
+  {
+    "ID": 531,
+    "Language": "deu",
+    "SENTENCE": "Du hättest mir zuhören sollen."
+  },
+  {
+    "ID": 532,
+    "Language": "deu",
+    "SENTENCE": "Das ist ein totales Schlamassel und es geht mir auf die Nerven."
+  },
+  {
+    "ID": 533,
+    "Language": "deu",
+    "SENTENCE": "Wenn der Körper berührt wird, schicken Rezeptoren in der Haut Nachrichten zum Gehirn und verursachen die Ausschüttung von chemischen Stoffen wie Endorphinen."
+  },
+  {
+    "ID": 534,
+    "Language": "deu",
+    "SENTENCE": "Was bringt das mit sich?"
+  },
+  {
+    "ID": 535,
+    "Language": "deu",
+    "SENTENCE": "Man erwartet, dass 2006 hundertfünfzigtausend Paare in Shanghai heiraten."
+  },
+  {
+    "ID": 536,
+    "Language": "deu",
+    "SENTENCE": "Die Ausgewählten werden umfassende medizinische und psychologische Tests machen müssen."
+  },
+  {
+    "ID": 537,
+    "Language": "deu",
+    "SENTENCE": "Eine halbe Million Kinder im Niger leidet immer noch an Unterernährung."
+  },
+  {
+    "ID": 538,
+    "Language": "deu",
+    "SENTENCE": "Es wird fünf bis zehn Jahre dauern, bis die Technologie bereit ist."
+  },
+  {
+    "ID": 539,
+    "Language": "deu",
+    "SENTENCE": "Fahrräder sind Hilfsmittel für städtische Nachhaltigkeit."
+  },
+  {
+    "ID": 540,
+    "Language": "deu",
+    "SENTENCE": "Die französische Regierung hat ein Online-Spiel auf den Markt gebracht, das Steuerzahler auffordert, den Staatshaushalt auszugleichen."
+  },
+  {
+    "ID": 541,
+    "Language": "deu",
+    "SENTENCE": "Er wäre froh, das zu hören."
+  },
+  {
+    "ID": 542,
+    "Language": "deu",
+    "SENTENCE": "Was glauben Sie ist wahr, obwohl Sie es nicht beweisen können?"
+  },
+  {
+    "ID": 543,
+    "Language": "deu",
+    "SENTENCE": "Computer machen die Leute dumm."
+  },
+  {
+    "ID": 544,
+    "Language": "deu",
+    "SENTENCE": "Fragt nicht, was sie denken. Fragt, was sie tun."
+  },
+  {
+    "ID": 545,
+    "Language": "deu",
+    "SENTENCE": "Wenn Sie versuchen, etwas zu beweisen, hilft es zu wissen, dass es wahr ist."
+  },
+  {
+    "ID": 546,
+    "Language": "deu",
+    "SENTENCE": "Was die Welt verändert, ist Kommunikation, nicht Information."
+  },
+  {
+    "ID": 547,
+    "Language": "deu",
+    "SENTENCE": "Die meisten wissenschaftlichen Durchbrüche sind nichts anderes als die Entdeckung von etwas Selbstverständlichem."
+  },
+  {
+    "ID": 548,
+    "Language": "deu",
+    "SENTENCE": "Wenn Sie etwas nicht verstehen, dann, weil Sie sich nicht des Kontextes bewusst sind."
+  },
+  {
+    "ID": 549,
+    "Language": "deu",
+    "SENTENCE": "Die Vergangenheit kann man nur kennen, nicht ändern. Die Zukunft kann man nur ändern, nicht kennen."
+  },
+  {
+    "ID": 550,
+    "Language": "deu",
+    "SENTENCE": "Die Schlüsselfrage ist nicht, was ich gewinnen kann, sondern, was ich verlieren kann."
+  },
+  {
+    "ID": 551,
+    "Language": "deu",
+    "SENTENCE": "Alles, was falsch verstanden werden kann, wird falsch verstanden werden."
+  },
+  {
+    "ID": 552,
+    "Language": "deu",
+    "SENTENCE": "Jedes Universum, das einfach genug ist, um verstanden zu werden, ist zu einfach, um einen Geist hervorzubringen, der es versteht."
+  },
+  {
+    "ID": 553,
+    "Language": "deu",
+    "SENTENCE": "Warum ist das Leben so voll mit Leiden?"
+  },
+  {
+    "ID": 554,
+    "Language": "deu",
+    "SENTENCE": "Trotz der Wichtigkeit von Schlaf ist sein Zweck ein Rätsel."
+  },
+  {
+    "ID": 555,
+    "Language": "deu",
+    "SENTENCE": "Was bedeutet es, im 21. Jahrhundert einen gebildeten Verstand zu haben?"
+  },
+  {
+    "ID": 556,
+    "Language": "deu",
+    "SENTENCE": "Leidenschaft schafft Leiden."
+  },
+  {
+    "ID": 557,
+    "Language": "deu",
+    "SENTENCE": "Der Zug aus Genf wird in den Bahnhof einfahren."
+  },
+  {
+    "ID": 558,
+    "Language": "deu",
+    "SENTENCE": "Ich würde ihm gerne ein Geschenk zu seinem Geburtstag machen."
+  },
+  {
+    "ID": 559,
+    "Language": "deu",
+    "SENTENCE": "Ich sterbe vor Hunger!"
+  },
+  {
+    "ID": 560,
+    "Language": "deu",
+    "SENTENCE": "Hast du Freunde in Antigua?"
+  },
+  {
+    "ID": 561,
+    "Language": "deu",
+    "SENTENCE": "Ein Kubikmeter entspricht 1000 Litern."
+  },
+  {
+    "ID": 562,
+    "Language": "deu",
+    "SENTENCE": "Ich habe so viel Arbeit, dass ich eine Stunde länger bleibe."
+  },
+  {
+    "ID": 563,
+    "Language": "deu",
+    "SENTENCE": "Ich bin verheiratet und habe zwei Kinder."
+  },
+  {
+    "ID": 564,
+    "Language": "deu",
+    "SENTENCE": "Er spielt sehr gut Klavier."
+  },
+  {
+    "ID": 566,
+    "Language": "deu",
+    "SENTENCE": "Ich möchte in Paris studieren."
+  },
+  {
+    "ID": 567,
+    "Language": "deu",
+    "SENTENCE": "Ihr wisst nicht, wer ich bin."
+  },
+  {
+    "ID": 568,
+    "Language": "deu",
+    "SENTENCE": "Warum isst du kein Gemüse?"
+  },
+  {
+    "ID": 569,
+    "Language": "deu",
+    "SENTENCE": "Warum gehen Leute ins Kino?"
+  },
+  {
+    "ID": 570,
+    "Language": "deu",
+    "SENTENCE": "Ich ziehe mich aus."
+  },
+  {
+    "ID": 571,
+    "Language": "deu",
+    "SENTENCE": "Das Auto fuhr gegen die Mauer."
+  },
+  {
+    "ID": 572,
+    "Language": "deu",
+    "SENTENCE": "Es gibt keine reellen Visionen."
+  },
+  {
+    "ID": 573,
+    "Language": "deu",
+    "SENTENCE": "Es bringt nichts, mir \"Hallo, wie geht's?\" zu sagen, wenn du sonst nichts zu sagen hast."
+  },
+  {
+    "ID": 574,
+    "Language": "deu",
+    "SENTENCE": "In einem Wörterbuch wie diesem sollte es mindestens zwei Sätze mit \"Kühlschrank\" geben."
+  },
+  {
+    "ID": 575,
+    "Language": "deu",
+    "SENTENCE": "Der Kreationismus ist eine Pseudowissenschaft."
+  },
+  {
+    "ID": 576,
+    "Language": "deu",
+    "SENTENCE": "Der Wind hat sich beruhigt."
+  },
+  {
+    "ID": 578,
+    "Language": "deu",
+    "SENTENCE": "Ich will nicht um deine Hand anhalten!"
+  },
+  {
+    "ID": 579,
+    "Language": "deu",
+    "SENTENCE": "Gib mir Zeit, dir alles zu geben, was ich habe!"
+  },
+  {
+    "ID": 580,
+    "Language": "deu",
+    "SENTENCE": "Ein Demokrat ist ein freier Bürger, der sich dem Willen der Mehrheit beugt."
+  },
+  {
+    "ID": 583,
+    "Language": "deu",
+    "SENTENCE": "Rom ist nicht an einem Tage erbaut worden."
+  },
+  {
+    "ID": 584,
+    "Language": "deu",
+    "SENTENCE": "Keine Antwort ist auch eine."
+  },
+  {
+    "ID": 585,
+    "Language": "deu",
+    "SENTENCE": "„Bist du fertig?“ – „Im Gegenteil. Ich habe noch nicht einmal begonnen.“"
+  },
+  {
+    "ID": 587,
+    "Language": "deu",
+    "SENTENCE": "Warum sagt man \"Guten Tag!\", wenn der Tag nicht gut ist?"
+  },
+  {
+    "ID": 588,
+    "Language": "deu",
+    "SENTENCE": "Wein ist in Flaschen gefüllte Poesie."
+  },
+  {
+    "ID": 589,
+    "Language": "deu",
+    "SENTENCE": "Das war der schönste Tag in meinem Leben."
+  },
+  {
+    "ID": 590,
+    "Language": "deu",
+    "SENTENCE": "Ich verstehe kein Deutsch."
+  },
+  {
+    "ID": 591,
+    "Language": "deu",
+    "SENTENCE": "Ich habe meine Entscheidung getroffen."
+  },
+  {
+    "ID": 592,
+    "Language": "deu",
+    "SENTENCE": "Ich gebe dir mein Wort."
+  },
+  {
+    "ID": 594,
+    "Language": "deu",
+    "SENTENCE": "Du bist die große Liebe meines Lebens."
+  },
+  {
+    "ID": 595,
+    "Language": "deu",
+    "SENTENCE": "Objektiv sein heißt, nicht zu verraten, zu wem man hält."
+  },
+  {
+    "ID": 596,
+    "Language": "deu",
+    "SENTENCE": "Wir haben einen Papst."
+  },
+  {
+    "ID": 597,
+    "Language": "deu",
+    "SENTENCE": "Ein Mathematiker ist ein Mensch, der einen ihm vorgetragenen Gedanken nicht nur sofort begreift, sondern auch erkennt, auf welchem Denkfehler er beruht."
+  },
+  {
+    "ID": 598,
+    "Language": "deu",
+    "SENTENCE": "Das Ganze ist mehr als die Summe seiner Teile."
+  },
+  {
+    "ID": 599,
+    "Language": "deu",
+    "SENTENCE": "Die Mathematik ist dem Verlangen nicht abträglich."
+  },
+  {
+    "ID": 600,
+    "Language": "deu",
+    "SENTENCE": "Eine mathematische Wahrheit ist weder einfach noch kompliziert, sie ist."
+  },
+  {
+    "ID": 601,
+    "Language": "deu",
+    "SENTENCE": "Mathematiker sind Dichter, nur müssen sie das, was ihre Fantasie schafft, auch beweisen."
+  },
+  {
+    "ID": 602,
+    "Language": "deu",
+    "SENTENCE": "Die Mathematik ist wie die Logik der Physik."
+  },
+  {
+    "ID": 603,
+    "Language": "deu",
+    "SENTENCE": "Die Mathematiker sind eine Art Franzosen: redet man zu ihnen, so übersetzen sie es in ihre Sprache, und dann ist es alsobald ganz etwas anders."
+  },
+  {
+    "ID": 604,
+    "Language": "deu",
+    "SENTENCE": "Ein Experte ist jemand, der die schlimmsten Fehler kennt, die in seinem Gebiet gemacht werden können und weiß, wie man sie vermeidet."
+  },
+  {
+    "ID": 605,
+    "Language": "deu",
+    "SENTENCE": "Mathe zu machen ist die einzige gesellschaftlich akzeptable Art, sich in der Öffentlichkeit selbstzubefriedigen."
+  },
+  {
+    "ID": 606,
+    "Language": "deu",
+    "SENTENCE": "Es gibt 10 Arten von Menschen in der Welt: die, die das Binärsystem verstehen, und die, die es nicht verstehen."
+  },
+  {
+    "ID": 607,
+    "Language": "deu",
+    "SENTENCE": "Ich denke nicht, also bin ich nicht."
+  },
+  {
+    "ID": 608,
+    "Language": "deu",
+    "SENTENCE": "Heutzutage wollen wir, dass unsere Kinder ihre eigenen Entscheidungen treffen, aber wir erwarten, dass uns diese Entscheidungen passen."
+  },
+  {
+    "ID": 609,
+    "Language": "deu",
+    "SENTENCE": "Mach dir keine Sorgen, sei fröhlich!"
+  },
+  {
+    "ID": 610,
+    "Language": "deu",
+    "SENTENCE": "Im Alter von sechs Jahren hatte er gelernt, eine Schreibmaschine zu bedienen und er erklärte dem Lehrer, dass er nicht lernen müsste, mit der Hand zu schreiben."
+  },
+  {
+    "ID": 611,
+    "Language": "deu",
+    "SENTENCE": "Ich finde Fremdsprachen sehr interessant."
+  },
+  {
+    "ID": 612,
+    "Language": "deu",
+    "SENTENCE": "Ich lerne nicht gerne unregelmäßige Verben."
+  },
+  {
+    "ID": 613,
+    "Language": "deu",
+    "SENTENCE": "Nimm ein Buch und lies es!"
+  },
+  {
+    "ID": 614,
+    "Language": "deu",
+    "SENTENCE": "Stell dich dem Leben lächelnd!"
+  },
+  {
+    "ID": 615,
+    "Language": "deu",
+    "SENTENCE": "Die meisten Schulen wurden nicht konzipiert, um die Gesellschaft zu verändern, sondern um sie zu reproduzieren."
+  },
+  {
+    "ID": 616,
+    "Language": "deu",
+    "SENTENCE": "Du bringst mich zum Träumen."
+  },
+  {
+    "ID": 617,
+    "Language": "deu",
+    "SENTENCE": "Ich bin außer mir vor Freude."
+  },
+  {
+    "ID": 618,
+    "Language": "deu",
+    "SENTENCE": "Er ist schon ein Mann."
+  },
+  {
+    "ID": 619,
+    "Language": "deu",
+    "SENTENCE": "Die Ferien sind jetzt vorbei."
+  },
+  {
+    "ID": 620,
+    "Language": "deu",
+    "SENTENCE": "Ich habe Angst zu fallen."
+  },
+  {
+    "ID": 621,
+    "Language": "deu",
+    "SENTENCE": "Abendgarderobe ist erwünscht."
+  },
+  {
+    "ID": 622,
+    "Language": "deu",
+    "SENTENCE": "Das ist die reine Wahrheit."
+  },
+  {
+    "ID": 623,
+    "Language": "deu",
+    "SENTENCE": "Es ist kalt."
+  },
+  {
+    "ID": 625,
+    "Language": "deu",
+    "SENTENCE": "Wenn ich Leute frage, was sie in Bezug aufs Gymnasium am meisten bedauern, sagen fast alle das Gleiche: dass sie so viel Zeit verschwendet haben."
+  },
+  {
+    "ID": 626,
+    "Language": "deu",
+    "SENTENCE": "Wenn man nicht machen kann, was man will, macht man, was man kann."
+  },
+  {
+    "ID": 627,
+    "Language": "deu",
+    "SENTENCE": "Wenn man ihm den kleinen Finger gibt, so nimmt er die ganze Hand."
+  },
+  {
+    "ID": 628,
+    "Language": "deu",
+    "SENTENCE": "Du hast Recht."
+  },
+  {
+    "ID": 629,
+    "Language": "deu",
+    "SENTENCE": "Das hast du absichtlich getan!"
+  },
+  {
+    "ID": 630,
+    "Language": "deu",
+    "SENTENCE": "Du hast ihm nichts gesagt?"
+  },
+  {
+    "ID": 631,
+    "Language": "deu",
+    "SENTENCE": "Du hast mir den Kopf verdreht."
+  },
+  {
+    "ID": 632,
+    "Language": "deu",
+    "SENTENCE": "Du bist mein Typ."
+  },
+  {
+    "ID": 633,
+    "Language": "deu",
+    "SENTENCE": "Du bist unwiderstehlich."
+  },
+  {
+    "ID": 634,
+    "Language": "deu",
+    "SENTENCE": "Könntest du bitte später zurückrufen?"
+  },
+  {
+    "ID": 635,
+    "Language": "deu",
+    "SENTENCE": "Mit wem spreche ich?"
+  },
+  {
+    "ID": 636,
+    "Language": "deu",
+    "SENTENCE": "Ich akzeptiere, aber nur unter einer Bedingung."
+  },
+  {
+    "ID": 637,
+    "Language": "deu",
+    "SENTENCE": "Lächle jetzt, heul' später!"
+  },
+  {
+    "ID": 638,
+    "Language": "deu",
+    "SENTENCE": "Das Leben ist schön."
+  },
+  {
+    "ID": 639,
+    "Language": "deu",
+    "SENTENCE": "Verdirb mir nicht mein Vergnügen nach der ganzen Mühe, die ich mir gemacht habe."
+  },
+  {
+    "ID": 640,
+    "Language": "deu",
+    "SENTENCE": "Es gibt Tage, an denen ich den Eindruck habe, dass mein Gehirn mich im Stich lassen will."
+  },
+  {
+    "ID": 641,
+    "Language": "deu",
+    "SENTENCE": "Ich kann mir nicht gleichzeitig die Nägel schneiden und bügeln!"
+  },
+  {
+    "ID": 642,
+    "Language": "deu",
+    "SENTENCE": "Ich halte es nicht mehr aus! Ich habe seit drei Tagen nicht mehr geschlafen!"
+  },
+  {
+    "ID": 643,
+    "Language": "deu",
+    "SENTENCE": "Er will nicht, dass du ihm von deinem Sexualleben erzählst."
+  },
+  {
+    "ID": 644,
+    "Language": "deu",
+    "SENTENCE": "Hast du schon Bananenkuchen gegessen?"
+  },
+  {
+    "ID": 645,
+    "Language": "deu",
+    "SENTENCE": "Warum heiratet man eine Frau, wenn man Männer liebt?"
+  },
+  {
+    "ID": 646,
+    "Language": "deu",
+    "SENTENCE": "Wenn du keine Kinder kriegen kannst, kannst du immer noch welche adoptieren."
+  },
+  {
+    "ID": 648,
+    "Language": "deu",
+    "SENTENCE": "Was hat dich dazu gebracht, deine Meinung zu ändern?"
+  },
+  {
+    "ID": 649,
+    "Language": "deu",
+    "SENTENCE": "Hey, schau' mal, ein Affe mit drei Köpfen!"
+  },
+  {
+    "ID": 650,
+    "Language": "deu",
+    "SENTENCE": "Es ist schade, dass man Wunder nicht kaufen kann, wie man Kartoffeln kauft."
+  },
+  {
+    "ID": 651,
+    "Language": "deu",
+    "SENTENCE": "Ich liebe Lasagne."
+  },
+  {
+    "ID": 652,
+    "Language": "deu",
+    "SENTENCE": "Wenn man weiß, dass etwas Unangenehmes geschehen wird, dass man zum Beispiel zum Zahnarzt oder nach Frankreich gehen wird, dann ist das nicht gut."
+  },
+  {
+    "ID": 653,
+    "Language": "deu",
+    "SENTENCE": "Tatsächlich ist ein halbes Auge sehr nützlich, denn mit einem halben Auge kann ein Tier die Hälfte von einem anderen Tier sehen, das es auffressen will, und ihm aus dem Weg gehen, und es wird selber das Tier fressen, das nur ein Drittel-Auge oder nur 49% eines Auges hat, weil dieses ihm nicht schnell genug aus dem Weg gehen wird, und das Tier, das aufgefressen wurde, wird keine Kinder bekommen, weil es tot ist."
+  },
+  {
+    "ID": 654,
+    "Language": "deu",
+    "SENTENCE": "Primzahlen sind wie das Leben, sie sind völlig logisch, aber es ist unmöglich, Regeln für sie zu finden, selbst wenn man seine ganze Zeit dem Nachdenken darüber widmet."
+  },
+  {
+    "ID": 655,
+    "Language": "deu",
+    "SENTENCE": "Wenn man eine Augenbraue hochzieht, kann das bedeuten \"Ich habe Lust, mit dir Sex zu haben\", aber auch \"Ich finde, dass das, was du gerade gesagt hast, vollkommen idiotisch ist."
+  },
+  {
+    "ID": 656,
+    "Language": "deu",
+    "SENTENCE": "Das Gehirn ist nur eine komplizierte Maschine."
+  },
+  {
+    "ID": 657,
+    "Language": "deu",
+    "SENTENCE": "Ein Stundenplan ist ein Ausweis für die Zeit, nur, wenn man keinen Stundenplan hat, ist die Zeit nicht da."
+  },
+  {
+    "ID": 658,
+    "Language": "deu",
+    "SENTENCE": "Dieses Pinguinbaby ist so niedlich!"
+  },
+  {
+    "ID": 660,
+    "Language": "deu",
+    "SENTENCE": "Ich bin im Krankenhaus. Ich wurde vom Blitz getroffen."
+  },
+  {
+    "ID": 661,
+    "Language": "deu",
+    "SENTENCE": "Gib die Hoffnung nicht auf, noch ist nicht alles verloren."
+  },
+  {
+    "ID": 662,
+    "Language": "deu",
+    "SENTENCE": "Seien wir ehrlich, es ist unmöglich. Wir werden es nie schaffen."
+  },
+  {
+    "ID": 663,
+    "Language": "deu",
+    "SENTENCE": "Was ist ihre größte Inspirationsquelle?"
+  },
+  {
+    "ID": 664,
+    "Language": "deu",
+    "SENTENCE": "Man heiratet nicht jemanden, mit dem man leben kann - man heiratet die Person, ohne die man nicht leben kann."
+  },
+  {
+    "ID": 665,
+    "Language": "deu",
+    "SENTENCE": "In der Theorie gibt es keinen Unterschied zwischen Theorie und Praxis. Aber in der Praxis gibt es einen."
+  },
+  {
+    "ID": 666,
+    "Language": "deu",
+    "SENTENCE": "Bleibt nicht im Bett, sofern ihr nicht im Bett Geld verdienen könnt."
+  },
+  {
+    "ID": 667,
+    "Language": "deu",
+    "SENTENCE": "Es gibt Leute auf der Welt, die so hungrig sind, dass Gott ihnen nicht erscheinen kann, außer in Form von Brot."
+  },
+  {
+    "ID": 668,
+    "Language": "deu",
+    "SENTENCE": "Alles, was zu dumm ist, um gesagt zu werden, wird gesungen."
+  },
+  {
+    "ID": 669,
+    "Language": "deu",
+    "SENTENCE": "Es erfordert Weisheit, um Weisheit zu verstehen: die Musik ist nichts, wenn das Publikum taub ist."
+  },
+  {
+    "ID": 670,
+    "Language": "deu",
+    "SENTENCE": "Ich habe gerade die Briefe nochmal gelesen, die du mir geschickt hast."
+  },
+  {
+    "ID": 671,
+    "Language": "deu",
+    "SENTENCE": "Ich will nicht in die Schule gehen."
+  },
+  {
+    "ID": 672,
+    "Language": "deu",
+    "SENTENCE": "Es ist aus zwischen uns, gib mir meinen Ring zurück!"
+  },
+  {
+    "ID": 673,
+    "Language": "deu",
+    "SENTENCE": "Es regnet."
+  },
+  {
+    "ID": 674,
+    "Language": "deu",
+    "SENTENCE": "Ich hatte vor, heute an den Strand zu gehen, aber dann fing es an zu regnen."
+  },
+  {
+    "ID": 675,
+    "Language": "deu",
+    "SENTENCE": "Sie ist wirklich intelligent, oder?"
+  },
+  {
+    "ID": 676,
+    "Language": "deu",
+    "SENTENCE": "Eine Meinung ist nur dann schockierend, wenn sie eine Überzeugung ist."
+  },
+  {
+    "ID": 677,
+    "Language": "deu",
+    "SENTENCE": "Menschen, die lieben, zweifeln an nichts oder zweifeln an allem."
+  },
+  {
+    "ID": 678,
+    "Language": "deu",
+    "SENTENCE": "Gerechtigkeit ist teuer."
+  },
+  {
+    "ID": 679,
+    "Language": "deu",
+    "SENTENCE": "Freiheit besteht darin, alles machen zu können, was keinem anderen schadet."
+  },
+  {
+    "ID": 680,
+    "Language": "deu",
+    "SENTENCE": "Der Langsamste beim Versprechen ist der Treueste beim Einhalten."
+  },
+  {
+    "ID": 681,
+    "Language": "deu",
+    "SENTENCE": "Ein Kind ist nicht ein Gefäß zum Vollfüllen, sondern ein Feuer zum Anzünden."
+  },
+  {
+    "ID": 682,
+    "Language": "deu",
+    "SENTENCE": "Jede Meinung ist eine Mischung aus Wahrheit und Irrtum."
+  },
+  {
+    "ID": 683,
+    "Language": "deu",
+    "SENTENCE": "Das Leben ist eine tödliche, sexuell übertragbare Krankheit."
+  },
+  {
+    "ID": 684,
+    "Language": "deu",
+    "SENTENCE": "Wenn zwei Menschen immer die gleiche Meinung haben, ist einer von ihnen überflüssig."
+  },
+  {
+    "ID": 685,
+    "Language": "deu",
+    "SENTENCE": "Unsere Meinung ist eine Idee, die wir haben; unsere Überzeugung eine Idee, die uns hat."
+  },
+  {
+    "ID": 686,
+    "Language": "deu",
+    "SENTENCE": "Morgen werde ich in der Bibliothek lernen."
+  },
+  {
+    "ID": 687,
+    "Language": "deu",
+    "SENTENCE": "Zu spät."
+  },
+  {
+    "ID": 688,
+    "Language": "deu",
+    "SENTENCE": "Gestern bin ich in den Zoo gegangen."
+  },
+  {
+    "ID": 689,
+    "Language": "deu",
+    "SENTENCE": "Wir haben die Schlacht gewonnen."
+  },
+  {
+    "ID": 690,
+    "Language": "deu",
+    "SENTENCE": "Hallo? Bist du noch da?"
+  },
+  {
+    "ID": 691,
+    "Language": "deu",
+    "SENTENCE": "Ich mache jeden Tag das Mittagessen."
+  },
+  {
+    "ID": 692,
+    "Language": "deu",
+    "SENTENCE": "Heute Morgen habe ich ferngesehen."
+  },
+  {
+    "ID": 693,
+    "Language": "deu",
+    "SENTENCE": "Ich habe während des Essens ein Buch gelesen."
+  },
+  {
+    "ID": 694,
+    "Language": "deu",
+    "SENTENCE": "Ich habe während der Mittagspause ein wenig geschlafen, weil ich so müde war."
+  },
+  {
+    "ID": 695,
+    "Language": "deu",
+    "SENTENCE": "Ich habe letzte Woche begonnen, Chinesisch zu lernen."
+  },
+  {
+    "ID": 696,
+    "Language": "deu",
+    "SENTENCE": "Es ist einfacher, Leute im Internet anzubaggern als auf der Straße."
+  },
+  {
+    "ID": 697,
+    "Language": "deu",
+    "SENTENCE": "Ich wohne nahe am Meer, also kann ich oft an den Strand gehen."
+  },
+  {
+    "ID": 698,
+    "Language": "deu",
+    "SENTENCE": "Eines Tages werde ich eine Zuckerwattemaschine kaufen."
+  },
+  {
+    "ID": 699,
+    "Language": "deu",
+    "SENTENCE": "Es ist praktisch, einen Laptop zu haben."
+  },
+  {
+    "ID": 700,
+    "Language": "deu",
+    "SENTENCE": "Deine Brille ist auf den Boden gefallen."
+  },
+  {
+    "ID": 701,
+    "Language": "deu",
+    "SENTENCE": "Wie oft am Tag schaust du dich im Spiegel an?"
+  },
+  {
+    "ID": 702,
+    "Language": "deu",
+    "SENTENCE": "Letztes Jahr sind wir nach London gegangen."
+  },
+  {
+    "ID": 703,
+    "Language": "deu",
+    "SENTENCE": "Sie will nicht darüber sprechen."
+  },
+  {
+    "ID": 704,
+    "Language": "deu",
+    "SENTENCE": "Ich habe meine Inspiration verloren."
+  },
+  {
+    "ID": 705,
+    "Language": "deu",
+    "SENTENCE": "Ich brauche mehr Zeit."
+  },
+  {
+    "ID": 706,
+    "Language": "deu",
+    "SENTENCE": "Wenn du nichts zu tun hast, schau an deine Zimmerdecke."
+  },
+  {
+    "ID": 707,
+    "Language": "deu",
+    "SENTENCE": "Das bedeutet nichts!"
+  },
+  {
+    "ID": 708,
+    "Language": "deu",
+    "SENTENCE": "Sei bitte geduldig, das braucht Zeit."
+  },
+  {
+    "ID": 709,
+    "Language": "deu",
+    "SENTENCE": "Schließ beim Hinausgehen die Türe."
+  },
+  {
+    "ID": 710,
+    "Language": "deu",
+    "SENTENCE": "Das ist so eine traurige Geschichte."
+  },
+  {
+    "ID": 711,
+    "Language": "deu",
+    "SENTENCE": "Wenn es keine Lösung gibt, dann gibt es kein Problem."
+  },
+  {
+    "ID": 712,
+    "Language": "deu",
+    "SENTENCE": "Mein kleiner Bruder sieht fern."
+  },
+  {
+    "ID": 713,
+    "Language": "deu",
+    "SENTENCE": "Es ist anmaßend von Menschen, anzunehmen, dass unsere Aufgabe ist, zu tun, was nur Gott tun kann."
+  },
+  {
+    "ID": 714,
+    "Language": "deu",
+    "SENTENCE": "Ein kluger Leser sollte bereit sein, alles abzuwägen, was er liest, einschließlich der anonymen Quellen."
+  },
+  {
+    "ID": 715,
+    "Language": "deu",
+    "SENTENCE": "Katja leugnete, dass sie eine Anarchistin war, indem sie behauptete, dass sie nur wünschte, Veränderung in unserer Regierung zu machen, nicht, sie zu zerstören."
+  },
+  {
+    "ID": 716,
+    "Language": "deu",
+    "SENTENCE": "Blindheit ist verantwortlich für eine erschütternde Anzahl von Opfern schlechter Gesundheit, Leiden und Verlust von Würde und Verminderung der Lebensqualität von Menschen in der ganzen Welt."
+  },
+  {
+    "ID": 717,
+    "Language": "deu",
+    "SENTENCE": "Bildung und Bewegung von Hurrikanen sind unberechenbar, sogar mit unserer modernen Technologie."
+  },
+  {
+    "ID": 718,
+    "Language": "deu",
+    "SENTENCE": "Wenn man ein Telegramm sendet, ist Kürze unerlässlich, weil einem jedes Wort berechnet wird."
+  },
+  {
+    "ID": 719,
+    "Language": "deu",
+    "SENTENCE": "David hat ein leidenschaftliches Interesse an Ästhetik - den Eigenschaften, die ein Gemälde, eine Skulptur, eine musikalische Komposition oder ein Gedicht Auge, Ohr oder Geist gefallen lassen."
+  },
+  {
+    "ID": 720,
+    "Language": "deu",
+    "SENTENCE": "Trotz Trangs regelmäßigen Liebesbeteuerungen hat Spenser immer noch Angst, dass sie irgendwann aufhören wird, ihn zu lieben."
+  },
+  {
+    "ID": 721,
+    "Language": "deu",
+    "SENTENCE": "Hast du ihn in der Universität getroffen?"
+  },
+  {
+    "ID": 722,
+    "Language": "deu",
+    "SENTENCE": "Aaah!! Mein Computer ist kaputt!"
+  },
+  {
+    "ID": 723,
+    "Language": "deu",
+    "SENTENCE": "Die privaten Colleges und Universitäten der Vereinigten Staaten sind selbstständig."
+  },
+  {
+    "ID": 724,
+    "Language": "deu",
+    "SENTENCE": "Jedes Mal, wenn ich in ein neues Warcraft-Spiel eintrete, stehe ich einem neuen Team von Gegnern gegenüber."
+  },
+  {
+    "ID": 725,
+    "Language": "deu",
+    "SENTENCE": "Seit ich weiß, dass die Universität existiert, will ich hingehen."
+  },
+  {
+    "ID": 726,
+    "Language": "deu",
+    "SENTENCE": "Meine Wahlunlust kommt von meiner Abneigung gegen Politik."
+  },
+  {
+    "ID": 727,
+    "Language": "deu",
+    "SENTENCE": "Es ist der Aufstieg der Monarchen, der ihre Untertanen vom Aufstand abhält."
+  },
+  {
+    "ID": 728,
+    "Language": "deu",
+    "SENTENCE": "Sarah war scharfsinnig genug, um zu merken, dass ihre Freunde versuchten, ihr einen Streich zu spielen."
+  },
+  {
+    "ID": 729,
+    "Language": "deu",
+    "SENTENCE": "Das Orchester macht misstönende Geräusche beim Stimmen."
+  },
+  {
+    "ID": 730,
+    "Language": "deu",
+    "SENTENCE": "Die Unstimmigkeit zwischen den Geschichten der zwei Unfallbeteiligten war so groß, dass die Behörden Schwierigkeiten hatten, zu entscheiden, welche Seite die Wahrheit erzählte."
+  },
+  {
+    "ID": 731,
+    "Language": "deu",
+    "SENTENCE": "Ja, das passiert von Zeit zu Zeit."
+  },
+  {
+    "ID": 732,
+    "Language": "deu",
+    "SENTENCE": "Ich habe große Angst, von denen verschmäht zu werden, für die ich Liebe und Zuneigung empfinde."
+  },
+  {
+    "ID": 733,
+    "Language": "deu",
+    "SENTENCE": "Die meisten Leute haben große Unlust, früh aufzustehen, selbst wenn sie es müssen."
+  },
+  {
+    "ID": 734,
+    "Language": "deu",
+    "SENTENCE": "Die meisten Leute wollen nur ihre eigene Wahrheit hören."
+  },
+  {
+    "ID": 735,
+    "Language": "deu",
+    "SENTENCE": "Das Publikum klatschte den Schauspielern für ihre Leistung Beifall."
+  },
+  {
+    "ID": 736,
+    "Language": "deu",
+    "SENTENCE": "Es ist gut, Ideale zu haben, findest du nicht?"
+  },
+  {
+    "ID": 737,
+    "Language": "deu",
+    "SENTENCE": "Der Schüler entschloss sich dazu, seine Hausarbeit zu kürzen, indem er alle unnötigen Details strich."
+  },
+  {
+    "ID": 738,
+    "Language": "deu",
+    "SENTENCE": "Die Menschen in der Welt setzen sich immer für mehr Freiheit und Gleichheit ein."
+  },
+  {
+    "ID": 739,
+    "Language": "deu",
+    "SENTENCE": "Politiker werden stets getadelt für skandalöses und unangebrachtes Verhalten."
+  },
+  {
+    "ID": 740,
+    "Language": "deu",
+    "SENTENCE": "Frau Eichler war für ihren Ruf bekannt, streng zu ihren Schülern zu sein."
+  },
+  {
+    "ID": 741,
+    "Language": "deu",
+    "SENTENCE": "Wenn Sie uns nicht zuhören, werden wir auf Zwang zurückgreifen müssen."
+  },
+  {
+    "ID": 742,
+    "Language": "deu",
+    "SENTENCE": "Wenn ich Migräne habe, vermindert Aspirin meine Beschwerden nicht."
+  },
+  {
+    "ID": 743,
+    "Language": "deu",
+    "SENTENCE": "Spensers sarkastische und scherzhafte Bemerkungen werden oft als Zeichen von Doppelwertigkeit missinterpretiert und zu ernst genommen."
+  },
+  {
+    "ID": 744,
+    "Language": "deu",
+    "SENTENCE": "Für ihn war Hunger ein theoretischer Begriff; er hatte immer genug zu essen."
+  },
+  {
+    "ID": 745,
+    "Language": "deu",
+    "SENTENCE": "Der verurteilte Drogendealer war gewillt, sich den Behörden zu fügen, um seine Todesstrafe zu einer lebenslänglichen Freiheitsstrafe zu vermindern."
+  },
+  {
+    "ID": 746,
+    "Language": "deu",
+    "SENTENCE": "Der Irakkrieg ist ein unberechenbares Thema der politischen Debatte; ein falsches Wort und ein Streit könnte sich entzünden."
+  },
+  {
+    "ID": 747,
+    "Language": "deu",
+    "SENTENCE": "Mein nächster Türnachbar ist ein Virtuose, dessen Geschick am Klavier ihm einen Namen unter den Musikexperten eingebracht hat."
+  },
+  {
+    "ID": 748,
+    "Language": "deu",
+    "SENTENCE": "Er hatte es satt, die ganze Zeit von Leuten verunglimpft zu werden, die neidisch auf sein Können waren."
+  },
+  {
+    "ID": 749,
+    "Language": "deu",
+    "SENTENCE": "Sven war so wortreich, dass seine Freunde sich darauf verlegten, ihn ein Plappermaul zu nennen."
+  },
+  {
+    "ID": 750,
+    "Language": "deu",
+    "SENTENCE": "Sogar Leute, die nicht an die katholische Kirche glauben, verehren den Papst als ein symbolisches Oberhaupt."
+  },
+  {
+    "ID": 751,
+    "Language": "deu",
+    "SENTENCE": "Unsicher, welchen Freier sie heiraten wollte, schwankte die Prinzessin und nannte einmal den einen, einmal den anderen."
+  },
+  {
+    "ID": 752,
+    "Language": "deu",
+    "SENTENCE": "Die neulichen Skandale, in die Messdiener und religiöse Oberhäupter verwickelt waren, haben den Glauben, den die Leute in die Kirche haben, unterminiert."
+  },
+  {
+    "ID": 753,
+    "Language": "deu",
+    "SENTENCE": "Als sich das Flugzeug Turbulenzen näherte, bat der Pilot die Passagiere an Bord des Flugzeugs, ihre Sitzgurte zu schließen."
+  },
+  {
+    "ID": 754,
+    "Language": "deu",
+    "SENTENCE": "Obwohl sein Aufenthalt in Europa kurzlebig war, fühlte Spenser, dass er vom Reisen mehr über Beziehungen mit anderen Menschen gelernt hatte, als er es im College getan hatte."
+  },
+  {
+    "ID": 755,
+    "Language": "deu",
+    "SENTENCE": "Jason war ein wortkarges Individuum, daher war es immer eine echte Überraschung, wenn er etwas sagte."
+  },
+  {
+    "ID": 756,
+    "Language": "deu",
+    "SENTENCE": "Der König war seiner Schmeichler, die ihn beständig anpriesen, müde, also schickte er sie weg."
+  },
+  {
+    "ID": 757,
+    "Language": "deu",
+    "SENTENCE": "Wenn Spenser nicht weiterhin Sätze hinzufügt und übersetzt, werden die anderen Mitwirkenden ihn sicher übertreffen."
+  },
+  {
+    "ID": 758,
+    "Language": "deu",
+    "SENTENCE": "In seinen Aufsätzen war immer zu viel Überflüssiges geschrieben."
+  },
+  {
+    "ID": 759,
+    "Language": "deu",
+    "SENTENCE": "Sein Aufsatz gab nur eine oberflächliche Analyse des Problems, daher war es eine richtige Überraschung für ihn, als er die beste Note in der Klasse bekam."
+  },
+  {
+    "ID": 760,
+    "Language": "deu",
+    "SENTENCE": "Es kommt darauf an, was du mit an Gott \"glauben\" meinst."
+  },
+  {
+    "ID": 761,
+    "Language": "deu",
+    "SENTENCE": "Professoren sollten alles im Detail erklären, nicht knapp sein und immer ihren Studenten auftragen, heimzugehen und ihre Bücher zu lesen."
+  },
+  {
+    "ID": 762,
+    "Language": "deu",
+    "SENTENCE": "Wenn ich keine Antwort gegeben hätte, hätte ich nicht gesprochen."
+  },
+  {
+    "ID": 763,
+    "Language": "deu",
+    "SENTENCE": "Die Ankläger bei Gericht müssen ihre Klagen erhärten, um einen Verdächtigen als schuldig zu beweisen."
+  },
+  {
+    "ID": 764,
+    "Language": "deu",
+    "SENTENCE": "Laut einer landesweiten Umfrage in den USA ist es ein geläufiger Glaube, dass Moslems mit Terrorismus verbunden sind."
+  },
+  {
+    "ID": 765,
+    "Language": "deu",
+    "SENTENCE": "Mein Zimmerkamerad ist verschwenderisch, was das Geldausgeben für Filme betrifft; er kauft sie am Tag, wo sie herauskommen, ohne Rücksicht auf den Preis."
+  },
+  {
+    "ID": 766,
+    "Language": "deu",
+    "SENTENCE": "Essen und Trinken wurden bei der Hochzeit in solch einem Überfluss serviert, dass Braut und Bräutigam begannen, sich zu fragen, ob sie nicht mehr Gäste einladen hätten sollen."
+  },
+  {
+    "ID": 767,
+    "Language": "deu",
+    "SENTENCE": "Die Verbreitung der Nutzung des Internets hat eine neue Generation von jungen Leuten hervorgebracht."
+  },
+  {
+    "ID": 768,
+    "Language": "deu",
+    "SENTENCE": "Meine Freunde sagen, dass ich ein überaus produktiver Schreiber bin, aber ich habe seit Monaten nichts geschrieben."
+  },
+  {
+    "ID": 769,
+    "Language": "deu",
+    "SENTENCE": "Blinde entwickeln manchmal eine ausgleichende Fähigkeit, die Nähe der Gegenstände um sie herum zu spüren."
+  },
+  {
+    "ID": 770,
+    "Language": "deu",
+    "SENTENCE": "Ein Geizhals hortet Geld nicht, weil er klug ist, sondern weil er habgierig ist."
+  },
+  {
+    "ID": 771,
+    "Language": "deu",
+    "SENTENCE": "Als beide Mädchen John sagten, dass sie Gefühle für ihn hatten, wusste der nicht, mit welchem Mädchen er zusammen sein sollte."
+  },
+  {
+    "ID": 772,
+    "Language": "deu",
+    "SENTENCE": "Sogar jetzt, viele Jahre nach dem Kalten Krieg, ist immer noch viel Verbitterung zwischen Russen und Deutschen, besonders in Gebieten, die einst von der Sowjetunion besetzt waren."
+  },
+  {
+    "ID": 773,
+    "Language": "deu",
+    "SENTENCE": "Johnson ist ein Einsiedler; er zieht es vor, sich vom Rest der Schüler in unserer Klasse abzusondern."
+  },
+  {
+    "ID": 774,
+    "Language": "deu",
+    "SENTENCE": "Die Bierflaschen, die ich zu der Party mitbrachte, waren überflüssig; die Familie des Gastgebers besaß eine Bierbrauerei."
+  },
+  {
+    "ID": 775,
+    "Language": "deu",
+    "SENTENCE": "Die Zeugen waren imstande, die falsche Aussage des Verdächtigen zu widerlegen."
+  },
+  {
+    "ID": 776,
+    "Language": "deu",
+    "SENTENCE": "Jeanne d'Arc weigerte sich, ihre Überzeugung zu leugnen, dass die Stimme, die sie hörte, von niemand anderem als Gott war."
+  },
+  {
+    "ID": 777,
+    "Language": "deu",
+    "SENTENCE": "Schockiert durch die Ereignisse des 11. September, verurteilten Politiker in der ganzen Welt die Terroristen für ihre verwerfliche Tat."
+  },
+  {
+    "ID": 778,
+    "Language": "deu",
+    "SENTENCE": "James hatte große Angst, im Unterricht Fehler zu machen und zurechtgewiesen zu werden."
+  },
+  {
+    "ID": 779,
+    "Language": "deu",
+    "SENTENCE": "Meine Eltern würden meinen Bruder verstoßen, wenn sie herausfänden, dass er schwul ist."
+  },
+  {
+    "ID": 780,
+    "Language": "deu",
+    "SENTENCE": "Um zu verhindern, dass seine Originalidee kopiert würde, verlegte sich Henry auf Schweigsamkeit."
+  },
+  {
+    "ID": 781,
+    "Language": "deu",
+    "SENTENCE": "Ich würde gerne meine vorhergehende Erklärung widerrufen."
+  },
+  {
+    "ID": 782,
+    "Language": "deu",
+    "SENTENCE": "Um sein Publikum für sich zu gewinnen, griff der Redner auf die Anwendung rhetorischer Techniken zurück, die er in seinen Kommunikationskursen gelernt hatte."
+  },
+  {
+    "ID": 783,
+    "Language": "deu",
+    "SENTENCE": "Tim ist ein großer Fan von satirischen Komödien."
+  },
+  {
+    "ID": 784,
+    "Language": "deu",
+    "SENTENCE": "Obwohl Alfred penibel beim Erfüllen seiner Aufgaben bei der Arbeit ist, ist er weniger gewissenhaft bei seinen Pflichten zu Hause."
+  },
+  {
+    "ID": 785,
+    "Language": "deu",
+    "SENTENCE": "Spensers Mutter überprüft oft jeden kleinen Fehler, den er macht."
+  },
+  {
+    "ID": 786,
+    "Language": "deu",
+    "SENTENCE": "Die Leute sind oft sehr skeptisch gegenüber Dingen, wenn kein glaubwürdiger Beweis gegeben ist."
+  },
+  {
+    "ID": 787,
+    "Language": "deu",
+    "SENTENCE": "Nach der unheilverkündenden Äußerung des Doktors war es klar, dass er düstere Neuigkeiten für den Patienten hatte."
+  },
+  {
+    "ID": 788,
+    "Language": "deu",
+    "SENTENCE": "Manchmal hat er Schwierigkeiten, seine Auffassungen gut auszudrücken."
+  },
+  {
+    "ID": 789,
+    "Language": "deu",
+    "SENTENCE": "Jimmy versuchte, seine Eltern dazu zu kriegen, ihn mit seinen Freunden quer durch das Land fahren zu lassen."
+  },
+  {
+    "ID": 790,
+    "Language": "deu",
+    "SENTENCE": "Popmusiker kommen durch die Schmeichelei ihrer treuen Fans zur vollen Entfaltung."
+  },
+  {
+    "ID": 791,
+    "Language": "deu",
+    "SENTENCE": "Wir müssen lernen, Widrigkeiten anmutig zu begegnen."
+  },
+  {
+    "ID": 792,
+    "Language": "deu",
+    "SENTENCE": "Bill Clinton sprach eine mehrdeutige Sprache, als er gebeten wurde, sein Verhältnis mit Monika Lewinsky zu beschreiben."
+  },
+  {
+    "ID": 793,
+    "Language": "deu",
+    "SENTENCE": "Er war eine gütiger alter Mann, der sich freiwillig anbot, den Rasen seiner Nachbarn kostenlos zu mähen."
+  },
+  {
+    "ID": 794,
+    "Language": "deu",
+    "SENTENCE": "Sein strenger Ton und seine laute Stimme täuschten über sein innerliches Zartgefühl und seine liebevolle Wesensart hinweg."
+  },
+  {
+    "ID": 795,
+    "Language": "deu",
+    "SENTENCE": "Welches Kriterium wendeten Sie an, als Sie diesen Aufsatz als den Sieger auswählten?"
+  },
+  {
+    "ID": 796,
+    "Language": "deu",
+    "SENTENCE": "Trickbetrüger machen sich die Leichtgläubigkeit unerfahrener Geldgeber zu Nutze und betrügen sie um ihr Geld."
+  },
+  {
+    "ID": 797,
+    "Language": "deu",
+    "SENTENCE": "Ich kann nicht einen Schritt Salsa tanzen."
+  },
+  {
+    "ID": 798,
+    "Language": "deu",
+    "SENTENCE": "Selbst wenn deine Sätze tatsächlich sinnfrei waren, hast du zumindest das Glück, schöne Sätze bilden zu können."
+  },
+  {
+    "ID": 799,
+    "Language": "deu",
+    "SENTENCE": "Ich mag meine Arbeit sehr gerne."
+  },
+  {
+    "ID": 800,
+    "Language": "deu",
+    "SENTENCE": "Ray war bereit, Garys Geschichte zu bestätigen, aber die Polizei war noch immer nicht überzeugt, dass einer von beiden die Wahrheit erzählte."
+  },
+  {
+    "ID": 801,
+    "Language": "deu",
+    "SENTENCE": "Der Mörder wurde schuldig gesprochen und zu lebenslänglicher Haft verurteilt."
+  },
+  {
+    "ID": 802,
+    "Language": "deu",
+    "SENTENCE": "Die Einvernehmlichkeit deutet darauf hin, dass wir gegen die vorgeschlagene Idee sind."
+  },
+  {
+    "ID": 803,
+    "Language": "deu",
+    "SENTENCE": "Ein kleiner Waldbrand kann sich leicht ausbreiten und schnell ein großer Flächenbrand werden."
+  },
+  {
+    "ID": 804,
+    "Language": "deu",
+    "SENTENCE": "Obwohl er seine Haftstrafe im Gefängnis abgesessen hatte, verzieh die Öffentlichkeit dem Mörder sein Verbrechen nie ganz."
+  },
+  {
+    "ID": 805,
+    "Language": "deu",
+    "SENTENCE": "Ich finde, Wörter mit präzisen Bedeutungen kann man sich am einfachsten merken."
+  },
+  {
+    "ID": 806,
+    "Language": "deu",
+    "SENTENCE": "Er war immer noch verärgert über den Unfall, trotz den versöhnlichen Worten seiner Frau."
+  },
+  {
+    "ID": 807,
+    "Language": "deu",
+    "SENTENCE": "Eine grobe Untersuchung seiner Zähne gab zu erkennen, dass er eine Zahnfleischentzündung hatte."
+  },
+  {
+    "ID": 808,
+    "Language": "deu",
+    "SENTENCE": "Es war eine Überraschung zu sehen, dass sich die Studenten am Abend des Abschlussballs alle anständig verhielten."
+  },
+  {
+    "ID": 809,
+    "Language": "deu",
+    "SENTENCE": "Der Zeitungsartikel beschrieb den Angeklagten wie einen Schuldigen, obwohl er erwiesenermaßen unschuldig war."
+  },
+  {
+    "ID": 810,
+    "Language": "deu",
+    "SENTENCE": "Der Politiker drängte auf eine Reform, indem er die Bestechlichkeit der Regierungsverantwortlichen anprangerte."
+  },
+  {
+    "ID": 811,
+    "Language": "deu",
+    "SENTENCE": "Die Verderbtheit der Taten des Königs brachte die Leute dazu, zu glauben, dass er nicht mehr als eine Tyrann sei, den man stürzen müsse."
+  },
+  {
+    "ID": 812,
+    "Language": "deu",
+    "SENTENCE": "Ich habe von dir geträumt."
+  },
+  {
+    "ID": 813,
+    "Language": "deu",
+    "SENTENCE": "Ich brauche einen neuen Computer."
+  },
+  {
+    "ID": 814,
+    "Language": "deu",
+    "SENTENCE": "Ich werde nicht verlieren!"
+  },
+  {
+    "ID": 815,
+    "Language": "deu",
+    "SENTENCE": "Ich bin zu spät in die Schule gekommen."
+  },
+  {
+    "ID": 816,
+    "Language": "deu",
+    "SENTENCE": "Der Unterricht fängt bald wieder an."
+  },
+  {
+    "ID": 817,
+    "Language": "deu",
+    "SENTENCE": "Ich glaube, ich werde niesen... Gib mir ein Taschentuch."
+  },
+  {
+    "ID": 818,
+    "Language": "deu",
+    "SENTENCE": "Einen Moment lang habe ich geglaubt, er wäre verrückt geworden."
+  },
+  {
+    "ID": 819,
+    "Language": "deu",
+    "SENTENCE": "Dieser Tag war nur Zeit- und Geldverschwendung."
+  },
+  {
+    "ID": 820,
+    "Language": "deu",
+    "SENTENCE": "Das hat mich überrascht, ich wusste nicht, was ich tun sollte."
+  },
+  {
+    "ID": 821,
+    "Language": "deu",
+    "SENTENCE": "Aber das hast du mir ja nie gesagt!"
+  },
+  {
+    "ID": 822,
+    "Language": "deu",
+    "SENTENCE": "Ich habe das Layout meiner Website geändert."
+  },
+  {
+    "ID": 823,
+    "Language": "deu",
+    "SENTENCE": "Wenn wir klein sind, kommt uns alles so groß vor."
+  },
+  {
+    "ID": 824,
+    "Language": "deu",
+    "SENTENCE": "Er wird mich nicht schlagen."
+  },
+  {
+    "ID": 825,
+    "Language": "deu",
+    "SENTENCE": "Ich muss die Wäsche machen, solange die Sonne noch da ist."
+  },
+  {
+    "ID": 826,
+    "Language": "deu",
+    "SENTENCE": "Ich bin spazieren gegangen, um Luft zu schnappen."
+  },
+  {
+    "ID": 827,
+    "Language": "deu",
+    "SENTENCE": "Tut mir leid, ich denke nicht, dass ich können werde."
+  },
+  {
+    "ID": 828,
+    "Language": "deu",
+    "SENTENCE": "Du hattest eine Menge Zeit."
+  },
+  {
+    "ID": 829,
+    "Language": "deu",
+    "SENTENCE": "Hör auf, mich zu kritisieren!"
+  },
+  {
+    "ID": 830,
+    "Language": "deu",
+    "SENTENCE": "Los! Sprich mit mir, Trang."
+  },
+  {
+    "ID": 831,
+    "Language": "deu",
+    "SENTENCE": "Ich bin fast fertig."
+  },
+  {
+    "ID": 832,
+    "Language": "deu",
+    "SENTENCE": "Nimm den anderen Stuhl!"
+  },
+  {
+    "ID": 833,
+    "Language": "deu",
+    "SENTENCE": "Wie viele Sandwichs sind noch übrig?"
+  },
+  {
+    "ID": 834,
+    "Language": "deu",
+    "SENTENCE": "Ich bin nicht mehr inspiriert."
+  },
+  {
+    "ID": 835,
+    "Language": "deu",
+    "SENTENCE": "Ich werde mich nicht auf sein Niveau herablassen."
+  },
+  {
+    "ID": 836,
+    "Language": "deu",
+    "SENTENCE": "Wir konnten den Sonnenuntergang vom Fenster aus sehen."
+  },
+  {
+    "ID": 837,
+    "Language": "deu",
+    "SENTENCE": "Das macht mich verrückt."
+  },
+  {
+    "ID": 838,
+    "Language": "deu",
+    "SENTENCE": "Hast du gesagt, ich könne nie gewinnen?"
+  },
+  {
+    "ID": 839,
+    "Language": "deu",
+    "SENTENCE": "Draußen ist es ganz dunkel."
+  },
+  {
+    "ID": 840,
+    "Language": "deu",
+    "SENTENCE": "Was ist passiert? Überall in der Wohnung ist Wasser."
+  },
+  {
+    "ID": 841,
+    "Language": "deu",
+    "SENTENCE": "Während der Sommerferien habe ich um Mitternacht Abendessen gegessen."
+  },
+  {
+    "ID": 842,
+    "Language": "deu",
+    "SENTENCE": "Du kannst deinen Aufsatz jetzt beenden."
+  },
+  {
+    "ID": 843,
+    "Language": "deu",
+    "SENTENCE": "Du wirst die Dinge sagen und tun, die deine Eltern sagten und taten, selbst wenn du geschworen hast, das nie zu tun."
+  },
+  {
+    "ID": 844,
+    "Language": "deu",
+    "SENTENCE": "Ich bin am Leben, obwohl ich kein Lebenszeichen gebe."
+  },
+  {
+    "ID": 845,
+    "Language": "deu",
+    "SENTENCE": "Versuche nie, zu sterben."
+  },
+  {
+    "ID": 847,
+    "Language": "deu",
+    "SENTENCE": "Das Leben beginnt, wenn man realisiert, wer man wirklich ist."
+  },
+  {
+    "ID": 848,
+    "Language": "deu",
+    "SENTENCE": "Das Leben beginnt, wenn man entscheidet, was man von ihm erwartet."
+  },
+  {
+    "ID": 849,
+    "Language": "deu",
+    "SENTENCE": "Das Leben beginnt, wenn man Steuern zahlt."
+  },
+  {
+    "ID": 850,
+    "Language": "deu",
+    "SENTENCE": "Das, was du nicht hast, ist besser als das, was du hast."
+  },
+  {
+    "ID": 851,
+    "Language": "deu",
+    "SENTENCE": "Das Leben beginnt, wenn du bereit bist, es zu leben."
+  },
+  {
+    "ID": 852,
+    "Language": "deu",
+    "SENTENCE": "Es ist nie zu spät zum Lernen."
+  },
+  {
+    "ID": 853,
+    "Language": "deu",
+    "SENTENCE": "Es ist erst 5 Uhr morgens und trotzdem ist es hell."
+  },
+  {
+    "ID": 854,
+    "Language": "deu",
+    "SENTENCE": "Er erzählte mir seine Lebensgeschichte."
+  },
+  {
+    "ID": 855,
+    "Language": "deu",
+    "SENTENCE": "Ich habe nie gesagt, ich sei zerbrechlich."
+  },
+  {
+    "ID": 856,
+    "Language": "deu",
+    "SENTENCE": "Ich frage mich, ob ich für diese Welt gemacht bin."
+  },
+  {
+    "ID": 857,
+    "Language": "deu",
+    "SENTENCE": "Von was redest du?"
+  },
+  {
+    "ID": 858,
+    "Language": "deu",
+    "SENTENCE": "Ich will ein Bonbon."
+  },
+  {
+    "ID": 859,
+    "Language": "deu",
+    "SENTENCE": "Ich wusste, es würde heute lustig sein."
+  },
+  {
+    "ID": 860,
+    "Language": "deu",
+    "SENTENCE": "Leider würden viele Leute Dinge glauben, die man ihnen per E-Mail sagt, die sie persönlich erzählt nicht plausibel finden würden."
+  },
+  {
+    "ID": 861,
+    "Language": "deu",
+    "SENTENCE": "Das mag wie an den Haaren herbeigezogen erscheinen, aber es ist ein echtes Problem."
+  },
+  {
+    "ID": 862,
+    "Language": "deu",
+    "SENTENCE": "Die Polizei ist gut darin zu verstehen, dass jemand meine Kreditkarte gestohlen hat und viel Geld abgehoben hat. Es ist viel schwieriger, ihnen beizubringen, dass „jemand mein magisches Schwert gestohlen“ hat."
+  },
+  {
+    "ID": 863,
+    "Language": "deu",
+    "SENTENCE": "Wann essen wir? Ich habe Hunger!"
+  },
+  {
+    "ID": 864,
+    "Language": "deu",
+    "SENTENCE": "Ich mag die Schule nicht."
+  },
+  {
+    "ID": 865,
+    "Language": "deu",
+    "SENTENCE": "Ich habe morgen Unterricht."
+  },
+  {
+    "ID": 866,
+    "Language": "deu",
+    "SENTENCE": "Ich kann es nicht glauben!"
+  },
+  {
+    "ID": 867,
+    "Language": "deu",
+    "SENTENCE": "„Danke!“ – „Keine Ursache!“"
+  },
+  {
+    "ID": 868,
+    "Language": "deu",
+    "SENTENCE": "Wie spricht man \"pronounce\" aus ?"
+  },
+  {
+    "ID": 869,
+    "Language": "deu",
+    "SENTENCE": "Der Winter ist meine Lieblingsjahreszeit."
+  },
+  {
+    "ID": 870,
+    "Language": "deu",
+    "SENTENCE": "Es ist schwierig, großartige Ideen zu haben."
+  },
+  {
+    "ID": 871,
+    "Language": "deu",
+    "SENTENCE": "Aus welchem Land kommst du?"
+  },
+  {
+    "ID": 872,
+    "Language": "deu",
+    "SENTENCE": "Die Sachverhalte deuten an, dass die optimale Dauer einer Vorlesung 30 statt 60 Minuten wäre."
+  },
+  {
+    "ID": 873,
+    "Language": "deu",
+    "SENTENCE": "Ich neige dazu, die Bilder anzuschauen, bevor ich den Text lese."
+  },
+  {
+    "ID": 874,
+    "Language": "deu",
+    "SENTENCE": "Ich habe viel von dir gelernt."
+  },
+  {
+    "ID": 876,
+    "Language": "deu",
+    "SENTENCE": "Ich habe zwölf Stunden im Zug verbracht."
+  },
+  {
+    "ID": 877,
+    "Language": "deu",
+    "SENTENCE": "Sie ist an diesem Wochenende krank geworden."
+  },
+  {
+    "ID": 878,
+    "Language": "deu",
+    "SENTENCE": "Warte mal, jemand klopft an meiner Tür."
+  },
+  {
+    "ID": 879,
+    "Language": "deu",
+    "SENTENCE": "Er ist reich, er braucht kein Geld!"
+  },
+  {
+    "ID": 880,
+    "Language": "deu",
+    "SENTENCE": "Er schläft wie ein Baby."
+  },
+  {
+    "ID": 881,
+    "Language": "deu",
+    "SENTENCE": "Sie machen zu viel Lärm, ich kann mich nicht konzentrieren."
+  },
+  {
+    "ID": 882,
+    "Language": "deu",
+    "SENTENCE": "Ich habe Lust auf eine Massage. Ich muss mich entspannen."
+  },
+  {
+    "ID": 883,
+    "Language": "deu",
+    "SENTENCE": "Du bist krank, du musst dich ausruhen."
+  },
+  {
+    "ID": 884,
+    "Language": "deu",
+    "SENTENCE": "Links ist ein Geheimweg."
+  },
+  {
+    "ID": 885,
+    "Language": "deu",
+    "SENTENCE": "Smith hat jahrelang die Auswirkungen von Schlaf und Schlafmangel auf das Gedächtnis und das Lernen untersucht."
+  },
+  {
+    "ID": 886,
+    "Language": "deu",
+    "SENTENCE": "Sie fordert das Unmögliche."
+  },
+  {
+    "ID": 887,
+    "Language": "deu",
+    "SENTENCE": "Er ist spurlos verschwunden."
+  },
+  {
+    "ID": 888,
+    "Language": "deu",
+    "SENTENCE": "Es kann keinen Fortschritt geben ohne Kommunikation."
+  },
+  {
+    "ID": 889,
+    "Language": "deu",
+    "SENTENCE": "Ich kann meine Handflächen auf den Boden setzen, ohne meine Knie zu beugen."
+  },
+  {
+    "ID": 890,
+    "Language": "deu",
+    "SENTENCE": "Jeder würde gerne glauben, dass Träume wahr werden können."
+  },
+  {
+    "ID": 891,
+    "Language": "deu",
+    "SENTENCE": "Die beste Art, seine Träume zu realisieren, ist, aufzuwachen."
+  },
+  {
+    "ID": 892,
+    "Language": "deu",
+    "SENTENCE": "Die Welt dreht sich nicht um dich."
+  },
+  {
+    "ID": 893,
+    "Language": "deu",
+    "SENTENCE": "Die Welt ist voller Dummköpfe."
+  },
+  {
+    "ID": 894,
+    "Language": "deu",
+    "SENTENCE": "Sagst du gerade, dass mein Leben in Gefahr ist?"
+  },
+  {
+    "ID": 895,
+    "Language": "deu",
+    "SENTENCE": "Hast du eine Vorstellung davon, wie mein Leben aussieht?"
+  },
+  {
+    "ID": 896,
+    "Language": "deu",
+    "SENTENCE": "An diesem Ort herrscht eine geheimnisvolle Stimmung."
+  },
+  {
+    "ID": 897,
+    "Language": "deu",
+    "SENTENCE": "Ich freue mich darauf, Ihre Gedanken zu diesem Thema zu hören."
+  },
+  {
+    "ID": 898,
+    "Language": "deu",
+    "SENTENCE": "Und was macht es, wenn ich schwul bin? Ist das ein Verbrechen?"
+  },
+  {
+    "ID": 899,
+    "Language": "deu",
+    "SENTENCE": "Mein Leben ist leer ohne ihn."
+  },
+  {
+    "ID": 900,
+    "Language": "deu",
+    "SENTENCE": "Ich will nicht durch meine Prüfungen fallen."
+  },
+  {
+    "ID": 901,
+    "Language": "deu",
+    "SENTENCE": "Meine Mutter hat zwei Flaschen Orangensaft gekauft."
+  },
+  {
+    "ID": 902,
+    "Language": "deu",
+    "SENTENCE": "Sie trug einen schwarzen Hut."
+  },
+  {
+    "ID": 903,
+    "Language": "deu",
+    "SENTENCE": "Wir haben Pfannkuchen zum Frühstück gemacht."
+  },
+  {
+    "ID": 904,
+    "Language": "deu",
+    "SENTENCE": "Was hast du heute zum Mittagessen gegessen?"
+  },
+  {
+    "ID": 905,
+    "Language": "deu",
+    "SENTENCE": "Ich habe den ganzen Nachmittag damit verbracht, mit Freunden zu schwätzen."
+  },
+  {
+    "ID": 906,
+    "Language": "deu",
+    "SENTENCE": "Ich will unabhängiger sein."
+  },
+  {
+    "ID": 907,
+    "Language": "deu",
+    "SENTENCE": "Wirst du dort den ganzen Tag stehen bleiben?"
+  },
+  {
+    "ID": 908,
+    "Language": "deu",
+    "SENTENCE": "Ein Kaninchen hat lange Ohren und einen kurzen Schwanz."
+  },
+  {
+    "ID": 909,
+    "Language": "deu",
+    "SENTENCE": "Mein Herz war voller Freude."
+  },
+  {
+    "ID": 910,
+    "Language": "deu",
+    "SENTENCE": "Er will schlechte Erinnerungen ausradieren."
+  },
+  {
+    "ID": 911,
+    "Language": "deu",
+    "SENTENCE": "Sie dürfen Ihr Auto hier nicht parken."
+  },
+  {
+    "ID": 912,
+    "Language": "deu",
+    "SENTENCE": "Wir müssen ihn dringend ins Krankenhaus bringen, er ist schwer verletzt!"
+  },
+  {
+    "ID": 913,
+    "Language": "deu",
+    "SENTENCE": "Ich werde dein Geheimnis hüten."
+  },
+  {
+    "ID": 914,
+    "Language": "deu",
+    "SENTENCE": "Ich will dein Gejammer nicht mehr hören."
+  },
+  {
+    "ID": 915,
+    "Language": "deu",
+    "SENTENCE": "Sag ihnen, dass sie mich anrufen sollen, bevor sie losgehen."
+  },
+  {
+    "ID": 916,
+    "Language": "deu",
+    "SENTENCE": "So einen ungerechten Vorschlag hättest du ablehnen sollen."
+  },
+  {
+    "ID": 917,
+    "Language": "deu",
+    "SENTENCE": "Ich habe nicht die Kraft, es weiter zu versuchen."
+  },
+  {
+    "ID": 918,
+    "Language": "deu",
+    "SENTENCE": "Mathematik ist nicht einfach das Auswendiglernen von Formeln."
+  },
+  {
+    "ID": 919,
+    "Language": "deu",
+    "SENTENCE": "Ich hatte nicht vor, diesen Eindruck bei dir zu hinterlassen."
+  },
+  {
+    "ID": 920,
+    "Language": "deu",
+    "SENTENCE": "Ja! Ich habe zweimal hintereinander gewonnen!"
+  },
+  {
+    "ID": 921,
+    "Language": "deu",
+    "SENTENCE": "Ich habe es satt, Fastfood zu essen."
+  },
+  {
+    "ID": 922,
+    "Language": "deu",
+    "SENTENCE": "Die Zimmer dieses Hotels sind wirklich sehr schlecht schallgedämpft. Ich kann meinen Nachbarn seinen Kaugummi kauen hören!"
+  },
+  {
+    "ID": 923,
+    "Language": "deu",
+    "SENTENCE": "Ich habe es satt, es satt zu haben."
+  },
+  {
+    "ID": 924,
+    "Language": "deu",
+    "SENTENCE": "Ich kann es gar nicht erwarten, in den Urlaub zu fahren."
+  },
+  {
+    "ID": 925,
+    "Language": "deu",
+    "SENTENCE": "Das Wesen der Mathematik liegt in ihrer Freiheit."
+  },
+  {
+    "ID": 926,
+    "Language": "deu",
+    "SENTENCE": "Kannst du dir vorstellen, wie unser Leben ohne Elektrizität aussehen würde?"
+  },
+  {
+    "ID": 927,
+    "Language": "deu",
+    "SENTENCE": "Eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn."
+  },
+  {
+    "ID": 928,
+    "Language": "deu",
+    "SENTENCE": "Wo ist die Toilette?"
+  },
+  {
+    "ID": 929,
+    "Language": "deu",
+    "SENTENCE": "Das Wesen der Freiheit liegt in der Mathematik."
+  },
+  {
+    "ID": 930,
+    "Language": "deu",
+    "SENTENCE": "Seine Geschichte war zu lächerlich, um von irgendjemandem geglaubt zu werden."
+  },
+  {
+    "ID": 931,
+    "Language": "deu",
+    "SENTENCE": "Wie viele Stunden Schlaf brauchst du?"
+  },
+  {
+    "ID": 932,
+    "Language": "deu",
+    "SENTENCE": "Jeder Mensch ist eine Welt."
+  },
+  {
+    "ID": 933,
+    "Language": "deu",
+    "SENTENCE": "Die Temperatur des menschlichen Körpers bewegt sich um 37 °C."
+  },
+  {
+    "ID": 934,
+    "Language": "deu",
+    "SENTENCE": "Wenn es möglich ist, öffne das Fenster nicht, ich habe keine allzu große Lust, Luftzüge in meinem Rücken zu spüren."
+  },
+  {
+    "ID": 935,
+    "Language": "deu",
+    "SENTENCE": "Ich habe die französische Staatsbürgerschaft, aber ich bin von vietnamesischer Abstammung."
+  },
+  {
+    "ID": 936,
+    "Language": "deu",
+    "SENTENCE": "Dieser humanitäre Verein sucht Ehrenamtliche, um im Monat Dezember Mahlzeiten an Obdachlose auszuteilen."
+  },
+  {
+    "ID": 937,
+    "Language": "deu",
+    "SENTENCE": "Es ist sehr frustierend, zu versuchen, seine Brille wiederzufinden, wenn man ohne Brille nichts sieht."
+  },
+  {
+    "ID": 938,
+    "Language": "deu",
+    "SENTENCE": "Denkst du, dass die Menschen eines Tages den Mond besiedeln werden?"
+  },
+  {
+    "ID": 939,
+    "Language": "deu",
+    "SENTENCE": "Welche berühmten Lieder hättet ihr gerne komponiert, und warum?"
+  },
+  {
+    "ID": 940,
+    "Language": "deu",
+    "SENTENCE": "Ich werde mir eine neue Kamera kaufen, dieses Mal eine digitale."
+  },
+  {
+    "ID": 941,
+    "Language": "deu",
+    "SENTENCE": "Ich bin verrückt nach dir."
+  },
+  {
+    "ID": 942,
+    "Language": "deu",
+    "SENTENCE": "Ich weiß nicht, was schlimmer ist."
+  },
+  {
+    "ID": 943,
+    "Language": "deu",
+    "SENTENCE": "Das Leben im Gefängnis ist schlimmer als das Leben eines Tieres."
+  },
+  {
+    "ID": 944,
+    "Language": "deu",
+    "SENTENCE": "Ich bin stolz, an diesem Projekt teilzuhaben."
+  },
+  {
+    "ID": 945,
+    "Language": "deu",
+    "SENTENCE": "Ist es notwendig, das menschliche Wissen durch die Erforschung des Weltraumes auszuweiten?"
+  },
+  {
+    "ID": 946,
+    "Language": "deu",
+    "SENTENCE": "Die Schönheit liegt im Auge des Betrachters."
+  },
+  {
+    "ID": 947,
+    "Language": "deu",
+    "SENTENCE": "Wer kauft diese Art von Kunst?"
+  },
+  {
+    "ID": 948,
+    "Language": "deu",
+    "SENTENCE": "Die NASA lässt verlauten, dass sie schon genügend Informationen besitzt, um zu bestätigen, dass ein Besuch des Menschen auf dem roten Planeten möglich ist."
+  },
+  {
+    "ID": 949,
+    "Language": "deu",
+    "SENTENCE": "Echte Frauen haben Kurven."
+  },
+  {
+    "ID": 950,
+    "Language": "deu",
+    "SENTENCE": "Wieso können wir uns nicht selber kitzeln?"
+  },
+  {
+    "ID": 951,
+    "Language": "deu",
+    "SENTENCE": "Die Antwort führt uns in einen Teufelskreis."
+  },
+  {
+    "ID": 952,
+    "Language": "deu",
+    "SENTENCE": "Ich bin zu faul, meine Hausaufgaben zu machen."
+  },
+  {
+    "ID": 953,
+    "Language": "deu",
+    "SENTENCE": "Was... du kannst immer noch nicht Auto fahren?"
+  },
+  {
+    "ID": 954,
+    "Language": "deu",
+    "SENTENCE": "Und mit mir sind wir schon einer mehr."
+  },
+  {
+    "ID": 955,
+    "Language": "deu",
+    "SENTENCE": "Hast du schon einen Bart?"
+  },
+  {
+    "ID": 956,
+    "Language": "deu",
+    "SENTENCE": "Ich fühle, dass ich frei bin."
+  },
+  {
+    "ID": 957,
+    "Language": "deu",
+    "SENTENCE": "Ich verspüre ein Brennen im Magen."
+  },
+  {
+    "ID": 958,
+    "Language": "deu",
+    "SENTENCE": "Die Freiheit ist nicht kostenlos."
+  },
+  {
+    "ID": 959,
+    "Language": "deu",
+    "SENTENCE": "Wie weckt man die Begierde einer Frau?"
+  },
+  {
+    "ID": 960,
+    "Language": "deu",
+    "SENTENCE": "Das Verlangen taucht zwischen Bedürfnis und Nachfrage auf."
+  },
+  {
+    "ID": 961,
+    "Language": "deu",
+    "SENTENCE": "Während wir den Nachtisch aßen, wuchs der Wunsch, in dieses Land zu reisen."
+  },
+  {
+    "ID": 962,
+    "Language": "deu",
+    "SENTENCE": "Ich habe eine Verknüpfung auf dem Desktop hergestellt."
+  },
+  {
+    "ID": 963,
+    "Language": "deu",
+    "SENTENCE": "Ich will einen MP3-Player!"
+  },
+  {
+    "ID": 964,
+    "Language": "deu",
+    "SENTENCE": "Wo bist du?"
+  },
+  {
+    "ID": 965,
+    "Language": "deu",
+    "SENTENCE": "Mein Bruder ist sehr wichtig. Zumindest denkt er das."
+  },
+  {
+    "ID": 966,
+    "Language": "deu",
+    "SENTENCE": "Beim Pizzaessen ärgerte er seine Schwester."
+  },
+  {
+    "ID": 967,
+    "Language": "deu",
+    "SENTENCE": "Was?! Du hast meinen Schokoladenbären gegessen?!"
+  },
+  {
+    "ID": 968,
+    "Language": "deu",
+    "SENTENCE": "Nein, ich kann Sie nicht reinlassen, es ist eine Person zu viel."
+  },
+  {
+    "ID": 969,
+    "Language": "deu",
+    "SENTENCE": "Er wird euch ins Gras beißen lassen."
+  },
+  {
+    "ID": 970,
+    "Language": "deu",
+    "SENTENCE": "Wohin gehst du?"
+  },
+  {
+    "ID": 971,
+    "Language": "deu",
+    "SENTENCE": "Er macht so ein Gesicht."
+  },
+  {
+    "ID": 972,
+    "Language": "deu",
+    "SENTENCE": "Er schaut wie sieben Tage Regenwetter."
+  },
+  {
+    "ID": 973,
+    "Language": "deu",
+    "SENTENCE": "Scheiße, wer ist der Vollidiot, der es wagt, mich mitten in der Nacht anzurufen?!"
+  },
+  {
+    "ID": 974,
+    "Language": "deu",
+    "SENTENCE": "Er hat gerade eine interessante Serie von Artikeln veröffentlicht."
+  },
+  {
+    "ID": 975,
+    "Language": "deu",
+    "SENTENCE": "Du gehst mir auf den Wecker!"
+  },
+  {
+    "ID": 976,
+    "Language": "deu",
+    "SENTENCE": "Unmöglich!"
+  },
+  {
+    "ID": 977,
+    "Language": "deu",
+    "SENTENCE": "Das ist eine Sackgasse."
+  },
+  {
+    "ID": 978,
+    "Language": "deu",
+    "SENTENCE": "Ich vertraue Übersetzungen nicht unbedingt."
+  },
+  {
+    "ID": 979,
+    "Language": "deu",
+    "SENTENCE": "Seine Leidenschaft zu teilen bedeutet, sie voll zu leben."
+  },
+  {
+    "ID": 980,
+    "Language": "deu",
+    "SENTENCE": "Sie bewegt sich wie eine Königin und zeigt, dass sie den Rhythmus im Blut hat."
+  },
+  {
+    "ID": 981,
+    "Language": "deu",
+    "SENTENCE": "Vorgestern hast du alle beeindruckt, aber ich kannte dich schon."
+  },
+  {
+    "ID": 982,
+    "Language": "deu",
+    "SENTENCE": "Wenn ich dir mein Haus zeigen würde, mein Viertel von damals, würdest du verstehen, woher ich komme?"
+  },
+  {
+    "ID": 983,
+    "Language": "deu",
+    "SENTENCE": "Schau wie alle hinter meinem Rücken über mich herziehen, weil ich eine Frau geheiratet habe, die dreißig Jahre jünger als ich ist."
+  },
+  {
+    "ID": 984,
+    "Language": "deu",
+    "SENTENCE": "Das Leben ist nicht lang, es ist breit!"
+  },
+  {
+    "ID": 985,
+    "Language": "deu",
+    "SENTENCE": "Als ich in deinem Alter war, war Pluto ein Planet."
+  },
+  {
+    "ID": 986,
+    "Language": "deu",
+    "SENTENCE": "Sie ist am Rand eines Nervenzusammenbruchs."
+  },
+  {
+    "ID": 987,
+    "Language": "deu",
+    "SENTENCE": "Elefanten sind die größten derzeitig lebenden Landtiere."
+  },
+  {
+    "ID": 988,
+    "Language": "deu",
+    "SENTENCE": "Wahrscheinlich hat es die Zeit nicht erlaubt, ein schönes Foto in lebhaften Farben zu machen."
+  },
+  {
+    "ID": 989,
+    "Language": "deu",
+    "SENTENCE": "In ihrem Pantherfellsessel sitzend, las die junge Frau mit der roten Unterwäsche laut ein Buch mit dem Titel \"Die schwarze Prinzessin\"."
+  },
+  {
+    "ID": 990,
+    "Language": "deu",
+    "SENTENCE": "Ich werde dir zeigen, dass man aus seiner Asche wiederauferstehen kann."
+  },
+  {
+    "ID": 991,
+    "Language": "deu",
+    "SENTENCE": "Wenn du mir das Tanzen beibringst, werde ich dir meine versteckten Narben zeigen."
+  },
+  {
+    "ID": 992,
+    "Language": "deu",
+    "SENTENCE": "Die Aufzüge eines Wolkenkratzers sind lebenswichtige Systeme."
+  },
+  {
+    "ID": 993,
+    "Language": "deu",
+    "SENTENCE": "Ein Strom kam aus Eden, um den Garten zu bewässern und von dort aus teilte er sich, um vier Seitenarme zu bilden."
+  },
+  {
+    "ID": 994,
+    "Language": "deu",
+    "SENTENCE": "Lassen Sie die geschälten und in Stücke geschnittenen Kartoffeln 20 Minuten im kochenden Wasser garen."
+  },
+  {
+    "ID": 995,
+    "Language": "deu",
+    "SENTENCE": "Obst und Gemüse sind unentbehrlich für eine ausgewogene Ernährung."
+  },
+  {
+    "ID": 996,
+    "Language": "deu",
+    "SENTENCE": "Käse ist ein festes Nahrungsmittel, das aus der Milch von Kühen, Ziegen, Schafen oder anderen Säugetieren hergestellt wird."
+  },
+  {
+    "ID": 997,
+    "Language": "deu",
+    "SENTENCE": "Ich mag Cavalieri, Tonelli und Fubini immer noch nicht, und morgen habe ich schon meine mündliche Analysisprüfung."
+  },
+  {
+    "ID": 998,
+    "Language": "deu",
+    "SENTENCE": "Ich dusche gewöhnlich abends."
+  },
+  {
+    "ID": 999,
+    "Language": "deu",
+    "SENTENCE": "Er verbrachte den Abend damit, ein Buch zu lesen."
+  },
+  {
+    "ID": 1000,
+    "Language": "deu",
+    "SENTENCE": "Du hast den ganzen Morgen über dieses Problem nachgedacht. Mach eine Pause, geh mittagessen."
+  },
+  {
+    "ID": 1001,
+    "Language": "deu",
+    "SENTENCE": "Wenn ich es nicht jetzt tue, dann werde ich es nie tun."
+  },
+  {
+    "ID": 1002,
+    "Language": "deu",
+    "SENTENCE": "Gute Nacht. Träum was Schönes."
+  },
+  {
+    "ID": 1003,
+    "Language": "deu",
+    "SENTENCE": "Dieses Lied ist so bewegend, dass es mir die Tränen in die Augen treibt."
+  },
+  {
+    "ID": 1004,
+    "Language": "deu",
+    "SENTENCE": "Es gibt viele Dinge über meine Persönlichkeit, die du nicht weißt."
+  },
+  {
+    "ID": 1005,
+    "Language": "deu",
+    "SENTENCE": "Vielleicht hast du Recht, ich war egoistisch."
+  },
+  {
+    "ID": 1006,
+    "Language": "deu",
+    "SENTENCE": "Jeder verdient eine zweite Chance."
+  },
+  {
+    "ID": 1007,
+    "Language": "deu",
+    "SENTENCE": "Ich habe gerade gesehen, dass der Botschafter Saudi-Arabiens in Washington zurückgetreten ist."
+  },
+  {
+    "ID": 1008,
+    "Language": "deu",
+    "SENTENCE": "Wenn man hingegen um Geld bittet, muss man gewisse Bedingungen annehmen."
+  },
+  {
+    "ID": 1009,
+    "Language": "deu",
+    "SENTENCE": "Was ist der Vorteil dieser Technologie?"
+  },
+  {
+    "ID": 1010,
+    "Language": "deu",
+    "SENTENCE": "Wenn Sie nicht über dieses Programm verfügen, können Sie es jetzt herunterladen."
+  },
+  {
+    "ID": 1011,
+    "Language": "deu",
+    "SENTENCE": "Der Mensch denkt, Gott lenkt."
+  },
+  {
+    "ID": 1012,
+    "Language": "deu",
+    "SENTENCE": "Die Schlagzeile fiel mir heute Morgen auf."
+  },
+  {
+    "ID": 1013,
+    "Language": "deu",
+    "SENTENCE": "Wenn du von den anderen sprichst, tust du es mit verschränkten Armen."
+  },
+  {
+    "ID": 1014,
+    "Language": "deu",
+    "SENTENCE": "Fülle das folgende Formular aus, um zu erfahren, wer du in deinem vorigen Leben gewesen sein könntest."
+  },
+  {
+    "ID": 1015,
+    "Language": "deu",
+    "SENTENCE": "Gonzales schenkt allen seinen Angestellten in Europa ein Fahrrad."
+  },
+  {
+    "ID": 1016,
+    "Language": "deu",
+    "SENTENCE": "Es gibt 1000 Filme, die man sehen muss, bevor man stirbt."
+  },
+  {
+    "ID": 1017,
+    "Language": "deu",
+    "SENTENCE": "Die Kreativität ist ein wichtiger Aspekt für die Entwicklung des Menschen."
+  },
+  {
+    "ID": 1018,
+    "Language": "deu",
+    "SENTENCE": "Die Textilindustrie wird sich in den nächsten Jahren an einen Markt des freien Wettbewerbs anpassen."
+  },
+  {
+    "ID": 1019,
+    "Language": "deu",
+    "SENTENCE": "Haben Sie Schwierigkeiten zu verstehen, was Ihnen Frauen oder kleine Kinder sagen?"
+  },
+  {
+    "ID": 1020,
+    "Language": "deu",
+    "SENTENCE": "Man muss nicht für jede Person ein anderes Gericht vorbereiten."
+  },
+  {
+    "ID": 1021,
+    "Language": "deu",
+    "SENTENCE": "Man hat mir gesagt, ich sei pragmatisch, und ich bin es."
+  },
+  {
+    "ID": 1022,
+    "Language": "deu",
+    "SENTENCE": "Ich ziehe es vor, eine Lösung für Probleme zu suchen und sie nicht nur anzuprangern."
+  },
+  {
+    "ID": 1023,
+    "Language": "deu",
+    "SENTENCE": "Ich habe keine Ideen mehr."
+  },
+  {
+    "ID": 1024,
+    "Language": "deu",
+    "SENTENCE": "Die sieben Fragen, die sich ein Ingenieur stellen muss, sind: wer, was, wann, wo, warum, wie und wie viel."
+  },
+  {
+    "ID": 1025,
+    "Language": "deu",
+    "SENTENCE": "Fragst du dich immer noch, was der Sinn des Lebens ist?"
+  },
+  {
+    "ID": 1026,
+    "Language": "deu",
+    "SENTENCE": "Wann kann man sagen, dass ein Mensch Alkoholprobleme hat?"
+  },
+  {
+    "ID": 1027,
+    "Language": "deu",
+    "SENTENCE": "Denk daran, dass wir alle im selben Boot sitzen!"
+  },
+  {
+    "ID": 1028,
+    "Language": "deu",
+    "SENTENCE": "Alles, was man über das Leben wissen muss, habe ich von einem Schneemann gelernt."
+  },
+  {
+    "ID": 1029,
+    "Language": "deu",
+    "SENTENCE": "Überprüfe, dass dein Benutzername und dein Passwort richtig geschrieben sind."
+  },
+  {
+    "ID": 1030,
+    "Language": "deu",
+    "SENTENCE": "Auf alle Fälle muss man in dem Referendum am 18. Februar mit \"ja\" abstimmen."
+  },
+  {
+    "ID": 1031,
+    "Language": "deu",
+    "SENTENCE": "Abschiede sind immer traurig."
+  },
+  {
+    "ID": 1032,
+    "Language": "deu",
+    "SENTENCE": "Vergiss uns nicht!"
+  },
+  {
+    "ID": 1033,
+    "Language": "deu",
+    "SENTENCE": "Die Zeit ist sehr schnell vergangen."
+  },
+  {
+    "ID": 1034,
+    "Language": "deu",
+    "SENTENCE": "Welcher ist Ihr Koffer?"
+  },
+  {
+    "ID": 1035,
+    "Language": "deu",
+    "SENTENCE": "Ich habe Husten und ein bisschen Fieber."
+  },
+  {
+    "ID": 1036,
+    "Language": "deu",
+    "SENTENCE": "Mach den Schrank auf der linken Seite auf, dort sind die Flaschen."
+  },
+  {
+    "ID": 1037,
+    "Language": "deu",
+    "SENTENCE": "Es gibt auch Nachtclubs, wo Flamenco getanzt wird."
+  },
+  {
+    "ID": 1038,
+    "Language": "deu",
+    "SENTENCE": "Im Eintritt ist ein Getränk inbegriffen."
+  },
+  {
+    "ID": 1039,
+    "Language": "deu",
+    "SENTENCE": "Ich schlage vor, dass wir am Freitag ausgehen."
+  },
+  {
+    "ID": 1040,
+    "Language": "deu",
+    "SENTENCE": "Meine schwarzen Schuhe müssen an den Absätzen gerichtet werden."
+  },
+  {
+    "ID": 1041,
+    "Language": "deu",
+    "SENTENCE": "So schlage ich zwei Fliegen mit einer Klappe."
+  },
+  {
+    "ID": 1042,
+    "Language": "deu",
+    "SENTENCE": "Das gefällt mir nicht so gut wie auf die Kinder aufzupassen."
+  },
+  {
+    "ID": 1043,
+    "Language": "deu",
+    "SENTENCE": "Diese Tassen gefallen mir nicht, die auf dem Tisch gefallen mir besser."
+  },
+  {
+    "ID": 1044,
+    "Language": "deu",
+    "SENTENCE": "Haben Sie Berufserfahrung?"
+  },
+  {
+    "ID": 1045,
+    "Language": "deu",
+    "SENTENCE": "Ich hatte weder Zeit zum Einkaufen noch, um mich von meiner Mutter zu verabschieden."
+  },
+  {
+    "ID": 1046,
+    "Language": "deu",
+    "SENTENCE": "Ich würde gerne den blau gestreiften Rock anprobieren."
+  },
+  {
+    "ID": 1047,
+    "Language": "deu",
+    "SENTENCE": "Wie viel Trinkgeld gibt man in Spanien?"
+  },
+  {
+    "ID": 1048,
+    "Language": "deu",
+    "SENTENCE": "Wer hat dieses Bild gemalt?"
+  },
+  {
+    "ID": 1049,
+    "Language": "deu",
+    "SENTENCE": "Um diese Zeit ist ein unglaublicher Verkehr."
+  },
+  {
+    "ID": 1050,
+    "Language": "deu",
+    "SENTENCE": "Wir Männer sind es gewohnt, auf die Frauen zu warten."
+  },
+  {
+    "ID": 1051,
+    "Language": "deu",
+    "SENTENCE": "Schämst du dich nicht, so zu reden?"
+  },
+  {
+    "ID": 1052,
+    "Language": "deu",
+    "SENTENCE": "Ich werde niemandem die Pistole auf die Brust setzen, um in Barcelona zu bleiben."
+  },
+  {
+    "ID": 1053,
+    "Language": "deu",
+    "SENTENCE": "Jetzt muss ich gehen, sie rufen gerade meinen Flug auf."
+  },
+  {
+    "ID": 1054,
+    "Language": "deu",
+    "SENTENCE": "Er ist Argentinier und gibt Tennisunterricht."
+  },
+  {
+    "ID": 1055,
+    "Language": "deu",
+    "SENTENCE": "Könnten Sie uns erklären, wie die Spülmaschine funktioniert?"
+  },
+  {
+    "ID": 1056,
+    "Language": "deu",
+    "SENTENCE": "Zeigen Sie mir das bitte auf dem Plan."
+  },
+  {
+    "ID": 1057,
+    "Language": "deu",
+    "SENTENCE": "Der Wasserhahn tropft."
+  },
+  {
+    "ID": 1058,
+    "Language": "deu",
+    "SENTENCE": "Sagen Sie uns bitte, wo ein Lebensmittelgeschäft ist."
+  },
+  {
+    "ID": 1059,
+    "Language": "deu",
+    "SENTENCE": "Ich möchte meine Wertsachen abholen."
+  },
+  {
+    "ID": 1061,
+    "Language": "deu",
+    "SENTENCE": "Ich habe einen Herzschrittmacher."
+  },
+  {
+    "ID": 1062,
+    "Language": "deu",
+    "SENTENCE": "Ich hätte gerne Batterien für dieses Gerät."
+  },
+  {
+    "ID": 1063,
+    "Language": "deu",
+    "SENTENCE": "Kann ich mit Kreditkarte bezahlen?"
+  },
+  {
+    "ID": 1064,
+    "Language": "deu",
+    "SENTENCE": "Schneiden, waschen und föhnen bitte."
+  },
+  {
+    "ID": 1065,
+    "Language": "deu",
+    "SENTENCE": "Wir brauchen einen Krankenwagen."
+  },
+  {
+    "ID": 1066,
+    "Language": "deu",
+    "SENTENCE": "Wir vermuten, dass es sich um eine Vergiftung durch Schlangenbiss handelt."
+  },
+  {
+    "ID": 1067,
+    "Language": "deu",
+    "SENTENCE": "Ich füttere jeden Morgen und jeden Abend meinen Kater."
+  },
+  {
+    "ID": 1068,
+    "Language": "deu",
+    "SENTENCE": "Könnten Sie das bitte wiederholen?"
+  },
+  {
+    "ID": 1069,
+    "Language": "deu",
+    "SENTENCE": "Wer besucht im Allgemeinen öfter seine Eltern, die Söhne oder die Töchter?"
+  },
+  {
+    "ID": 1070,
+    "Language": "deu",
+    "SENTENCE": "Es würde dich allerdings weniger kosten, wenn du bei uns übernachten würdest."
+  },
+  {
+    "ID": 1071,
+    "Language": "deu",
+    "SENTENCE": "Das bekommen Sie in einer Drogerie."
+  },
+  {
+    "ID": 1072,
+    "Language": "deu",
+    "SENTENCE": "Jeder Arbeiter ist seines Lohnes wert."
+  },
+  {
+    "ID": 1073,
+    "Language": "deu",
+    "SENTENCE": "Es kostet ein Vermögen."
+  },
+  {
+    "ID": 1074,
+    "Language": "deu",
+    "SENTENCE": "An erster Stelle möchte ich meinem Doktorvater Dr. Juan Pisto besonderen Dank aussprechen für seine Geduld, seine Anstrengungen und seine Hingabe."
+  },
+  {
+    "ID": 1075,
+    "Language": "deu",
+    "SENTENCE": "Wieso fiel es dermaßen schwer zu begründen, dass die Nervenzelle die Grundeinheit des Nervengewebes ist?"
+  },
+  {
+    "ID": 1076,
+    "Language": "deu",
+    "SENTENCE": "Nicht die materielle Seite bestimmt unser Leben, sondern die spirituelle Seite."
+  },
+  {
+    "ID": 1077,
+    "Language": "deu",
+    "SENTENCE": "Mehr als 90 Prozent der Besuche einer Website kommen von den Suchmaschinen."
+  },
+  {
+    "ID": 1078,
+    "Language": "deu",
+    "SENTENCE": "Ich brauche deinen Rat."
+  },
+  {
+    "ID": 1079,
+    "Language": "deu",
+    "SENTENCE": "Der Gitarrist von Bang wird laut einer Ankündigung des Sprechers der Band zum zweiten Mal Vater."
+  },
+  {
+    "ID": 1080,
+    "Language": "deu",
+    "SENTENCE": "Dennoch leugnet die Sängerin ihre Herkunft nicht."
+  },
+  {
+    "ID": 1081,
+    "Language": "deu",
+    "SENTENCE": "Weißt du zufällig, wo ich meine Schlüssel hingelegt habe?"
+  },
+  {
+    "ID": 1082,
+    "Language": "deu",
+    "SENTENCE": "Ich bereite mich auf das Schlimmste vor..."
+  },
+  {
+    "ID": 1083,
+    "Language": "deu",
+    "SENTENCE": "Warum hast du mich aufgeweckt, um mir etwas so wichtiges zu erzählen? Jetzt werde ich mich nie auf meine Arbeit konzentrieren können!"
+  },
+  {
+    "ID": 1084,
+    "Language": "deu",
+    "SENTENCE": "Das klingt interessant. Was hast du ihr erzählt?"
+  },
+  {
+    "ID": 1085,
+    "Language": "deu",
+    "SENTENCE": "Ich wusste, dass es Plastik war, aber es schmeckte wie Holz."
+  },
+  {
+    "ID": 1086,
+    "Language": "deu",
+    "SENTENCE": "Manchmal sorgt sich Spenser so sehr um Trang, dass er sie dazu bringt, zu glauben, dass er überfürsorglich ist."
+  },
+  {
+    "ID": 1087,
+    "Language": "deu",
+    "SENTENCE": "Es gibt Dinge in dieser Welt, die man einfach nicht mit Worten ausdrücken kann."
+  },
+  {
+    "ID": 1088,
+    "Language": "deu",
+    "SENTENCE": "Die Funktionen Sinus und Cosinus nehmen Werte zwischen -1 und 1 an (-1 und 1 eingeschlossen)."
+  },
+  {
+    "ID": 1089,
+    "Language": "deu",
+    "SENTENCE": "Dieses Semester werden wir in Numerik Ausgleichsrechnung machen und Eigenwertprobleme behandeln."
+  },
+  {
+    "ID": 1090,
+    "Language": "deu",
+    "SENTENCE": "Die Analysisvorlesung beginnt mit den Grundbegriffen mathematischer Logik, wichtigen Beweistechniken, und der Konstruktion der reellen und komplexen Zahlen."
+  },
+  {
+    "ID": 1091,
+    "Language": "deu",
+    "SENTENCE": "Ich bin gegen die Benutzung des Todes als Strafe. Ich bin genauso gegen seine Benutzung als Belohnung."
+  },
+  {
+    "ID": 1092,
+    "Language": "deu",
+    "SENTENCE": "Die zweite Hälfte des Lebens eines Menschen besteht nur aus den Gewohnheiten, die er sich während der ersten Hälfte angeeignet hat."
+  },
+  {
+    "ID": 1093,
+    "Language": "deu",
+    "SENTENCE": "Kann ich bei dir bleiben? Ich habe keinen Ort, wo ich hingehen könnte."
+  },
+  {
+    "ID": 1094,
+    "Language": "deu",
+    "SENTENCE": "Wenn wir bloß aufhören würden zu versuchen, glücklich zu sein, könnten wir eine sehr schöne Zeit haben."
+  },
+  {
+    "ID": 1095,
+    "Language": "deu",
+    "SENTENCE": "Pass gut auf dich auf."
+  },
+  {
+    "ID": 1096,
+    "Language": "deu",
+    "SENTENCE": "Wir jagen einem idealen Leben hinterher, weil wir in uns den Anfang und die Möglichkeit dazu haben."
+  },
+  {
+    "ID": 1097,
+    "Language": "deu",
+    "SENTENCE": "Der Tod ist nur ein Horizont; und ein Horizont ist nichts anderes als die Grenze unseres Blickfeldes."
+  },
+  {
+    "ID": 1098,
+    "Language": "deu",
+    "SENTENCE": "Die wissenschaftliche Theorie, die mir am besten gefällt, ist, dass die Ringe des Saturn vollständig aus verlorenem Gepäck bestehen."
+  },
+  {
+    "ID": 1099,
+    "Language": "deu",
+    "SENTENCE": "Die einzige Möglichkeit auf der Erde, Glück zu vervielfachen, ist, es zu teilen."
+  },
+  {
+    "ID": 1100,
+    "Language": "deu",
+    "SENTENCE": "Ein bekannter Fehler ist besser als eine unbekannte Wahrheit."
+  },
+  {
+    "ID": 1101,
+    "Language": "deu",
+    "SENTENCE": "Das Leben ist keine exakte Wissenschaft, es ist eine Kunst."
+  },
+  {
+    "ID": 1102,
+    "Language": "deu",
+    "SENTENCE": "Alles ist theoretisch unmöglich, bis es gemacht wurde."
+  },
+  {
+    "ID": 1103,
+    "Language": "deu",
+    "SENTENCE": "Bevor ihr nicht Frieden schließt mit dem, was ihr seid, werdet ihr nie zufrieden sein mit dem, was ihr habt."
+  },
+  {
+    "ID": 1104,
+    "Language": "deu",
+    "SENTENCE": "Du könntest enttäuscht werden, wenn du scheiterst, aber du bist verurteilt, wenn du es nicht versuchst."
+  },
+  {
+    "ID": 1105,
+    "Language": "deu",
+    "SENTENCE": "Langeweile ist das Gefühl, dass alles Zeitverschwendung ist; Abgeklärtheit, dass nichts es ist."
+  },
+  {
+    "ID": 1106,
+    "Language": "deu",
+    "SENTENCE": "Vergesst nie, was es bedeutet, einen wundervollen Sonnenaufgang zu sehen, seine Kinder beim Schlafen zu beobachten oder den Regen zu riechen. Es sind oft die kleinen Dinge, die wirklich wichtig sind im Leben."
+  },
+  {
+    "ID": 1107,
+    "Language": "deu",
+    "SENTENCE": "Es gibt keine Distanz auf der Erde, die so weit entfernt ist wie gestern."
+  },
+  {
+    "ID": 1108,
+    "Language": "deu",
+    "SENTENCE": "Nur die, die riskieren, zu weit zu gehen, werden erfahren, wie weit man gehen kann."
+  },
+  {
+    "ID": 1109,
+    "Language": "deu",
+    "SENTENCE": "Jeder Mensch hält die Grenzen seines eigenen Blickfeldes für die Grenzen der Welt."
+  },
+  {
+    "ID": 1110,
+    "Language": "deu",
+    "SENTENCE": "Wir können durch die Zeit reisen. Und wir tun es mit der bemerkenswerten Geschwindigkeit von einer Sekunde pro Sekunde."
+  },
+  {
+    "ID": 1111,
+    "Language": "deu",
+    "SENTENCE": "Das eigentliche Problem ist nicht herauszufinden, ob Maschinen denken, sondern ob die Menschen es tun."
+  },
+  {
+    "ID": 1112,
+    "Language": "deu",
+    "SENTENCE": "Mein Interesse gilt der Zukunft, denn in ihr werde ich den Rest meines Lebens verbringen."
+  },
+  {
+    "ID": 1113,
+    "Language": "deu",
+    "SENTENCE": "Die Welt ist ein Buch, und die, die nicht reisen, lesen nur eine Seite."
+  },
+  {
+    "ID": 1114,
+    "Language": "deu",
+    "SENTENCE": "Das Problem mit vielen Dingen sind die vorgefassten Ideen, die wir über sie haben!"
+  },
+  {
+    "ID": 1116,
+    "Language": "deu",
+    "SENTENCE": "Die beste Art, die Zukunft vorherzusagen, ist, sie zu erfinden."
+  },
+  {
+    "ID": 1117,
+    "Language": "deu",
+    "SENTENCE": "Werbung könnte man beschreiben als die Wissenschaft davon, wie man die menschliche Intelligenz lange genug ausschaltet, um Geld daraus zu gewinnen."
+  },
+  {
+    "ID": 1118,
+    "Language": "deu",
+    "SENTENCE": "Wenn wir wüssten, was wir tun, würde man es nicht Forschung nennen, oder?"
+  },
+  {
+    "ID": 1119,
+    "Language": "deu",
+    "SENTENCE": "Für den, der nur einen Hammer im Werkzeugkasten hat, sieht jedes Problem wie ein Nagel aus."
+  },
+  {
+    "ID": 1120,
+    "Language": "deu",
+    "SENTENCE": "Nichts ist unmöglich für den, der es nicht selbst machen muss."
+  },
+  {
+    "ID": 1121,
+    "Language": "deu",
+    "SENTENCE": "Es ist nicht die stärkste Spezies, die überlebt, auch nicht die intelligenteste, sondern die reaktionsfähigste gegenüber Veränderungen."
+  },
+  {
+    "ID": 1122,
+    "Language": "deu",
+    "SENTENCE": "Ich denke, es ist gut, dass Bücher noch existieren, aber sie machen mich schläfrig."
+  },
+  {
+    "ID": 1123,
+    "Language": "deu",
+    "SENTENCE": "Ich verstehe nicht, wieso neue Ideen den Menschen Angst machen. Mir machen die alten Angst."
+  },
+  {
+    "ID": 1124,
+    "Language": "deu",
+    "SENTENCE": "Hoffnung ist keine Strategie."
+  },
+  {
+    "ID": 1125,
+    "Language": "deu",
+    "SENTENCE": "Japan ist voll von wunderschönen Städten. Kyoto und Nara zum Beispiel."
+  },
+  {
+    "ID": 1126,
+    "Language": "deu",
+    "SENTENCE": "Wenden Sie sich an meinen Kollegen."
+  },
+  {
+    "ID": 1127,
+    "Language": "deu",
+    "SENTENCE": "Die Akte wurde ans Ministerium geschickt."
+  },
+  {
+    "ID": 1128,
+    "Language": "deu",
+    "SENTENCE": "Sie sind nur in ihrem Reden mutig."
+  },
+  {
+    "ID": 1129,
+    "Language": "deu",
+    "SENTENCE": "Sie warten vor der Tür auf dich."
+  },
+  {
+    "ID": 1130,
+    "Language": "deu",
+    "SENTENCE": "Hast du einen Bleistift dabei?"
+  },
+  {
+    "ID": 1131,
+    "Language": "deu",
+    "SENTENCE": "Wem gehört das?"
+  },
+  {
+    "ID": 1132,
+    "Language": "deu",
+    "SENTENCE": "Seit Mario mich angelogen hat, spreche ich nicht mehr mit ihm."
+  },
+  {
+    "ID": 1133,
+    "Language": "deu",
+    "SENTENCE": "Das ist nicht seine Sache."
+  },
+  {
+    "ID": 1134,
+    "Language": "deu",
+    "SENTENCE": "Nimm deine Sachen und geh."
+  },
+  {
+    "ID": 1135,
+    "Language": "deu",
+    "SENTENCE": "Er hat sich aus der Affäre gezogen."
+  },
+  {
+    "ID": 1136,
+    "Language": "deu",
+    "SENTENCE": "Man muss den Worten Taten folgen lassen."
+  },
+  {
+    "ID": 1137,
+    "Language": "deu",
+    "SENTENCE": "Das lasse ich mir nicht zweimal sagen."
+  },
+  {
+    "ID": 1138,
+    "Language": "deu",
+    "SENTENCE": "Hände runter!"
+  },
+  {
+    "ID": 1139,
+    "Language": "deu",
+    "SENTENCE": "Hacker finden neue Mittel und Wege, um in private und öffentliche Netze einzudringen."
+  },
+  {
+    "ID": 1140,
+    "Language": "deu",
+    "SENTENCE": "Das Flugzeug wurde wegen Nebel nach München umgeleitet."
+  },
+  {
+    "ID": 1141,
+    "Language": "deu",
+    "SENTENCE": "Wer zuletzt lacht, lacht am besten."
+  },
+  {
+    "ID": 1142,
+    "Language": "deu",
+    "SENTENCE": "Je eher, desto besser."
+  },
+  {
+    "ID": 1143,
+    "Language": "deu",
+    "SENTENCE": "Das ist nicht ganz richtig."
+  },
+  {
+    "ID": 1144,
+    "Language": "deu",
+    "SENTENCE": "Man sieht ihm sein Alter nicht an."
+  },
+  {
+    "ID": 1145,
+    "Language": "deu",
+    "SENTENCE": "Magst du Rap?"
+  },
+  {
+    "ID": 1146,
+    "Language": "deu",
+    "SENTENCE": "Ich liebe Reisen."
+  },
+  {
+    "ID": 1148,
+    "Language": "deu",
+    "SENTENCE": "Das habe ich wirklich nicht von dir erwartet."
+  },
+  {
+    "ID": 1149,
+    "Language": "deu",
+    "SENTENCE": "Ich warte seit Stunden."
+  },
+  {
+    "ID": 1150,
+    "Language": "deu",
+    "SENTENCE": "Er starb in hohem Alter."
+  },
+  {
+    "ID": 1151,
+    "Language": "deu",
+    "SENTENCE": "Er ist ein alter Hase."
+  },
+  {
+    "ID": 1153,
+    "Language": "deu",
+    "SENTENCE": "Wir sind, was wir vorgeben zu sein, also müssen wir vorsichtig sein mit dem, was wir vorgeben zu sein."
+  },
+  {
+    "ID": 1154,
+    "Language": "deu",
+    "SENTENCE": "Ich kenne ihn nicht."
+  },
+  {
+    "ID": 1155,
+    "Language": "deu",
+    "SENTENCE": "Der Film hat mir gefallen."
+  },
+  {
+    "ID": 1156,
+    "Language": "deu",
+    "SENTENCE": "Sie schwimmt im Geld."
+  },
+  {
+    "ID": 1157,
+    "Language": "deu",
+    "SENTENCE": "Das ist nicht wichtig."
+  },
+  {
+    "ID": 1158,
+    "Language": "deu",
+    "SENTENCE": "Ich wollte gerade gehen, als das Telefon klingelte."
+  },
+  {
+    "ID": 1159,
+    "Language": "deu",
+    "SENTENCE": "Schau gut hin. Ich werde dir zeigen, wie man es macht."
+  },
+  {
+    "ID": 1160,
+    "Language": "deu",
+    "SENTENCE": "Ich gehe jeden Morgen einkaufen."
+  },
+  {
+    "ID": 1161,
+    "Language": "deu",
+    "SENTENCE": "Die Leute müssen verstehen, dass sich die Welt ändert."
+  },
+  {
+    "ID": 1163,
+    "Language": "deu",
+    "SENTENCE": "Zweiundfünfzig Prozent der britischen Frauen ziehen Schokolade dem Sex vor."
+  },
+  {
+    "ID": 1164,
+    "Language": "deu",
+    "SENTENCE": "Fast die Hälfte der Männer in Großbritannien schenkt ihrer Partnerin regelmäßig Schokolade, besonders zu deren Geburtstag."
+  },
+  {
+    "ID": 1165,
+    "Language": "deu",
+    "SENTENCE": "Der Fluss hat die ganze Region überschwemmt."
+  },
+  {
+    "ID": 1166,
+    "Language": "deu",
+    "SENTENCE": "Das Problem hat sich von selbst gelöst."
+  },
+  {
+    "ID": 1167,
+    "Language": "deu",
+    "SENTENCE": "Mir gefallen diese Anmerkungen nicht."
+  },
+  {
+    "ID": 1168,
+    "Language": "deu",
+    "SENTENCE": "Das sind ganz und gar gegensätzliche Meinungen."
+  },
+  {
+    "ID": 1169,
+    "Language": "deu",
+    "SENTENCE": "Wie alt sind Sie?"
+  },
+  {
+    "ID": 1170,
+    "Language": "deu",
+    "SENTENCE": "Ich bin überhaupt nicht überzeugt."
+  },
+  {
+    "ID": 1171,
+    "Language": "deu",
+    "SENTENCE": "Wieso wollen Sie heute abfahren?"
+  },
+  {
+    "ID": 1172,
+    "Language": "deu",
+    "SENTENCE": "Ich werde das Auto nehmen."
+  },
+  {
+    "ID": 1173,
+    "Language": "deu",
+    "SENTENCE": "Das ist zu schön, um wahr zu sein."
+  },
+  {
+    "ID": 1174,
+    "Language": "deu",
+    "SENTENCE": "Wenn Sie jemandem 20$ leihen und sie diesen Menschen nie wiedersehen, dann war es das wahrscheinlich wert."
+  },
+  {
+    "ID": 1175,
+    "Language": "deu",
+    "SENTENCE": "Man kann nicht das Unmögliche vollbringen, ohne das Absurde zu versuchen."
+  },
+  {
+    "ID": 1176,
+    "Language": "deu",
+    "SENTENCE": "Man darf sich nur auf sich selbst verlassen. Und auch das nicht zu sehr."
+  },
+  {
+    "ID": 1177,
+    "Language": "deu",
+    "SENTENCE": "Während des Unterrichts still zu sein, bedeutet, den Schlaf der anderen zu respektieren."
+  },
+  {
+    "ID": 1178,
+    "Language": "deu",
+    "SENTENCE": "Coles Axiom: Die Summe der Intelligenz auf der Erde ist eine Konstante; die Bevölkerung wächst ständig."
+  },
+  {
+    "ID": 1179,
+    "Language": "deu",
+    "SENTENCE": "Wenn Sie einen Mann auf sich zukommen sehen in der offenkundigen Absicht, Ihnen etwas Gutes zu tun, dann sollten Sie um Ihr Leben rennen."
+  },
+  {
+    "ID": 1180,
+    "Language": "deu",
+    "SENTENCE": "Wir lernen aus der Erfahrung, dass die Menschen nie etwas aus der Erfahrung lernen."
+  },
+  {
+    "ID": 1182,
+    "Language": "deu",
+    "SENTENCE": "Wie der Vater, so der Sohn."
+  },
+  {
+    "ID": 1183,
+    "Language": "deu",
+    "SENTENCE": "Solange es Leben gibt, gibt es Hoffnung."
+  },
+  {
+    "ID": 1184,
+    "Language": "deu",
+    "SENTENCE": "Ich habe es nicht mit Absicht gemacht."
+  },
+  {
+    "ID": 1185,
+    "Language": "deu",
+    "SENTENCE": "Alle Wege führen nach Rom."
+  },
+  {
+    "ID": 1186,
+    "Language": "deu",
+    "SENTENCE": "Morgenstund hat Gold im Mund."
+  },
+  {
+    "ID": 1187,
+    "Language": "deu",
+    "SENTENCE": "Im Leben gibt es Höhen und Tiefen."
+  },
+  {
+    "ID": 1188,
+    "Language": "deu",
+    "SENTENCE": "Über Geschmack lässt sich nicht streiten."
+  },
+  {
+    "ID": 1189,
+    "Language": "deu",
+    "SENTENCE": "Man kann nicht auf zwei Hochzeiten gleichzeitig tanzen."
+  },
+  {
+    "ID": 1191,
+    "Language": "deu",
+    "SENTENCE": "Nachts sind alle Katzen grau."
+  },
+  {
+    "ID": 1192,
+    "Language": "deu",
+    "SENTENCE": "Bring mir bei, wie man es macht."
+  },
+  {
+    "ID": 1193,
+    "Language": "deu",
+    "SENTENCE": "Wer auf die Jagd geht, verliert seine Stelle."
+  },
+  {
+    "ID": 1194,
+    "Language": "deu",
+    "SENTENCE": "Kindermund tut Wahrheit kund."
+  },
+  {
+    "ID": 1195,
+    "Language": "deu",
+    "SENTENCE": "Keine Nachricht, gute Nachricht."
+  },
+  {
+    "ID": 1196,
+    "Language": "deu",
+    "SENTENCE": "Wenn Sie denken, dass Bildung teuer ist, dann warten Sie erstmal bis Sie sehen, was Unwissenheit kostet."
+  },
+  {
+    "ID": 1197,
+    "Language": "deu",
+    "SENTENCE": "Der Staat konnte die Erwartungen der Bürger nicht erfüllen."
+  },
+  {
+    "ID": 1198,
+    "Language": "deu",
+    "SENTENCE": "Das habe ich erwartet!"
+  },
+  {
+    "ID": 1199,
+    "Language": "deu",
+    "SENTENCE": "Ich erwarte nichts von dir."
+  },
+  {
+    "ID": 1200,
+    "Language": "deu",
+    "SENTENCE": "Warten Sie im Wartezimmer."
+  },
+  {
+    "ID": 1201,
+    "Language": "deu",
+    "SENTENCE": "Mehr Leute kriegen Schwierigkeiten wegen dem, was sie sagen, als wegen dem, was sie tun."
+  },
+  {
+    "ID": 1202,
+    "Language": "deu",
+    "SENTENCE": "Warum misst du diesem Zwischenfall Wert bei?"
+  },
+  {
+    "ID": 1203,
+    "Language": "deu",
+    "SENTENCE": "Leute, die für dich lügen würden, würden dich anlügen."
+  },
+  {
+    "ID": 1205,
+    "Language": "deu",
+    "SENTENCE": "Es gibt keine Lösung."
+  },
+  {
+    "ID": 1206,
+    "Language": "deu",
+    "SENTENCE": "Ich wusste nicht, dass er so viel trinkt."
+  },
+  {
+    "ID": 1207,
+    "Language": "deu",
+    "SENTENCE": "Das geschieht dir recht."
+  },
+  {
+    "ID": 1208,
+    "Language": "deu",
+    "SENTENCE": "Willst du einen Fruchtsaft?"
+  },
+  {
+    "ID": 1209,
+    "Language": "deu",
+    "SENTENCE": "Er ist ein guter Mensch."
+  },
+  {
+    "ID": 1210,
+    "Language": "deu",
+    "SENTENCE": "Mach's, wie du es für richtig hältst."
+  },
+  {
+    "ID": 1211,
+    "Language": "deu",
+    "SENTENCE": "Guten Appetit!"
+  },
+  {
+    "ID": 1212,
+    "Language": "deu",
+    "SENTENCE": "Keine Liebe ohne Eifersucht."
+  },
+  {
+    "ID": 1213,
+    "Language": "deu",
+    "SENTENCE": "Keine Liebe ist hässlich, kein Gefängnis schön."
+  },
+  {
+    "ID": 1214,
+    "Language": "deu",
+    "SENTENCE": "Keine lebende Seele war da."
+  },
+  {
+    "ID": 1215,
+    "Language": "deu",
+    "SENTENCE": "Wir sind aus dem gleichen Holz geschnitzt."
+  },
+  {
+    "ID": 1217,
+    "Language": "deu",
+    "SENTENCE": "Die Wände haben Ohren."
+  },
+  {
+    "ID": 1218,
+    "Language": "deu",
+    "SENTENCE": "Ich habe einen Frosch im Hals."
+  },
+  {
+    "ID": 1219,
+    "Language": "deu",
+    "SENTENCE": "Es regt mich auf, nicht herauszufinden, wo mein Rechenfehler ist."
+  },
+  {
+    "ID": 1220,
+    "Language": "deu",
+    "SENTENCE": "Fühlen Sie sich wie zu Hause."
+  },
+  {
+    "ID": 1221,
+    "Language": "deu",
+    "SENTENCE": "Wenn es nicht wahr ist, so ist es doch gut erfunden."
+  },
+  {
+    "ID": 1222,
+    "Language": "deu",
+    "SENTENCE": "Mali ist eines der ärmsten Länder Afrikas südlich der Saharawüste."
+  },
+  {
+    "ID": 1223,
+    "Language": "deu",
+    "SENTENCE": "Wieso kommst du nicht mit uns?"
+  },
+  {
+    "ID": 1224,
+    "Language": "deu",
+    "SENTENCE": "In großen Städten kann man sich nicht verirren, dort gibt es überall Karten!"
+  },
+  {
+    "ID": 1225,
+    "Language": "deu",
+    "SENTENCE": "Er ist mehrmals gekommen."
+  },
+  {
+    "ID": 1226,
+    "Language": "deu",
+    "SENTENCE": "Wir fragen uns, wieso."
+  },
+  {
+    "ID": 1227,
+    "Language": "deu",
+    "SENTENCE": "Ich werde ein Bad nehmen."
+  },
+  {
+    "ID": 1228,
+    "Language": "deu",
+    "SENTENCE": "Wenn man zu viel isst, wird man dick."
+  },
+  {
+    "ID": 1229,
+    "Language": "deu",
+    "SENTENCE": "Ich weiß nicht, ob er das für mich getan hätte."
+  },
+  {
+    "ID": 1230,
+    "Language": "deu",
+    "SENTENCE": "Würdest du gerne kommen?"
+  },
+  {
+    "ID": 1231,
+    "Language": "deu",
+    "SENTENCE": "Sie wäre gerne gekommen, aber sie hatte Ferien."
+  },
+  {
+    "ID": 1232,
+    "Language": "deu",
+    "SENTENCE": "Ich dachte, es wäre wahr."
+  },
+  {
+    "ID": 1233,
+    "Language": "deu",
+    "SENTENCE": "Das ist die Stadt, von der ich dir erzählt habe."
+  },
+  {
+    "ID": 1234,
+    "Language": "deu",
+    "SENTENCE": "Das ist der Junge, an den ich denke."
+  },
+  {
+    "ID": 1235,
+    "Language": "deu",
+    "SENTENCE": "Man hat ihn mehrmals gewarnt."
+  },
+  {
+    "ID": 1236,
+    "Language": "deu",
+    "SENTENCE": "Ich muss das Buch vor Samstag zurückgeben."
+  },
+  {
+    "ID": 1237,
+    "Language": "deu",
+    "SENTENCE": "Wir haben uns so sehr bemüht, die Dinge für unsere Kinder zu verbessern, dass wir sie verschlechtert haben."
+  },
+  {
+    "ID": 1238,
+    "Language": "deu",
+    "SENTENCE": "Hallo, ich wollte dir nur mitteilen, dass das Problem gelöst ist."
+  },
+  {
+    "ID": 1239,
+    "Language": "deu",
+    "SENTENCE": "Wie kannst du einen Laptop und kein Handy haben?"
+  },
+  {
+    "ID": 1240,
+    "Language": "deu",
+    "SENTENCE": "Ich bin mit Freunden ein Bier trinken gegangen."
+  },
+  {
+    "ID": 1241,
+    "Language": "deu",
+    "SENTENCE": "Er ist aus dem Fenster gesprungen."
+  },
+  {
+    "ID": 1242,
+    "Language": "deu",
+    "SENTENCE": "Sie haben sich gestritten."
+  },
+  {
+    "ID": 1243,
+    "Language": "deu",
+    "SENTENCE": "Ich habe Kaviar gegessen."
+  },
+  {
+    "ID": 1244,
+    "Language": "deu",
+    "SENTENCE": "Er hat sich sehr verändert seit dem letzten Mal."
+  },
+  {
+    "ID": 1245,
+    "Language": "deu",
+    "SENTENCE": "Sie haben den falschen Schlüssel genommen."
+  },
+  {
+    "ID": 1246,
+    "Language": "deu",
+    "SENTENCE": "Wie viel kostet es?"
+  },
+  {
+    "ID": 1248,
+    "Language": "deu",
+    "SENTENCE": "Ich bringe Ihnen sofort die Rechnung."
+  },
+  {
+    "ID": 1249,
+    "Language": "deu",
+    "SENTENCE": "Ich werde mit Scheck zahlen."
+  },
+  {
+    "ID": 1250,
+    "Language": "deu",
+    "SENTENCE": "Hast du ein Trinkgeld dagelassen?"
+  },
+  {
+    "ID": 1251,
+    "Language": "deu",
+    "SENTENCE": "Vergessen Sie den Kassenzettel nicht."
+  },
+  {
+    "ID": 1252,
+    "Language": "deu",
+    "SENTENCE": "Tut mir leid, ich habe kein Kleingeld."
+  },
+  {
+    "ID": 1253,
+    "Language": "deu",
+    "SENTENCE": "Die Situation ist schlimmer, als wir dachten."
+  },
+  {
+    "ID": 1254,
+    "Language": "deu",
+    "SENTENCE": "Wir müssen mit dem Schlimmsten rechnen."
+  }
+]
