@@ -53,7 +53,7 @@
                 padding: 0;
 
                 /* prevent text selection */
-                -webkit-touch-callout: none;
+                -webkit-touch-callout: default;
                 -webkit-user-select: none;
                 -khtml-user-select: none;
                 -moz-user-select: none;
@@ -107,16 +107,16 @@
             $("#wordblock").sortable();
             $("#wordblock").disableSelection();
             let d_word = word.split(' ');
-            console.log(d_word)
+            //console.log(d_word)
             shuffle(d_word);
-            console.log(d_word)
+            //console.log(d_word)
             const lis = [];
 
             for (let i = 0; i < d_word.length; i++) {
                 lis.push('<li class="ui-state-default">' + d_word[i] +
                         '</li>')
             }
-            console.log(lis)
+            //console.log(lis)
             $('#wordblock').html(lis.join(''));
             $('#wordblock').mouseup(function () {
             setTimeout(() => {
@@ -126,7 +126,7 @@
                     r_word_b += ' ';
                 });
                 let r_word = r_word_b.trim();
-                console.log(r_word)
+                //console.log(r_word)
                 if (r_word == word) {
                     // Correct, you found it
                     document.getElementById("Correct_text").innerHTML = "<i class='bx bx-check'></i> Correct <br/> "+word;
