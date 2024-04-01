@@ -151,6 +151,37 @@
         document.getElementById("Correct_text").innerHTML = "The Correct answer is: <br/> "+word;
         document.getElementById("Correct_text").style = "color:--ui-color-brand";
        }
+       
+       function speak(text) {
+            if ('speechSynthesis' in window) {
+                var utterance = new SpeechSynthesisUtterance(text);
+                // Set language to German
+                utterance.lang = 'de-DE';
+
+                // Adjust pitch
+                utterance.pitch = 1.0; // Adjust as needed
+
+                // Adjust rate
+                utterance.rate = 0.7; // Adjust as needed
+
+                // Adjust volume
+                utterance.volume = 1.0; // Adjust as needed
+
+                // Select a specific voice
+                var voices = window.speechSynthesis.getVoices();
+                var selectedVoice = voices.find(voice => voice.lang === 'de-DE');
+                utterance.voice = selectedVoice;
+
+                window.speechSynthesis.speak(utterance);
+            } else {
+                alert('Sprachsynthese wird von Ihrem Browser nicht unterstützt. Bitte verwenden Sie einen anderen Browser.');
+            }
+        }
+
+       function hear(){
+            speak(word)
+       }
+
         </script>
 
         <main role="main">
@@ -176,12 +207,16 @@
                             <a onclick = "currectanswer()"  role="link" aria-label="#"
                                 class="ui-component-button ui-component-button-normal ui-component-button-primary"
                                 style="margin: 10px;">
-                                Richtig </a>
+                                Richtig - Correct </a>
                             <a href="/de" role="link"
                                 aria-label="#"
                                 class="ui-component-button ui-component-button-normal ui-component-button-primary"
                                 style="background-color: #FF914D;margin: 10px;color: #000;">
-                                Noch ein Satz</a>
+                                Noch ein Satz - Another sentence</a>
+                                <a onclick = "hear()"  role="link" aria-label="#"
+                                class="ui-component-button ui-component-button-normal ui-component-button-primary"
+                                style="margin: 10px;">
+                                Hören - Listen </a>
                         </div>
                     </div>
                 </div>
